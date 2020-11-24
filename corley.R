@@ -32,25 +32,32 @@ d.sum = group_by(d, condcode, boost) %>% summarise(m=mean(respcode),
 d.sum  %>% group_by(boost) %>% arrange(condcode) %>%
   mutate(x = effect - lag(effect))
 
-priors.corley <-c(set_prior("normal(0, 2)", class = "Intercept"),
-                  set_prior("normal(0, 2)", class = "b"),
+priors.corley <-c(set_prior("normal(0, 1)", class = "Intercept"),
+                  set_prior("normal(0, 1)", class = "b"),
                   set_prior("normal(0, .1)", class = "sd"),
                   set_prior("lkj(2)", class = "L"))
 
 priors.corley.simple <-c(set_prior("normal(0, 2)", class = "Intercept"),
-                  set_prior("normal(0, 2)", class = "b"),
-                  set_prior("normal(0, .1)", class = "sd"))
+                         set_prior("normal(0, 2)", class = "b"),
+                         set_prior("normal(0, .1)", class = "sd"))
 
-d = mutate(d, c.boost.prime = case_when(condcode == .5 & boost == .5 ~ 1,
-                                        condcode == -.5 & boost == .5 ~ -1,
+
+d = mutate(d, c.boost.prime = case_when(condcode == .5 & boost == .5 ~ .5,
+                                        condcode == -.5 & boost == .5 ~ -.5,
                                         TRUE ~ 0),
-           c.noboost.prime = case_when(condcode == .5 & boost == -.5 ~ 1,
-                                       condcode == -.5 & boost == -.5 ~ -1,
+           c.noboost.prime = case_when(condcode == .5 & boost == -.5 ~ .5,
+                                       condcode == -.5 & boost == -.5 ~ -.5,
                                        TRUE ~ 0),
-           c.boost = case_when(boost == .5 ~ 1,
-                               boost == -.5 ~ -1),
-           c.prime = case_when(condcode == .5 ~ 1,
-                               condcode == -.5 ~ -1))
+           c.boost = case_when(boost == .5 ~ .5,
+                               boost == -.5 ~ -.5),
+           c.prime = case_when(condcode == .5 ~ .5,
+                               condcode == -.5 ~ -.5))
+
+d$boost = as.factor(d$boost)
+d$condcode = as.factor(d$condcode)
+contrasts(d$boost) = c(-.5, .5)
+contrasts(d$condcode) = c(-.5, .5)
+
 
 l.corley.cont = brm(respcode  ~ c.boost.prime + c.noboost.prime + c.boost +
                       (c.boost.prime + c.noboost.prime + c.boost | subj) +
@@ -59,122 +66,13 @@ l.corley.cont = brm(respcode  ~ c.boost.prime + c.noboost.prime + c.boost +
                     data=d,
                     cores =2,
                     chains=2,
-                    iter=8000,
+                    iter=2000,
                     prior = priors.corley, 
                     save_all_pars = T)
 
-l.corley.cont.simple = brm(respcode  ~ c.boost.prime + c.noboost.prime + c.boost +
-                      (c.boost.prime + c.noboost.prime  || subj) +
-                      (c.boost.prime + c.noboost.prime  || item),
-                    family="bernoulli",
-                    data=d,
-                    cores=2,
-                    chains=2,
-                    iter=8000,
-                    prior = priors.corley.simple, 
-                    save_all_pars = T)
-
-l.corley.cont.simple.nested = brm(respcode  ~ c.boost.prime  + c.noboost.prime + c.boost +
-                             (c.boost.prime + c.noboost.prime  || subj) +
-                             (c.boost.prime + c.noboost.prime  || item),
-                           family="bernoulli",
-                           data=d,
-                           cores=2,
-                           chains=2,
-                           iter=8000,
-                           prior = priors.corley.simple, 
-                           save_all_pars = T)
-
-l.corley.cont.simple.nested.null = brm(respcode  ~ c.boost.prime + c.boost +
-                                    (c.boost.prime + c.noboost.prime  || subj) +
-                                    (c.boost.prime + c.noboost.prime  || item),
-                                  family="bernoulli",
-                                  data=d,
-                                  cores=2,
-                                  chains=2,
-                                  iter=8000,
-                                  prior = priors.corley.simple, 
-                                  save_all_pars = T)
-
-d$boost = as.factor(d$boost)
-d$condcode = as.factor(d$condcode)
-contrasts(d$boost) = c(-.5, .5)
-contrasts(d$condcode) = c(-.5, .5)
-
-d$c.boost.prime = d$c.boost.prime/2
-d$c.noboost.prime = d$c.noboost.prime/2
-d$boost = as.numeric(d$boost)
-d$c.boost = d$c.boost / 2
-summary(glm(data=d, respcode ~ 1 + boost/condcode, family='binomial'))
-summary(glm(data=d, respcode ~ 1 + c.boost.prime + c.noboost.prime + c.boost, family='binomial'))
-
-l.corley.cont.simple.nested = brm(respcode  ~ c.boost.prime + c.noboost.prime + c.boost +
-                             (c.boost.prime + c.noboost.prime  || subj) +
-                             (c.boost.prime + c.noboost.prime  || item),
-                           family="bernoulli",
-                           data=d,
-                           cores=2,
-                           chains=2,
-                           iter=8000,
-                           prior = priors.corley.simple, 
-                           save_all_pars = T)
-
-l.corley.cont.noboostprime = brm(respcode  ~ c.boost.prime  + c.boost +
-                                   (c.boost.prime + c.noboost.prime + c.boost | subj) +
-                                   (c.boost.prime + c.noboost.prime + c.boost | item),
-                                 family="bernoulli",
-                                 data=d,
-                                 cores =2,
-                                 chains=2,
-                                 iter=8000,
-                                 prior = priors.corley, 
-                                 save_all_pars = T)
-
-l.corley.cont.noboostprime.simple = brm(respcode  ~ c.boost.prime  + c.boost +
-                                   (c.boost.prime + c.noboost.prime  || subj) +
-                                   (c.boost.prime + c.noboost.prime  || item),
-                                 family="bernoulli",
-                                 data=d,
-                                 cores =2,
-                                 chains=2,
-                                 iter=8000,
-                                 prior = priors.corley.simple, 
-                                 save_all_pars = T)
-
-
-l.corley.cont.nullboostprime = brm(respcode  ~ c.noboost.prime  + c.boost +
-                                     (c.boost.prime + c.noboost.prime + c.boost | subj) +
-                                     (c.boost.prime + c.noboost.prime + c.boost | item),
-                                   family="bernoulli",
-                                   data=d,
-                                   cores =2,
-                                   chains=2,
-                                   iter=8000,
-                                   prior = priors.corley, 
-                                   save_all_pars = T)
-
-l.corley.cont.nullinteraction = brm(respcode  ~ c.boost  + c.prime +
-                                      (c.boost.prime + c.noboost.prime + c.boost | subj) +
-                                      (c.boost.prime + c.noboost.prime + c.boost | item),
-                                    family="bernoulli",
-                                    data=d,
-                                    cores =2,
-                                    chains=2,
-                                    iter=8000,
-                                    prior = priors.corley, 
-                                    save_all_pars = T)
-
-
-
-bf1 = bayes_factor(l.corley.cont, l.corley.cont.noboostprime)
-bf2 = bayes_factor(l.corley.cont, l.corley.cont.nullboostprime)
-bf3 = bayes_factor(l.corley.cont, l.corley.cont.nullinteraction)
-
-
-
-l.corley.null = brm(respcode  ~ condcode + boost +
-                      (condcode * boost | subj) +
-                      (condcode * boost | item),
+l.corley.cont.null = brm(respcode  ~ c.boost.prime  + c.boost +
+                      (c.boost.prime + c.noboost.prime + c.boost | subj) +
+                      (c.boost.prime + c.noboost.prime + c.boost | item),
                     family="bernoulli",
                     data=d,
                     cores =2,
@@ -183,6 +81,116 @@ l.corley.null = brm(respcode  ~ condcode + boost +
                     prior = priors.corley, 
                     save_all_pars = T)
 
+# l.corley.cont.simple = brm(respcode  ~ c.boost.prime + c.noboost.prime + c.boost +
+#                       (c.boost.prime + c.noboost.prime  || subj) +
+#                       (c.boost.prime + c.noboost.prime  || item),
+#                     family="bernoulli",
+#                     data=d,
+#                     cores=2,
+#                     chains=2,
+#                     iter=8000,
+#                     prior = priors.corley.simple, 
+#                     save_all_pars = T)
+# 
+# l.corley.cont.simple.nested = brm(respcode  ~ c.boost.prime  + c.noboost.prime + c.boost +
+#                              (c.boost.prime + c.noboost.prime  || subj) +
+#                              (c.boost.prime + c.noboost.prime  || item),
+#                            family="bernoulli",
+#                            data=d,
+#                            cores=2,
+#                            chains=2,
+#                            iter=8000,
+#                            prior = priors.corley.simple, 
+#                            save_all_pars = T)
+# 
+# l.corley.cont.simple.nested.null = brm(respcode  ~ c.boost.prime + c.boost +
+#                                     (c.boost.prime + c.noboost.prime  || subj) +
+#                                     (c.boost.prime + c.noboost.prime  || item),
+#                                   family="bernoulli",
+#                                   data=d,
+#                                   cores=2,
+#                                   chains=2,
+#                                   iter=8000,
+#                                   prior = priors.corley.simple, 
+#                                   save_all_pars = T)
+
+
+# 
+# l.corley.cont.simple.nested = brm(respcode  ~ c.boost.prime + c.noboost.prime + c.boost +
+#                              (c.boost.prime + c.noboost.prime  || subj) +
+#                              (c.boost.prime + c.noboost.prime  || item),
+#                            family="bernoulli",
+#                            data=d,
+#                            cores=2,
+#                            chains=2,
+#                            iter=8000,
+#                            prior = priors.corley.simple, 
+#                            save_all_pars = T)
+# 
+# l.corley.cont.noboostprime = brm(respcode  ~ c.boost.prime  + c.boost +
+#                                    (c.boost.prime + c.noboost.prime + c.boost | subj) +
+#                                    (c.boost.prime + c.noboost.prime + c.boost | item),
+#                                  family="bernoulli",
+#                                  data=d,
+#                                  cores =2,
+#                                  chains=2,
+#                                  iter=8000,
+#                                  prior = priors.corley, 
+#                                  save_all_pars = T)
+# 
+# l.corley.cont.noboostprime.simple = brm(respcode  ~ c.boost.prime  + c.boost +
+#                                    (c.boost.prime + c.noboost.prime  || subj) +
+#                                    (c.boost.prime + c.noboost.prime  || item),
+#                                  family="bernoulli",
+#                                  data=d,
+#                                  cores =2,
+#                                  chains=2,
+#                                  iter=8000,
+#                                  prior = priors.corley.simple, 
+#                                  save_all_pars = T)
+
+
+# l.corley.cont.nullboostprime = brm(respcode  ~ c.noboost.prime  + c.boost +
+#                                      (c.boost.prime + c.noboost.prime + c.boost | subj) +
+#                                      (c.boost.prime + c.noboost.prime + c.boost | item),
+#                                    family="bernoulli",
+#                                    data=d,
+#                                    cores =2,
+#                                    chains=2,
+#                                    iter=8000,
+#                                    prior = priors.corley, 
+#                                    save_all_pars = T)
+# 
+# l.corley.cont.nullinteraction = brm(respcode  ~ c.boost  + c.prime +
+#                                       (c.boost.prime + c.noboost.prime + c.boost | subj) +
+#                                       (c.boost.prime + c.noboost.prime + c.boost | item),
+#                                     family="bernoulli",
+#                                     data=d,
+#                                     cores =2,
+#                                     chains=2,
+#                                     iter=8000,
+#                                     prior = priors.corley, 
+#                                     save_all_pars = T)
+
+
+
+#bf1 = bayes_factor(l.corley.cont, l.corley.cont.noboostprime)
+#bf2 = bayes_factor(l.corley.cont, l.corley.cont.nullboostprime)
+#bf3 = bayes_factor(l.corley.cont, l.corley.cont.nullinteraction)
+
+
+
+# l.corley.null = brm(respcode  ~ condcode + boost +
+#                       (condcode * boost | subj) +
+#                       (condcode * boost | item),
+#                     family="bernoulli",
+#                     data=d,
+#                     cores =2,
+#                     chains=2,
+#                     iter=2000,
+#                     prior = priors.corley, 
+#                     save_all_pars = T)
+
 simulate.df.simple = function(ns, ni, beta1, beta2) {
   nsubj = ns
   # intercept:intercept intercept:condcode intercept:boost intercept:interaction
@@ -190,12 +198,12 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
   # boost:intercept boost:condcode boost:boost boost:interaction
   # interaction:intercept interaction:condcode interaction:boost interaction:interaction
   subjs = tibble(subj.intercept = rnorm(nsubj, 0, .60), subj.b1 = rnorm(nsubj, 0, .07),
-           subj.b2 = rnorm(nsubj, 0, .07)) %>%
+                 subj.b2 = rnorm(nsubj, 0, .07)) %>%
     mutate(subj = 1:n())
   
   nitems = ni
   items = tibble(item.intercept = rnorm(nitems, 0, .45), item.b1 = rnorm(nitems, 0, .07),
-           item.b2 = rnorm(nitems, 0, .07)) %>%
+                 item.b2 = rnorm(nitems, 0, .07)) %>%
     mutate(item = 1:n())
   
   beta.int = rnorm(1, -.33, .1)
@@ -247,7 +255,7 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
 #     rename(subj.intercept = X1, subj.b1 = X2,
 #            subj.b2 = X3, subj.b3 = X4) %>%
 #     mutate(subj = 1:n())
-#   
+# 
 #   nitems = ni
 #   items = data.frame(MASS::mvrnorm(n=nitems, mu=c(0, 0, 0, 0),
 #                                    matrix(sapply(c("Intercept", "c.boost.prime", "c.noboost.prime", "c.boost"),
@@ -255,59 +263,97 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
 #     rename(item.intercept = X1, item.b1 = X2,
 #            item.b2 = X3, item.b3 = X4) %>%
 #     mutate(item = 1:n())
-#   
+# 
 #   beta.int = rnorm(1, -.33, .1)
-#   beta.c.boost.prime = rnorm(1, beta1, .2)
+#   beta.c.boost.prime = rnorm(1, beta1, .1)
 #   beta.c.noboost.prime = rnorm(1, beta2, .1)
 #   beta.c.boost = rnorm(1, 0, .1)
-#   
-#   newd = expand.grid(subj = (seq(1,ns)), 
+# 
+#   newd = expand.grid(subj = (seq(1,ns)),
 #                      item = (seq(1,ni))) %>%
 #     mutate(rand1=runif(n()),
 #            rand2 = runif(n()),
 #            condcode = ifelse(rand1 > .5, .5, -.5),
 #            boost = ifelse(rand2 > .5, .5, -.5),
-#            c.boost.prime = case_when(condcode == .5 & boost == .5 ~ 1,
-#                                      condcode == -.5 & boost == .5 ~ -1,
+#            c.boost.prime = case_when(condcode == .5 & boost == .5 ~ .5,
+#                                      condcode == -.5 & boost == .5 ~ -.5,
 #                                      TRUE ~ 0),
-#            c.noboost.prime = case_when(condcode == .5 & boost == -.5 ~ 1,
-#                                        condcode == -.5 & boost == -.5 ~ -1,
+#            c.noboost.prime = case_when(condcode == .5 & boost == -.5 ~ .5,
+#                                        condcode == -.5 & boost == -.5 ~ -.5,
 #                                        TRUE ~ 0),
-#            c.boost = case_when(boost == .5 ~ 1,
-#                                boost == -.5 ~ -1),
-#            c.prime = case_when(condcode == .5 ~ 1,
-#                                condcode == -.5 ~ -1)) %>%
+#            c.boost = case_when(boost == .5 ~ .5,
+#                                boost == -.5 ~ -.5),
+#            c.prime = case_when(condcode == .5 ~ .5,
+#                                condcode == -.5 ~ -5)) %>%
 #     sample_n(.60 * n()) %>%
 #     left_join(subjs) %>%
 #     left_join(items) %>%
 #     mutate(fitted = inv.logit(beta.int +
-#                                 (beta.c.boost.prime + subj.b1 + item.b1) * c.boost.prime + 
-#                                 (beta.c.noboost.prime + subj.b2 + item.b2) * c.noboost.prime + 
-#                                 (beta.c.boost + subj.b3 + item.b3) * c.boost + 
+#                                 (beta.c.boost.prime + subj.b1 + item.b1) * c.boost.prime +
+#                                 (beta.c.noboost.prime + subj.b2 + item.b2) * c.noboost.prime +
+#                                 (beta.c.boost + subj.b3 + item.b3) * c.boost +
 #                                 subj.intercept +
 #                                 item.intercept ),
 #            respcode = as.integer(runif(n()) < fitted))
-#   
+# 
 #   return(newd)
 # }
 
+
 bf.new.null = 1
 a = NULL
-for (ns in c(600)) {
-  for (it in seq(1, 10)) {
-    for (curnum in seq(100, ns, 100)) {
-      if (curnum == 100 | (bf.new.null > (1/6) & bf.new.null < 6)) {
-        ni = 48
-        newd = simulate.df.simple(curnum, ni, .73, .27)
-  
-        l.new = update(l.corley.cont.simple.nested, newdata=newd, cores=4, chains=4, iter=4000, save_all_pars=T)
-        l.null = update(l.corley.cont.simple.nested.null, newdata=newd, cores=4, chains=4, iter=4000, save_all_pars=T)
-        
+startpoint = 200
+ni = 48
+
+for (ns in c(800)) {
+  for (it in seq(1, 1000)) {
+    newd_ = simulate.df.simple(ns, ni, .73, .27)
+    for (curnum in seq(startpoint, ns, 100)) {
+      if (curnum == startpoint | (bf.new.null > (1/6) & bf.new.null < 6)) {
+        newd = filter(newd_, subj <= curnum)
+        l.new = update(l.corley.cont, newdata=newd, cores=16,
+                       chains=16, iter=curnum * 20, save_all_pars=T)
+        l.null = update(l.corley.cont.null, newdata=newd,
+                        cores=16, chains=16, iter=curnum * 20, save_all_pars=T)
+        boost.bigger = mean(fixef(l.new, summary = F)[, "c.boost.prime"] > 
+                              fixef(l.new, summary = F)[, "c.noboost.prime"])
         bf.new.null = bayes_factor(l.new, l.null)[1]
-        a = rbind(a, cbind(curnum, ni, it, bf.new.null))
+        a = rbind(a, cbind(curnum, ni, it, bf.new.null, boost.bigger))
         print(a)
+        write.csv(a, file="results_gensimple_testfull_20201124.csv")
       }
     }
   }
 }
 
+
+
+
+# 
+# bf.new.null = 1
+# a = NULL
+# startpoint = 200
+# for (ns in c(800)) {
+#   for (it in seq(1, 1000)) {
+#     newd_ = simulate.df.simple(ns, ni, .73, .27)
+#     for (curnum in seq(startpoint, ns, 100)) {
+#       if (curnum == startpoint | (bf.new.null > (1/6) & bf.new.null < 6)) {
+#         ni = 48
+#         newd = filter(newd_, subj <= curnum)
+#         l.new = update(l.corley.cont.simple.nested, newdata=newd, cores=16,
+#                        chains=16, iter=curnum * 20, save_all_pars=T)
+#         l.null = update(l.corley.cont.simple.nested.null, newdata=newd,
+#                         cores=16, chains=16, iter=curnum * 20, save_all_pars=T)
+#         boost.bigger = mean(fixef(l.new, summary = F)[, "c.boost.prime"] > 
+#                               fixef(l.new, summary = F)[, "c.noboost.prime"])
+#         bf.new.null = bayes_factor(l.new, l.null)[1]
+#         a = rbind(a, cbind(curnum, ni, it, bf.new.null, boost.bigger))
+#         print(a)
+#         write.csv(a, file="results_simple_2.csv")
+#       }
+#     }
+#   }
+# }
+# 
+# 
+# 
