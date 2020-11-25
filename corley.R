@@ -32,10 +32,12 @@ d.sum = group_by(d, condcode, boost) %>% summarise(m=mean(respcode),
 d.sum  %>% group_by(boost) %>% arrange(condcode) %>%
   mutate(x = effect - lag(effect))
 
-priors.corley <-c(set_prior("normal(0, 1)", class = "Intercept"),
-                  set_prior("normal(0, 1)", class = "b"),
-                  set_prior("normal(0, .1)", class = "sd"),
-                  set_prior("lkj(2)", class = "L"))
+priors.corley <-c(set_prior("normal(-.3, .1)", class = "Intercept"),
+                  set_prior("normal(0, .5)", class = "b"),
+                  set_prior("normal(0, .05)", class = "sd"),
+                  set_prior("lkj(2)", class = "L"),
+                  set_prior("normal(0, .5)", class = "sd", group="subj", coef="Intercept" ),
+                  set_prior("normal(0, .5)", class = "sd", group="item", coef="Intercept" ))
 
 priors.corley.simple <-c(set_prior("normal(0, 2)", class = "Intercept"),
                          set_prior("normal(0, 2)", class = "b"),
@@ -197,13 +199,13 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
   # condcode:intercept condcode:condcode condcode:boost condcode:interaction
   # boost:intercept boost:condcode boost:boost boost:interaction
   # interaction:intercept interaction:condcode interaction:boost interaction:interaction
-  subjs = tibble(subj.intercept = rnorm(nsubj, 0, .60), subj.b1 = rnorm(nsubj, 0, .07),
-                 subj.b2 = rnorm(nsubj, 0, .07)) %>%
+  subjs = tibble(subj.intercept = rnorm(nsubj, 0, 1), subj.b1 = rnorm(nsubj, 0, .04),
+                 subj.b2 = rnorm(nsubj, 0, .04)) %>%
     mutate(subj = 1:n())
   
   nitems = ni
-  items = tibble(item.intercept = rnorm(nitems, 0, .45), item.b1 = rnorm(nitems, 0, .07),
-                 item.b2 = rnorm(nitems, 0, .07)) %>%
+  items = tibble(item.intercept = rnorm(nitems, 0, 1), item.b1 = rnorm(nitems, 0, .04),
+                 item.b2 = rnorm(nitems, 0, .04)) %>%
     mutate(item = 1:n())
   
   beta.int = rnorm(1, -.33, .1)
@@ -304,23 +306,27 @@ bf.new.null = 1
 a = NULL
 startpoint = 200
 ni = 48
+beta1 = .88
+beta2 = .29
 
 for (ns in c(800)) {
   for (it in seq(1, 1000)) {
-    newd_ = simulate.df.simple(ns, ni, .73, .27)
+    newd_ = simulate.df.simple(ns, ni, beta1, beta2)
     for (curnum in seq(startpoint, ns, 100)) {
       if (curnum == startpoint | (bf.new.null > (1/6) & bf.new.null < 6)) {
         newd = filter(newd_, subj <= curnum)
         l.new = update(l.corley.cont, newdata=newd, cores=16,
-                       chains=16, iter=curnum * 20, save_all_pars=T)
+                       chains=16, iter=curnum * 20, save_all_pars=T,
+                       warmup = 1000)
         l.null = update(l.corley.cont.null, newdata=newd,
-                        cores=16, chains=16, iter=curnum * 20, save_all_pars=T)
+                        cores=16, chains=16, iter=curnum * 20, save_all_pars=T,
+                        warmup = 1000)
         boost.bigger = mean(fixef(l.new, summary = F)[, "c.boost.prime"] > 
                               fixef(l.new, summary = F)[, "c.noboost.prime"])
         bf.new.null = bayes_factor(l.new, l.null)[1]
         a = rbind(a, cbind(curnum, ni, it, bf.new.null, boost.bigger))
         print(a)
-        write.csv(a, file="results_gensimple_testfull_20201124.csv")
+        write.csv(a, file="results_gensimple_testfull_20201124_3.csv")
       }
     }
   }
