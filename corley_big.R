@@ -22,12 +22,6 @@ d = filter(d, prime_resp %in% c("DO", "PO"),
          boost = ifelse(cond %in% c("01", "02"), .5, -.5)) %>%
   rename(subj = Subject_ID)
 
-
-subjs.resp = group_by(d, subj) %>% 
-  summarise(m=mean(respcode))
-hist(subjs.resp$m, breaks=30)
-  
-
 subjs = group_by(d, subj, condcode, boost) %>%
   summarise(m=mean(respcode)) %>%
   pivot_wider(id_cols=subj, names_from=c(condcode, boost), values_from = m) 
@@ -250,6 +244,7 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
   return(newd)
 }
 
+
 # simulate.df = function(ns, ni, beta1, beta2, lx) {
 #   nsubj = ns
 #   # intercept:intercept intercept:condcode intercept:boost intercept:interaction
@@ -370,5 +365,3 @@ for (ns in c(800)) {
 # 
 # 
 # 
-
-simulate.df.simple(1000, 48, .8, .3)

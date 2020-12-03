@@ -22,12 +22,6 @@ d = filter(d, prime_resp %in% c("DO", "PO"),
          boost = ifelse(cond %in% c("01", "02"), .5, -.5)) %>%
   rename(subj = Subject_ID)
 
-
-subjs.resp = group_by(d, subj) %>% 
-  summarise(m=mean(respcode))
-hist(subjs.resp$m, breaks=30)
-  
-
 subjs = group_by(d, subj, condcode, boost) %>%
   summarise(m=mean(respcode)) %>%
   pivot_wider(id_cols=subj, names_from=c(condcode, boost), values_from = m) 
@@ -250,6 +244,7 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
   return(newd)
 }
 
+
 # simulate.df = function(ns, ni, beta1, beta2, lx) {
 #   nsubj = ns
 #   # intercept:intercept intercept:condcode intercept:boost intercept:interaction
@@ -316,24 +311,23 @@ beta1 = .88
 beta2 = .29
 
 for (ns in c(800)) {
-  for (it in seq(1, 3)) {
+  for (it in seq(1, 1000)) {
     newd_ = simulate.df.simple(ns, ni, beta1, beta2)
     for (curnum in seq(startpoint, ns, 100)) {
       if (curnum == startpoint | (bf.new.null > (1/6) & bf.new.null < 6)) {
         newd = filter(newd_, subj <= curnum)
-        l.new = update(l.corley.cont, newdata=newd, cores=12,
-                       chains=12, iter=curnum * 20, save_all_pars=T,
+        l.new = update(l.corley.cont, newdata=newd, cores=16,
+                       chains=16, iter=curnum * 20, save_all_pars=T,
                        warmup = 1000)
         l.null = update(l.corley.cont.null, newdata=newd,
-                        cores=12, chains=12, iter=curnum * 20, save_all_pars=T,
+                        cores=16, chains=16, iter=curnum * 20, save_all_pars=T,
                         warmup = 1000)
         boost.bigger = mean(fixef(l.new, summary = F)[, "c.boost.prime"] > 
                               fixef(l.new, summary = F)[, "c.noboost.prime"])
         bf.new.null = bayes_factor(l.new, l.null)[1]
-        a = cbind(curnum, ni, it, bf.new.null, boost.bigger)
+        a = rbind(a, cbind(curnum, ni, it, bf.new.null, boost.bigger))
         print(a)
-	write.table( a, file="results_corley_20201126.csv", append = T, sep=",", row.names=F, col.names=F)
-        write.csv(a, file="results_gensimple_testfull_20201124_ucsb_xxx.csv", append=T)
+        write.csv(a, file="results_gensimple_testfull_20201124_ucsb_x1.csv")
       }
     }
   }
@@ -370,5 +364,3 @@ for (ns in c(800)) {
 # 
 # 
 # 
-
-simulate.df.simple(1000, 48, .8, .3)

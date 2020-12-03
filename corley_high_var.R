@@ -22,12 +22,6 @@ d = filter(d, prime_resp %in% c("DO", "PO"),
          boost = ifelse(cond %in% c("01", "02"), .5, -.5)) %>%
   rename(subj = Subject_ID)
 
-
-subjs.resp = group_by(d, subj) %>% 
-  summarise(m=mean(respcode))
-hist(subjs.resp$m, breaks=30)
-  
-
 subjs = group_by(d, subj, condcode, boost) %>%
   summarise(m=mean(respcode)) %>%
   pivot_wider(id_cols=subj, names_from=c(condcode, boost), values_from = m) 
@@ -206,13 +200,13 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
   # condcode:intercept condcode:condcode condcode:boost condcode:interaction
   # boost:intercept boost:condcode boost:boost boost:interaction
   # interaction:intercept interaction:condcode interaction:boost interaction:interaction
-  subjs = tibble(subj.intercept = rnorm(nsubj, 0, 1), subj.b1 = rnorm(nsubj, 0, .04),
-                 subj.b2 = rnorm(nsubj, 0, .04)) %>%
+  subjs = tibble(subj.intercept = rnorm(nsubj, 0, 1.5), subj.b1 = rnorm(nsubj, 0, .14),
+                 subj.b2 = rnorm(nsubj, 0, .14)) %>%
     mutate(subj = 1:n())
   
   nitems = ni
-  items = tibble(item.intercept = rnorm(nitems, 0, 1), item.b1 = rnorm(nitems, 0, .04),
-                 item.b2 = rnorm(nitems, 0, .04)) %>%
+  items = tibble(item.intercept = rnorm(nitems, 0, 1.5), item.b1 = rnorm(nitems, 0, .14),
+                 item.b2 = rnorm(nitems, 0, .14)) %>%
     mutate(item = 1:n())
   
   beta.int = rnorm(1, -.33, .1)
@@ -249,6 +243,7 @@ simulate.df.simple = function(ns, ni, beta1, beta2) {
   
   return(newd)
 }
+
 
 # simulate.df = function(ns, ni, beta1, beta2, lx) {
 #   nsubj = ns
@@ -315,25 +310,24 @@ ni = 48
 beta1 = .88
 beta2 = .29
 
-for (ns in c(800)) {
-  for (it in seq(1, 3)) {
+for (ns in c(500)) {
+  for (it in seq(1, 2)) {
     newd_ = simulate.df.simple(ns, ni, beta1, beta2)
     for (curnum in seq(startpoint, ns, 100)) {
       if (curnum == startpoint | (bf.new.null > (1/6) & bf.new.null < 6)) {
         newd = filter(newd_, subj <= curnum)
-        l.new = update(l.corley.cont, newdata=newd, cores=12,
-                       chains=12, iter=curnum * 20, save_all_pars=T,
+        l.new = update(l.corley.cont, newdata=newd, cores=8,
+                       chains=8, iter=curnum * 40, save_all_pars=T,
                        warmup = 1000)
         l.null = update(l.corley.cont.null, newdata=newd,
-                        cores=12, chains=12, iter=curnum * 20, save_all_pars=T,
+                        cores=8, chains=8, iter=curnum * 40, save_all_pars=T,
                         warmup = 1000)
         boost.bigger = mean(fixef(l.new, summary = F)[, "c.boost.prime"] > 
                               fixef(l.new, summary = F)[, "c.noboost.prime"])
         bf.new.null = bayes_factor(l.new, l.null)[1]
         a = cbind(curnum, ni, it, bf.new.null, boost.bigger)
         print(a)
-	write.table( a, file="results_corley_20201126.csv", append = T, sep=",", row.names=F, col.names=F)
-        write.csv(a, file="results_gensimple_testfull_20201124_ucsb_xxx.csv", append=T)
+	write.table( a, file="results_corley_highvar.csv", append = T, sep=",", row.names=F, col.names=F)
       }
     }
   }
@@ -370,5 +364,3 @@ for (ns in c(800)) {
 # 
 # 
 # 
-
-simulate.df.simple(1000, 48, .8, .3)
