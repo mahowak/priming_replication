@@ -246,7 +246,10 @@ b = bind_rows(b, group_by(d, subj, condcode) %>%
 b[is.na(b$iter), "iter"] = "real"
 ggplot(b, aes(x=m)) + geom_histogram() + 
   facet_wrap(~iter, ncol=3) + 
-  xlim(-3, 3)
+  xlim(-3, 3) + 
+  xlab("proportion DO") + 
+  ggtitle("subject means") + 
+  theme_bw(13)
 
 #######################
 # items, simulate and plot histograms for priming effect
@@ -274,3 +277,4 @@ b[is.na(b$iter), "iter"] = "real"
 ggplot(b, aes(x=m)) + geom_histogram() + 
   facet_wrap(~iter, ncol=3) + 
   xlim(-3, 3)
+
