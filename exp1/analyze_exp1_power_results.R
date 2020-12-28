@@ -1,6 +1,6 @@
 library(tidyverse)
 
-d = read_csv("results_corley_highvar.csv", col_names=F)
+d = read_csv("exp1/exp1_power_analysis.csv", col_names=F)
 names(d) = c("nsubj", "nitems", "i", "bf", "p")
 
 d = mutate(d, repeated = i == lag(i),
@@ -16,7 +16,7 @@ ggplot(d, aes(x=bf)) +
   geom_histogram() +
   theme_bw(12) +
   xlab("Bayes Factor")
-ggsave("exp1_bf.png", width=4, height=3)
+ggsave("pngs/exp1_bf.png", width=4, height=3)
 
 d.subjsum = group_by(d, nsubj) %>%
   summarise(n=n()) %>%
@@ -27,7 +27,7 @@ ggplot(d.subjsum, aes(x=nsubj, y=n, label=charn)) +
   theme_bw(12) + 
   xlab("number of subjects run to get conclusive results") + 
   ylab("count")
-ggsave("exp1_nsubj.png", width=4, height=3)
+ggsave("pngs/exp1_nsubj.png", width=4, height=3)
 
 mean(d$bf > 6)
 d[d$bf > (1/6) & d$bf < 6, ]

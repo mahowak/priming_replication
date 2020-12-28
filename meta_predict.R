@@ -3,7 +3,7 @@ library(tidyverse)
 logit = function(p) {log(p) - log(1-p)}
 inv.logit = function(x) {exp(x)/(1+exp(x))}
 
-e = read_csv("~/db/ToUsePrimingPapers/public_data/master_spreadsheet_processed.csv") %>%
+e = read_csv("data/master_spreadsheet_processed.csv") %>%
   filter(Target.task == "WSC", Construction.type == "dative",
        Language == "English",
        Lag == "0",
@@ -158,7 +158,7 @@ library(tidyverse)
 library(brms)
 logit = function(p) {log(p)/log(1-p)}
 
-d = read_csv("raw_data_merged_with_master.csv") 
+d = read_csv("data/raw_data_merged_with_master.csv") 
 priors = c(set_prior("normal(0, .5)", class = "Intercept"),
                            set_prior("normal(0, .5)", class = "b"),
                            set_prior("normal(0, .5)", class = "sd"),
