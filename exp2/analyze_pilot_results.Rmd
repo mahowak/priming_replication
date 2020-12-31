@@ -1,14 +1,57 @@
+---
+title: "Pilot 1 Analysis Notebook"
+author: "Kyle Mahowald"
+date: "12/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
 library(tidyverse)
 library(brms)
+```
 
-######### read in coded data
-d = read_csv("pilot1_20201230/coded_results_exp2.csv") %>%
-  filter(subject != "c1d9b98c6eff7b8cef5b640d712cec44") %>%
+# Data processing
+
+```{r}
+d = read_csv("../pilot1_20201230/coded_results_exp2.csv") %>%
+  mutate(num_words_completion = sapply(strsplit(completion, " "), length)) %>%
+  group_by(subject) %>%
+  mutate(pct_one_word = mean(num_words_completion == 1)) %>%
+  group_by(subject, completion) %>%
+  mutate(same_num = n()) %>%
+  group_by(subject) %>%
+  mutate(max_n = max(same_num),
+         mean_NA = mean(code == "U")) %>%
+  ungroup()   %>%
   select(-item) %>%
   mutate(type = ifelse(grepl("target", item_type), "target", "prime"),
          item = gsub("prime", "", item_type),
          item = gsub("target", "", item))
+```
 
+# Exclusions
+
+Exclude participants with more than 50% NA, more than 50% one word, or 8+ one-word answers.
+
+```{r}
+d %>% 
+  group_by(subject) %>%
+  summarise(first(max_n),
+            first(pct_one_word),
+            first(mean_NA)) 
+
+d = filter(d, max_n < 8,
+           pct_one_word < .50,
+           mean_NA < .50) 
+```
+
+# Analysis 
+
+We merge primes and targets, to match them up and filter to only correct prime trials.
+
+```{r}
 primes = filter(d, grepl("high", condition) | grepl("low", condition)) %>%
   mutate(correct = (grepl("high", condition) & code == "H") | (grepl("low", condition) & code == "L")) %>%
   rename(prime.cond = condition) %>%
@@ -16,7 +59,11 @@ primes = filter(d, grepl("high", condition) | grepl("low", condition)) %>%
 
 targets = filter(d, type == "target") %>%
   left_join(primes)
+```
 
+Look at items with high other proportions.
+
+```{r}
 group_by(d, type, condition, item, prime) %>%
   filter(type == "target") %>%
   summarise(mean.do = mean(code == "H"),
@@ -31,11 +78,27 @@ group_by(targets, type, prime.cond) %>%
             mean.other = mean(code != "H" & code != "L")) %>%
   arrange(-mean.other)
 
+group_by(targets, type) %>%
+  filter(type == "target") %>%
+  summarise(mean.ha = mean(code == "H"),
+            mean.la = mean(code == "L"),
+            mean.other = mean(code != "H" & code != "L")) %>%
+  arrange(-mean.other)
+```
+
+Filter to a data frame with just target attachments and with onbly correct primes.
+
+```{r}
 d.analyze = filter(targets, correct == T,
                    code == "H" | code == "L")
+```
 
 
-##############################################
+## Priors and contrast codes
+
+Do contrast coding, set priors that include more and less informative priors, as well as prior for null model.
+
+```{r}
 d.analyze = mutate(d.analyze,
                    respcode = ifelse(code == "H", 1, 0),
                    prime = ifelse(grepl("high", prime.cond), .5, -.5))
@@ -65,7 +128,14 @@ less.informative.priors.null <-c(set_prior("normal(0, 2)", class = "Intercept"),
                             set_prior("lkj(2)", class = "L"),
                             set_prior("normal(0, 2)", class = "sd", group="subj", coef="Intercept" ),
                             set_prior("normal(0, 2)", class = "sd", group="item", coef="Intercept" ))
+```
 
+
+## Fit models
+
+Fit models and compute BF. For the final version, run with more chains and a higher number of iterations to ensure convergence. We will run 16 chains, each for 60k iterations. If there are errors, we will address those until the model runs with no errors.
+
+```{r, results="hide"}
 full.model.exp2 = brm(respcode ~ prime + 
                    (prime | subject) + 
                    (prime | item),
@@ -88,4 +158,30 @@ null.model.1.exp2 = brm(respcode ~ 1  +
 
 
 bf1.exp2 = bayes_factor(full.model.exp2, null.model.1.exp2)
+
+print(bf1.exp2)
+print(full.model.exp2)
+```
+
+## Make graphs
+
+Make a plot by condition, with error bars over subjects.
+
+```{r}
+## error bars over subjects
+group_by(d.analyze, subject, prime) %>%
+  summarise(m=mean(respcode)) %>%
+  group_by(prime) %>%
+  summarise(mean.prime = mean(m),
+            se.prime = sd(m)/sqrt(n())) %>%
+  mutate(`prime condition` = ifelse(prime == .5, "HA", "LA")) %>%
+  ggplot(data=., aes(x=`prime condition`, y=mean.prime,
+                     ymin = mean.prime - 1.96 * se.prime,
+                     ymax = mean.prime + 1.96 * se.prime)) +
+  geom_errorbar(width=.3) +
+  geom_point() + 
+  theme_bw(18) + 
+  ylim(0, 1)
+```
+
 

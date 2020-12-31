@@ -1,0 +1,193 @@
+﻿item,sentence,condition,type,number
+1,Fran corrected the manuscript of the authors who were,InAn-low,prime,1
+1,Fran corrected the manuscript of the authors which was,InAn-high,prime,2
+1,Terry inspected the lawn of the parents that,InAn-low,target,1
+1,Terry inspected the lawn of the parents that,InAn-high,target,2
+2,The bartender found the receipt of the customers who were,InAn-low,prime,3
+2,The bartender found the receipt of the customers which was,InAn-high,prime,4
+2,The staff cleaned the stage of the performers that,InAn-low,target,3
+2,The staff cleaned the stage of the performers that,InAn-high,target,4
+3,We passed the property of the landowners who were ,InAn-low,prime,5
+3,We passed the property of the landowners which was,InAn-high,prime,6
+3,They increased the salary of the landscapers that ,InAn-low,target,5
+3,They increased the salary of the landscapers that ,InAn-high,target,6
+4,Leo viewed the painting of the kings who were,InAn-low,prime,7
+4,Leo viewed the painting of the kings which was,InAn-high,prime,8
+4,The FBI searched the boardroom of the executives that ,InAn-low,target,7
+4,The FBI searched the boardroom of the executives that ,InAn-high,target,8
+5,The critic entered the restaurant of the chefs who were,InAn-low,prime,9
+5,The critic entered the restaurant of the chefs which was,InAn-high,prime,10
+5,The plumber entered the bathroom of the residents that ,InAn-low,target,9
+5,The plumber entered the bathroom of the residents that ,InAn-high,target,10
+6,The reporter visited the district of the voters who were,InAn-low,prime,11
+6,The reporter visited the district of the voters which was ,InAn-high,prime,12
+6,The spy described the hideout of the rebels that  ,InAn-low,target,11
+6,The spy described the hideout of the rebels that  ,InAn-high,target,12
+7,The commentator announced the score of the contestants who were ,InAn-low,prime,13
+7,The commentator announced the score of the contestants which was,InAn-high,prime,14
+7,The police arrested the inhabitants of the building that ,AnIn-low,target,13
+7,The police arrested the inhabitants of the building that ,AnIn-high,target,14
+8,The professor found the list of the students who were ,InAn-low,prime,15
+8,The professor found the list of the students which was,InAn-high,prime,16
+8,The fans cheered for the recipients of the prize that ,AnIn-low,target,15
+8,The fans cheered for the recipients of the prize that ,AnIn-high,target,16
+9,Everyone read the report of the scientists who were ,InAn-low,prime,17
+9,Everyone read the report of the scientists which was,InAn-high,prime,18
+9,Chris served the attendees of the party that ,AnIn-low,target,17
+9,Chris served the attendees of the party that ,AnIn-high,target,18
+10,The ruling impacted the village of the farmers who were,InAn-low,prime,19
+10,The ruling impacted the village of the farmers which was ,InAn-high,prime,20
+10,Andrew spoke to the patrons of the supermarket that ,AnIn-low,target,19
+10,Andrew spoke to the patrons of the supermarket that ,AnIn-high,target,20
+11,The landlord reviewed the lease of the tenants who were,InAn-low,prime,21
+11,The landlord reviewed the lease of the tenants which was ,InAn-high,prime,22
+11,The secretary contacted the signers of the petition that ,AnIn-low,target,21
+11,The secretary contacted the signers of the petition that ,AnIn-high,target,22
+12,Yvette organized the meeting of the agents who were,InAn-low,prime,23
+12,Yvette organized the meeting of the agents which was ,InAn-high,prime,24
+12,The physician treated the patients of the hospital that ,AnIn-low,target,23
+12,The physician treated the patients of the hospital that ,AnIn-high,target,24
+13,The officer confiscated the inheritance of the brothers who were ,InAn-low,prime,25
+13,The officer confiscated the inheritance of the brothers which was,InAn-high,prime,26
+13,The tourist noticed the altar of the worshippers that ,InAn-low,target,25
+13,The tourist noticed the altar of the worshippers that ,InAn-high,target,26
+14,The prophet addressed the concern of the believers who were ,InAn-low,prime,27
+14,The prophet addressed the concern of the believers which was,InAn-high,prime,28
+14,The photographer captured the vacation of the sisters that ,InAn-low,target,27
+14,The photographer captured the vacation of the sisters that ,InAn-high,target,28
+15,The witness recognized the vehicle of the victims who were ,InAn-low,prime,29
+15,The witness recognized the vehicle of the victims which was,InAn-high,prime,30
+15,The coach lost the trophy of the athletes that ,InAn-low,target,29
+15,The coach lost the trophy of the athletes that ,InAn-high,target,30
+16,The firemen left the house of the hippies who were,InAn-low,prime,31
+16,The firemen left the house of the hippies which was ,InAn-high,prime,32
+16,The archeologist uncovered the cave of the Neanderthals that ,InAn-low,target,31
+16,The archeologist uncovered the cave of the Neanderthals that ,InAn-high,target,32
+17,We bought the company of the entrepreneurs who were,InAn-low,prime,33
+17,We bought the company of the entrepreneurs which was ,InAn-high,prime,34
+17,Jose built the shelter of the refugees that ,InAn-low,target,33
+17,Jose built the shelter of the refugees that ,InAn-high,target,34
+18,Amara observed the rehearsal of the actors who were,InAn-low,prime,35
+18,Amara observed the rehearsal of the actors which was ,InAn-high,prime,36
+18,The janitor cleaned the dorm of the sophomores that ,InAn-low,target,35
+18,The janitor cleaned the dorm of the sophomores that ,InAn-high,target,36
+19,We criticized the viewpoint of the journalists who were ,InAn-low,prime,37
+19,We criticized the viewpoint of the journalists which was,InAn-high,prime,38
+19,They congratulated the winners of the tournament that ,AnIn-low,target,37
+19,They congratulated the winners of the tournament that ,AnIn-high,target,38
+20,The pilot flew the plane of the millionaires who were ,InAn-low,prime,39
+20,The pilot flew the plane of the millionaires which was,InAn-high,prime,40
+20,Lee watched the groundskeepers of the garden that ,AnIn-low,target,39
+20,Lee watched the groundskeepers of the garden that ,AnIn-high,target,40
+21,Maxwell approved the blueprint of the architects who were ,InAn-low,prime,41
+21,Maxwell approved the blueprint of the architects which was,InAn-high,prime,42
+21,She graded the pupils of the school that ,AnIn-low,target,41
+21,She graded the pupils of the school that ,AnIn-high,target,42
+22,Kurt set the schedule of the lawyers who were,InAn-low,prime,43
+22,Kurt set the schedule of the lawyers which was ,InAn-high,prime,44
+22,We questioned the caretakers of the building that ,AnIn-low,target,43
+22,We questioned the caretakers of the building that ,AnIn-high,target,44
+23,The kids found the camp of the hikers who were,InAn-low,prime,45
+23,The kids found the camp of the hikers which was ,InAn-high,prime,46
+23,The volunteer helped the planners of the event that ,AnIn-low,target,45
+23,The volunteer helped the planners of the event that ,AnIn-high,target,46
+24,The assistant documented the journey of the anthropologists who were,InAn-low,prime,47
+24,The assistant documented the journey of the anthropologists which was ,InAn-high,prime,48
+24,The director resented the critics of the play that ,AnIn-low,target,47
+24,The director resented the critics of the play that ,AnIn-high,target,48
+25,The publisher approved the work of the editors who were,InAn-low,prime,49
+25,The publisher approved the work of the editors which was,InAn-high,prime,50
+25,The crowd surrounded the car of the friends that,InAn-low,target,49
+25,The crowd surrounded the car of the friends that,InAn-high,target,50
+26,Raquel recorded the seminar of the mentors who were,InAn-low,prime,51
+26,Raquel recorded the seminar of the mentors which was,InAn-high,prime,52
+26,The corporation endorsed the promotion of the partners that,InAn-low,target,51
+26,The corporation endorsed the promotion of the partners that,InAn-high,target,52
+27,The citizens respected the decision of the representatives who were,InAn-low,prime,53
+27,The citizens respected the decision of the representatives which was,InAn-high,prime,54
+27,The public condemned the action of the accomplices that,InAn-low,target,53
+27,The public condemned the action of the accomplices that,InAn-high,target,54
+28,The tour guide led the excursion of the sightseers who were,InAn-low,prime,55
+28,The tour guide led the excursion of the sightseers which was,InAn-high,prime,56
+28,The professionals repaired the furniture of the residents that,InAn-low,target,55
+28,The professionals repaired the furniture of the residents that,InAn-high,target,56
+29,The businessmen appreciated the contribution of the investors who were,InAn-low,prime,57
+29,The businessmen appreciated the contribution of the investors which was,InAn-high,prime,58
+29,Xavier admired the skill of the bodyguards that,InAn-low,target,57
+29,Xavier admired the skill of the bodyguards that,InAn-high,target,58
+30,The committee posted the survey of the homeowners who were,InAn-low,prime,59
+30,The committee posted the survey of the homeowners which was,InAn-high,prime,60
+30,The biographer studied the photograph of the aristocrats that,InAn-low,target,59
+30,The biographer studied the photograph of the aristocrats that,InAn-high,target,60
+31,The panel rejected the submission of the collaborators who were,InAn-low,prime,61
+31,The panel rejected the submission of the collaborators which was,InAn-high,prime,62
+31,The board fired the members of the organization that,AnIn-low,target,61
+31,The board fired the members of the organization that,AnIn-high,target,62
+32,The shepherd understood the task of the ranchers who were,InAn-low,prime,63
+32,The shepherd understood the task of the ranchers which was,InAn-high,prime,64
+32,The amateur envied the players of the sport that,AnIn-low,target,63
+32,The amateur envied the players of the sport that,AnIn-high,target,64
+33,Sebastian took the recommendation of the agents who were,InAn-low,prime,65
+33,Sebastian took the recommendation of the agents which was,InAn-high,prime,66
+33,The activist joined the advocates of the cause that,AnIn-low,target,65
+33,The activist joined the advocates of the cause that,AnIn-high,target,66
+34,The agency marketed the image of the models who were,InAn-low,prime,67
+34,The agency marketed the image of the models which was,InAn-high,prime,68
+34,The host invited the guests of the celebration that,AnIn-low,target,67
+34,The host invited the guests of the celebration that,AnIn-high,target,68
+35,The filmmaker shot the video of the siblings who were,InAn-low,prime,69
+35,The filmmaker shot the video of the siblings which was,InAn-high,prime,70
+35,The expert identified the apprentices of the trade that,AnIn-low,target,69
+35,The expert identified the apprentices of the trade that,AnIn-high,target,70
+36,The villager welcomed the arrival of the travellers who were,InAn-low,prime,71
+36,The villager welcomed the arrival of the travellers which was,InAn-high,prime,72
+36,The hero confronted the guardians of the treasure that,AnIn-low,target,71
+36,The hero confronted the guardians of the treasure that,AnIn-high,target,72
+37,The adjustor checked the insurance of the drivers who were,InAn-low,prime,73
+37,The adjustor checked the insurance of the drivers which was,InAn-high,prime,74
+37,The bodybuilder followed the program of the trainers that,InAn-low,target,73
+37,The bodybuilder followed the program of the trainers that,InAn-high,target,74
+38,The firm accepted the case of the clients who were,InAn-low,prime,75
+38,The firm accepted the case of the clients which was,InAn-high,prime,76
+38,The historian explained the legacy of the forefathers that,InAn-low,target,75
+38,The historian explained the legacy of the forefathers that,InAn-high,target,76
+39,The doctor confirmed the diagnosis of the specialists who were,InAn-low,prime,77
+39,The doctor confirmed the diagnosis of the specialists which was,InAn-high,prime,78
+39,The minors vandalized the fence of the neighbors that,InAn-low,target,77
+39,The minors vandalized the fence of the neighbors that,InAn-high,target,78
+40,Claudio commemorated the adventure of the backpackers who were,InAn-low,prime,79
+40,Claudio commemorated the adventure of the backpackers which was,InAn-high,prime,80
+40,The teacher resolved the dispute of the classmates,InAn-low,target,79
+40,The teacher resolved the dispute of the classmates,InAn-high,target,80
+41,The superstar boarded the yacht of the partygoers who were,InAn-low,prime,81
+41,The superstar boarded the yacht of the partygoers which was,InAn-high,prime,82
+41,The teenager enjoyed the reunion of the relatives that,InAn-low,target,81
+41,The teenager enjoyed the reunion of the relatives that,InAn-high,target,82
+42,The therapist analyzed the relationship of the spouses who were,InAn-low,prime,83
+42,The therapist analyzed the relationship of the spouses which was,InAn-high,prime,84
+42,The servants maintained the palace of the noblemen that,InAn-low,target,83
+42,The servants maintained the palace of the noblemen that,InAn-high,target,84
+43,The kingdom anticipated the return of the knights who were,InAn-low,prime,85
+43,The kingdom anticipated the return of the knights which was,InAn-high,prime,86
+43,The technician consulted the programmers of the code that,AnIn-low,target,85
+43,The technician consulted the programmers of the code that,AnIn-high,target,86
+44,The shopper heard the tantrum of the children who were,InAn-low,prime,87
+44,The shopper heard the tantrum of the children which was,InAn-high,prime,88
+44,Austin praised the developers of the game that,AnIn-low,target,87
+44,Austin praised the developers of the game that,AnIn-high,target,88
+45,Natalya designed the uniform of the cheerleaders who were,InAn-low,prime,89
+45,Natalya designed the uniform of the cheerleaders which was,InAn-high,prime,90
+45,The veteran accompanied the climbers of the mountain that,AnIn-low,target,89
+45,The veteran accompanied the climbers of the mountain that,AnIn-high,target,90
+46,The electrician left the kitchen of the housemates who were,InAn-low,prime,91
+46,The electrician left the kitchen of the housemates which was,InAn-high,prime,92
+46,The attorney sued the bosses of the institution that,AnIn-low,target,91
+46,The attorney sued the bosses of the institution that,AnIn-high,target,92
+47,The cast previewed the script of the playwrights who were,InAn-low,prime,93
+47,The cast previewed the script of the playwrights which was,InAn-high,prime,94
+47,The collector approached the sellers of the antique that ,AnIn-low,target,93
+47,The collector approached the sellers of the antique that ,AnIn-high,target,94
+48,The builders renovated the office of the coworkers who were,InAn-low,prime,95
+48,The builders renovated the office of the coworkers which was,InAn-high,prime,96
+48,Naomi liked the administrators of the department that,AnIn-low,target,95
+48,Naomi liked the administrators of the department that,AnIn-high,target,96
