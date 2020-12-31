@@ -8,7 +8,10 @@ inv.logit = function(x) { exp(x)/(1+exp(x))}
 ###########
 
 # read in Corley data, set DO to dep var,
-# do contrast coding as described in analysis plan
+                                        # do contrast coding as described in analysis plan
+                                        # Corley_Scheepers_2002.txt is provided separately and must be acquired
+                                        # separatley and added to data
+
 d = read_tsv("data/Corley_Scheepers/Corley_Scheepers_2002.txt") %>%
     filter(prime_resp %in% c("DO", "PO"),
            target_resp %in% c("DO", "PO")) %>%
