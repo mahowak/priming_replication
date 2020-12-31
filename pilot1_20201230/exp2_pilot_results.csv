@@ -1,0 +1,769 @@
+time,subject,controller,item,element,item_type,group,prime,completion,type,condition,exp
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,in prison.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was covered in blood.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,exploring ruins.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,bombed.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,now poor.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were in line.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,drifting away.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,went to Hawaii.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,falling apart.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,had moved.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,infested with rats.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,screwed him over.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,sinking rapidly.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,he had not seen in a while.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,an easy win.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,had lived there.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,very loud.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,did so well.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,getting high.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was in Russia.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,on the stand.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,won the game.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,building a fence.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,worked for them.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,failing.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was won.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,not good.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,was very expensive.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,late on rent.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,left their info.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,superb.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were drunk.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,drafting a buildong.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,took the test.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,in space.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were drunk.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,very regal.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,committed a crime.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,long awaited.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,made up the game.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,on the case.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,left everything a mess.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,incomplete.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,lived long ago.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,making mistakes.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,lived there.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,expired.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,gave him advice.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,sporty.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,went to the top.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,riveting.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,created it.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,fighting in the parlor.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,had sex.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,not thrilled.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were sick.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,dead.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,had come down with illness.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,dark.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,raged on through the night.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,looking to sell.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,escaped from Mexico.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,outside.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,broke it.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,significant.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,beat up his assailant.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,tragic.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,who were fighting.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,disgruntled.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,took on the government.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,biased.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,were still there.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,going to Hawaii.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,took care of the lawn.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,insufficient.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,weren't pulling their weight.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,late.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,stood in their way.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,not good quality.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,they were in.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,a lot nicer now.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,she worked for.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,controversial.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,committed the crime.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,quarreling.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,were pooping.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,not good.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,they didn't know.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,good advice.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,they believed in.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,to rustle cattle.,target,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,he was not good at.,target,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,struggling.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,puked last night.,target,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,winning.,target,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,were on drugs.,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,in the hills,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,they sabatoged his stuff,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,amazing,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,was in the desert,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,awesome,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,people went wow,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,making success,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,they all went partying,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,written for the actors,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,went awkward,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,on the news of an interview,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,they enjoyed it,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,a bit cool,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,who were struggling,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,beautiful,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,went through a long journey,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,ruling the kingdoms,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were victims of the murder/crime scene,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,the best champions,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,went on fire,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,fleeing the crime scene,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,won the game,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,good souls,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were by the beach,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,making good money,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,saved his life and protected him,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,advanced levdel,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,they would be cured,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,intelligent.,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,were elderly.,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,very nice,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,made them happy,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,drunk,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,had bones,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,an amazing art of work,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were just passing by,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,funny,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,they made an update that every player would enjoy,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,robbing a bank,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,prayed,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,new,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,they just built,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,being offensive to the public,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,just started,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,famous,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,had a big problem,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,republicans,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,tried to over turn the government,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,famous,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,were very talented,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,awesome,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were invited yesterday,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,making a movie,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,were stolen and gone wrong,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,lying,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,practiced hard and won,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,very excited,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,moved here last month,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,bad,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,was corrupt,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,needed,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,most people like,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,online,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,came out,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,late,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,was from out of state,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,yesterday,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,was new,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,poor,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were minorities,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,fair,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,weren't clear,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,expired,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,was provided,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,nice,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,were from mexico,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,busy,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,was damaged,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,from new york,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,were fromengland,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,there earlier,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,made a mess,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,nice,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,came yesterday,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,nice,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,came here yesterday,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,talented,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,made a mess,target,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,nice,target,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,didnt work,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,from europe,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,was performed,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,lost,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was planned last week,target,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,building a hotel,target,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,made grades,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,making good points.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,helped commit the crime.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,due to start construction soon.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,was going to summer break soon.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,heavily damaged in the crash.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,were caught cheating.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,hit by the tractor trailer.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,helped us all be free today.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,worth over a million dollars.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,grew the rare and endangered flowers.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,detailed.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,had collapsed.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,sure that Nancy had cancer.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,called them names earlier.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,part of the group project.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was worth a thousand dollars.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,gathering up the sheep.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,were more experienced.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,ready to sell.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,won the awards.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,hard to answer.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were celebrating their birthdays.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,fighting too much.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,kept order in the kingdom.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,very harsh.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,scored a perfect game.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,suffering from famine.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were shopping for groceries.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,showing interest in upping their investments.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,would give their life for their clients.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,peer reviewed and interesting.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were hungry for snacks.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,working hard on completing their work.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,was going for thousands of dollars.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,very busy.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,had a backed up toilet.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,sexually harassing women.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,made the highest sales.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,done professionally.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,smelled like death.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,fighting over the toy.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,finished it in under a year.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,without power.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,committed fraud.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,caught cheating.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,used unethical means to get business.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,higher than average.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,were squatting there illegally.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,foreclosed on.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,worked the hardest.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,found to be illegally obtained.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,had been there for decades.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,at the coffee shop down the street.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,took care of low income patients.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,looking for adventure.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,didn't have much money,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,very thin and in shape.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,he liked the most.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,for entertaining children.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,needed a home the most.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,in need of bigger working spaces.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,were kind to her.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,skilled in swordsmanship.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,run the server.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,over 200 pages long.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,didn't like his work.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,happy to have tourists.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,discovered its secrets.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,being too rowdy.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,she hadn't seen in a long time.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,trying to be as sexy as possible.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,were new to the activity.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,lost under the table.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,left it a mess the night before.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,good drivers.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,had the most important clients.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,full of errors.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,had weed problems.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,bright and colorful.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,contained the illegal drugs.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,nervously waiting.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were caught doing drugs.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,hidden away.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was set to start later that day.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,following him.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,helped save the whales.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,very run down.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,had bombed the towers.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,set to expire.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,were open to suggestions.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,the first to discover the secret.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,who were fighting over pogs.,target,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,conjoined by the head.,target,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,helped crack the government's code.,target,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,full of drug addicts.,target,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,discovered fire.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,in the gym,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,won the race.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,injured in the car crash.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,started the foundation,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,playing sports.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,won the competition.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,a private jet.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,cut the grass.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,on the boat.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,was found.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,mean.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,were on stage.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,stolen.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was holy.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,majestic.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were in question.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,away.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,were always on time.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,In red ink.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,needed work.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,red.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,was gold.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,on tape.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was flooded.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,top rated.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,was broken.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,present.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,was available.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,working.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,were tall.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,attractive,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,were available.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,women.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,robbed the bank,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,drunk.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,were home.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,top rated.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,won,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,amazing,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,killed the main character.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,ill.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,were men,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,honest.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were on the boat,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,women.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,played tennis.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,lost.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,made the app.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,Estranged,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,were away,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,poor,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,fired him,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,ready,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,Performed.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,hurt by the storm.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were unhappy.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,in town,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,Crashed.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,from usa,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,was broken.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,2000,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,were drunk,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,happy,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,were Russian,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,brand new,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was lost,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,flooded,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,were poor,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,Published,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,Were happy,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,Smiling,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,Was found,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,found,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,were tired,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,on stage.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,saved children.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,mad.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,was nominated.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,Monday.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were working.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,having drinks,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,failure,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,into technology.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,was in town,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,hurt by the storm.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,were abused.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,next-door.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,were unhappy.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,dishonest.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,stole money.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,in the hotel.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were infected.,target,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,at work.,target,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,were in the competition.,target,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,hidden.,target,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,get organized.,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,confusing,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,altered the situation,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,ultimately appropriate,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,swore at them,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,inappropriate,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,complained to them,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,in disrepear,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,managed their affairs,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,repairing it,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,started the job anew,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,in the woods,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,managed the fundraiser,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,on duty,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were overstaying their working hours,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,renewing the contract,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,were rioting,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,uncertain,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were present,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,rather confusing,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,captured forests,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,an early arrival,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,was hidden,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,on duty,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,studied music,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,eating,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,was beautiful,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,difficult,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,was true,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,working,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,was small,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,beautiful,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,was not attending,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,very full,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,were able to attend,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,confusing,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,was tall,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,incomplete,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,sold millions,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,unique,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,were in completition,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,toxic,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,lived there,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,present,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,competed,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,unavailable,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,stood tall,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,studying artifacts,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,was complicated,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,working on the project,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,was going under,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,working hard,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were snacking,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,nervous,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,was boarded up,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,living there,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was from centuries ago,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,stuffy,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,was going under,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,indignants,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was beautiful,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,struggling,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,ran overtime,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,very loud,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,was excellent,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,invigorating,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,had lived there forever,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,struggling hardest,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,lived there,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,rather unique,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,hurt them,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,struggling with block,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,were doing renovations,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,quite complex,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,was soccer,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,truant,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was large,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,delayed,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,was due,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,not present,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,was empty,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,practicing,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was messy,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,tied,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,was demolished,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,expired,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,was complex in nature,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,present,target,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,was open 24/7,target,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,online,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,were present,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,novel,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,on her own,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,dilligent,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were showing off,target,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,timeous,target,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,not many others could do,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,all very tired having worked all day.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,left for their summer break.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,sailing to a remote island,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,he hadn't seen in a long time,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,killed at the scene,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,worked hard all season to win,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,fascinating and a sure hit,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,was very valuable and sought after,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,very controversial and sad,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,the audience was not aware of,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,preparing a feat for a large group of people,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,was flooded from an exploded pipe.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,very messy and smelly.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,caused him financial hardship,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,a goodwill thing to do as they were very tired,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,insisted that they leave right away,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,to herd the cows and horses in their pens,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,he enjoyed watching and playing,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,grey with red stripes,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,was the highest in the region,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,eager to build the house,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,were in advanced classes,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,very annoying and loud.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,created a new virtual world to play in,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,untruthful in their reporting,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,was held at the coliseum,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,waiting for their approval,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,had hired a landscaping company,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,laughing and having a good time,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,made illicit drug sales,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,going to make up the task force.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were most in need.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,available to anyone who wanted to view it.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,was found in the box of photos.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,looking for a larger apartment.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,left their phone numbers.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,to update his resume and headshots.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,helped her when she was younger.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,televised.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,after several attempts.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,all safe and thankful for his help.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,had gone undiscovered for thousands of years.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,assigned the essay.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,could change their lives.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,protesting.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,planned the attack.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,a first for that agency.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,started their cultural holiday.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,damaged by the fire.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,showed interest in her ideas.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,still valid.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,followed a strict diet.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,being investigated for fraud.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was covered in offerings.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,unanimous.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,commited the crime.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,already struggling.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,wanted to return the recalled items.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,filled with other travelers with other guides,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,were left homeless after a fire in their garage,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,all very ornamentally drawn,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were hiding evidence,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,the highlight of the evening for everyone,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,gave them more exposure on the global marketplace,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,on the verge of a scientific breakthrough,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were celebrating a graduation,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,having a big bonfire with a group of people,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,did an exceptional job over the busy summer months,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,digging for dinosaur bones in the desert,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,judged his work to harshly,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,a grand affair that all would attend,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,displayed error messages and would not work,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,harder than she had thought,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,owned many homes with many rooms,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,made viral through a facebook post,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,were responsible for the mishap,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,eager to start working and getting things done,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,were displaced due to flooding,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,a great thing for a change,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,fought off the attackers in the parking lot,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,overseeing the case from start to finish,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were overseeing the repairs being done,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,very popular with the the other staff members,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were getting married,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,loud and obnoxious to the other guests,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,were the last to play for the night,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,out hunting in the forest,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was to be held on Saturday.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,unheard of this late in the competition.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,refused to comply with the company standards.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,heading to the island.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,he had hired last week.,target,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,starting to question him.,target,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,they had planned for 18 months.,target,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,what we were concerned about.,target,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,had just been put up last month.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,dancing on the deck.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,he hadn't seen in a long time.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,advising him.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,addressed climate change.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,not actually on fire.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was located in Africa.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,buried under other paperwork on his desk.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,they had worked so hard for.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,clearly biased.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,day.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,very good.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was disgusting.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,bound for Spain.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,he owned.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,on a Thursday night.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,he worked in.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,wearing bikinis.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,night to a toast.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,getting ready to expire.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,provided their phone numbers.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,going to a national competition.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,had never been there before.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,excited to see the waterfall.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,needed it.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,on the floor.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,had a lot of glitter on it.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,about their future.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,afternoon on the beach.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,hidden away from the trail.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,had arrived late.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,fenced off.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,had worked for them more than a year.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,trying to sell their house.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,he found in the house.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,in a very loud voice.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,had been condemned.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,a year long trip.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,wrote bad reviews.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,acquired illegally.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was covered in candles.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,in the castle.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,had been accused of fraud.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,crushed.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,was in the display shelf.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,fighting.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,they were making.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,in need of editing.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,she worked for.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,sitting around eating.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,tried to sue them.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,known for writing interesting plays.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,they wanted to buy.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,discussing better business practices.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,were environmentally friendly.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,desperate for help.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,had established many policies for the country.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,tired from their trip.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,stood in his way.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,newly opened.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,had the leak.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,very busy.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were on the property.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,fighting constantly.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,was away on business.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,for sale a long time.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,they currently live in.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,acting on their behalf.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,tried to hurt the young girl.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,away for many years.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,he was working on.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,due on Monday.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,she worked for.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,looking to renew their policy.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,he was given.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,trying to build a new subdivision.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,were not pulling their weight.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,advising the patient.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,separated the houses.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,dependent on farming.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,he didn't like the new prices.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,traveling around the world.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,quickly.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,working hard on the book.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,had rolled over.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,extremely interesting.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,wanted drinks.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,on the 4th floor.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,she worked for.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,working hard to finish the job.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,he played.,target,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,on the board of directors.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,surrounded him.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,near her home.,target,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,he found yesterday.,target,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,at the back of the store.,target,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,he was playing.,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,pretty,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,were happy,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,false,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,was fun,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,mad,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,were sad,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,false,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,was false,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,was false,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,were wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,false,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,false,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,was candy,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,false,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,candy was,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,false,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,candy,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,rich,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,got money,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,money bought,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,money,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,money,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,money,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,with money,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,was right,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,time,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,money,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,money,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,money,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,money,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were sick,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,gave gold,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,was full,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,was wrong,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,gold,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,loud,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was wrong,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,was stupid,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,was guns,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,was wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,had loads of ammunitions and automatic firearms%2C,target,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,wrong,target,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,had a stash of aks,target,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,wrong,target,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,explained how to curv ebullets,target,InAn,exp2

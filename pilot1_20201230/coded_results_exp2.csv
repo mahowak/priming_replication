@@ -1,0 +1,769 @@
+time,subject,controller,item,element,item_type,group,prime,completion,code,condition,exp
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,done professionally.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,on tape.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,very good.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors which was,loud,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,struggling.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,talented,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,practicing,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were,all very tired having worked all day.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were in line.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were minorities,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were shopping for groceries.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,were unhappy.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,was open 24/7,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,wanted to return the recalled items.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,he didn't like the new prices.,U,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that,candy was,U,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,did so well.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,they made an update that every player would enjoy,O,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,finished it in under a year.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,was nominated.,L,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,was excellent,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,created a new virtual world to play in,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,he was playing.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were drunk.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were invited yesterday,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were hungry for snacks.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,Were happy,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were snacking,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,were celebrating a graduation,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,wanted drinks.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that,was fun,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,tragic.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,a bit cool,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,novel,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was,televised.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,the first to discover the secret.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,having drinks,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,traveling around the world.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers who were,wrong,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,peer reviewed and interesting.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,Published,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,extremely interesting.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists which was,FALSE,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,in space.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,awesome,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,working hard,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were,on the verge of a scientific breakthrough,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,full of errors.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,In red ink.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,in need of editing.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,making mistakes.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,intelligent.,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,struggling with block,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were,waiting for their approval,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,escaped from Mexico.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,were from mexico,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,needed a home the most.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,was in town,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,was small,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,were displaced due to flooding,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,they currently live in.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that,had loads of ammunitions and automatic firearms%2C,A,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,detailed.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,Monday.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,very busy.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers which was,wrong,A,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,on the case.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,busy,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,on duty,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were,overseeing the case from start to finish,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,took care of the lawn.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,were very talented,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,grew the rare and endangered flowers.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,cut the grass.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,stood tall,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,he had hired last week.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,he owned.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that,money,U,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,bright and colorful.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,majestic.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,in the castle.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,very regal.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,ruling the kingdoms,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,not present,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were,all very ornamentally drawn,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,due to start construction soon.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,ready,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,due on Monday.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,drafting a buildong.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,building a hotel,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,on duty,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were,eager to build the house,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,she worked for.,A,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,they just built,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,were kind to her.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,were always on time.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,managed their affairs,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,showed interest in her ideas.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,she worked for.,A,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,sporty.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,beautiful,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,confusing,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was,grey with red stripes,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,trying to be as sexy as possible.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,in the gym,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,going to a national competition.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,riveting.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,nice,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,online,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was,the highlight of the evening for everyone,A,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,sexually harassing women.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,present.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,discussing better business practices.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,good advice.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,very nice,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,confusing,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was,to update his resume and headshots.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,following him.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,on stage.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,advising him.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,took the test.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,made grades,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,was going to summer break soon.,L,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,Performed.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,studied music,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,were in advanced classes,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,she worked for.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that,was stupid,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,lived there.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,were elderly.,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,had weed problems.,H,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,needed work.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,were doing renovations,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,had hired a landscaping company,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,she worked for.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that,was right,H,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,they believed in.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,made them happy,A,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,helped save the whales.,A,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,saved children.,A,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,altered the situation,A,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,helped her when she was younger.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,addressed climate change.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,expired.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,expired,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,expired,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was,still valid.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,good drivers.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,at work.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,looking to renew their policy.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,dark.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,being offensive to the public,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,beautiful,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was,a first for that agency.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,very thin and in shape.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,attractive,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,wearing bikinis.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models who were,pretty,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,he was not good at.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,most people like,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,were more experienced.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,were tall.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,was soccer,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,he enjoyed watching and playing,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,he played.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that,time,U,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was in Russia.,H,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,had bones,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,discovered fire.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was lost,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was from centuries ago,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,had gone undiscovered for thousands of years.,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was located in Africa.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that,was wrong,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,over 200 pages long.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,amazing,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,a year long trip.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,exploring ruins.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,from europe,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,studying artifacts,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were,digging for dinosaur bones in the desert,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,screwed him over.,A,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,they sabatoged his stuff,U,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,committed fraud.,A,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,fired him,A,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,was going under,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,caused him financial hardship,A,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,tried to sue them.,A,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that,gave gold,A,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,lost under the table.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,found,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,on the floor.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,fighting in the parlor.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,there earlier,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,eating,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were,loud and obnoxious to the other guests,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,lived long ago.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,came out,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,won the awards.,A,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,were Russian,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,captured forests,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,was found in the box of photos.,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,he found in the house.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that,were sad,L,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,weren't pulling their weight.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,was corrupt,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,used unethical means to get business.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,stole money.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,complained to them,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,refused to comply with the company standards.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,were not pulling their weight.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that,gold,U,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,gave him advice.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,was provided,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,had the most important clients.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,were in the competition.,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,was complex in nature,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,followed a strict diet.,A,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,he was given.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that,were wrong,L,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,a lot nicer now.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,new,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,in disrepear,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was,damaged by the fire.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,in need of bigger working spaces.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,away.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,on the 4th floor.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,significant.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,making good money,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,timeous,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was,a great thing for a change,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,showing interest in upping their investments.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,women.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,on the board of directors.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,not good.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,written for the actors,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,incomplete,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was,fascinating and a sure hit,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,working hard on completing their work.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,Smiling,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,known for writing interesting plays.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,controversial.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,fair,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,rather unique,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was,unanimous.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,making good points.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,women.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,acting on their behalf.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,won the game.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,won the game,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,were caught cheating.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,was gold.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,competed,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,worked hard all season to win,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,was in the display shelf.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that,money,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,was very expensive.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,went awkward,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,was going for thousands of dollars.,L,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,Was found,L,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,sold millions,A,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,was very valuable and sought after,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,they wanted to buy.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that,money bought,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,higher than average.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,2000,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,in a very loud voice.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,winning.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,the best champions,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,tied,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were,laughing and having a good time,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,incomplete.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,online,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,rather confusing,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was,available to anyone who wanted to view it.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,ready to sell.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,happy,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,trying to sell their house.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners who were,mad,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,created it.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,came yesterday,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,made the highest sales.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,was available.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,were present,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,gave them more exposure on the global marketplace,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,were environmentally friendly.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that,was wrong,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,very busy.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,next-door.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,newly opened.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs which was,FALSE,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,quarreling.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,famous,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,nervous,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were,preparing a feat for a large group of people,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were drunk.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were just passing by,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were caught doing drugs.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,Crashed.,A,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were showing off,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,were getting married,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,had rolled over.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that,was wrong,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,bombed.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,was performed,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,didn't like his work.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,killed the main character.,L,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,was complicated,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,judged his work to harshly,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,wrote bad reviews.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,not good.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,yesterday,A,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,ultimately appropriate,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was,what we were concerned about.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,sure that Nancy had cancer.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,top rated.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,advising the patient.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,infested with rats.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,in the hills,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,stuffy,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was,very messy and smelly.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,without power.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,poor,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,sitting around eating.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,they were in.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,were stolen and gone wrong,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,helped crack the government's code.,A,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,won the competition.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,were in completition,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,were responsible for the mishap,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,they were making.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was won.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,they all went partying,U,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was worth a thousand dollars.,L,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,won,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was large,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,could change their lives.,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,they had worked so hard for.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,committed a crime.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were victims of the murder/crime scene,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,contained the illegal drugs.,H,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were in question.,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,was empty,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were hiding evidence,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,had been accused of fraud.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that,were wrong,L,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,not good quality.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,making a movie,A,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,unique,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was,made viral through a facebook post,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,conjoined by the head.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,playing sports.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,fighting.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings who were,wrong,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,full of drug addicts.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,brand new,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,not actually on fire.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,getting high.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,drunk,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,living there,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were,all safe and thankful for his help.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,an easy win.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,awesome,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,difficult,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was,very controversial and sad,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,hit by the tractor trailer.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,injured in the car crash.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,desperate for help.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,stood in their way.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,were fromengland,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,discovered its secrets.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,was found.,L,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,was hidden,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,insisted that they leave right away,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,stood in his way.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that,was full,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,had lived there.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,people went wow,A,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,helped us all be free today.,A,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,started the foundation,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,was true,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,the audience was not aware of,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,had established many policies for the country.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that,explained how to curv ebullets,L,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,raged on through the night.,L,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,just started,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,he liked the most.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,were available.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,was not attending,A,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,started their cultural holiday.,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,night to a toast.,U,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that,were happy,H,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,puked last night.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,made a mess,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,smelled like death.,H,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was flooded.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was messy,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,left for their summer break.,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was disgusting.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that,was wrong,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,hidden away.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,hidden.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,hidden away from the trail.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,dead.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,lost,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,in the woods,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were,out hunting in the forest,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,long awaited.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,nice,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,delayed,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was,a grand affair that all would attend,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,skilled in swordsmanship.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,lost.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,away for many years.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights who were,wrong,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,set to expire.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,ill.,A,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,getting ready to expire.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,late on rent.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,late,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,renewing the contract,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were,looking for a larger apartment.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,they didn't know.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,was new,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,called them names earlier.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,was broken.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,swore at them,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,had just been put up last month.,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,separated the houses.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that,was candy,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,found to be illegally obtained.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,stolen.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,acquired illegally.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers which was,FALSE,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,in prison.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,robbing a bank,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,indignants,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were,being investigated for fraud.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,insufficient.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,bad,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,inappropriate,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was,unheard of this late in the competition.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,caught cheating.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,dishonest.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,trying to build a new subdivision.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,went to Hawaii.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were by the beach,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were celebrating their birthdays.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were on the boat,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,were present,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,they had planned for 18 months.,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,afternoon on the beach.,U,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that,was false,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were sick.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,they would be cured,U,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,took care of low income patients.,L,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were infected.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,was going under,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were most in need.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,he worked in.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that,were sick,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,worth over a million dollars.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,a private jet.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,bound for Spain.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires which was,wrong,U,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,going to Hawaii.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,famous,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,unavailable,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were,heading to the island.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,were pooping.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,had a big problem,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,had a backed up toilet.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,were unhappy.,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,was boarded up,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,was flooded from an exploded pipe.,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,had the leak.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that,was wrong,H,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,were on drugs.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,went on fire,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,were squatting there illegally.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,were drunk,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,was demolished,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,made illicit drug sales,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,had been condemned.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that,had a stash of aks,A,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,broke it.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,moved here last month,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,didn't have much money,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,was broken.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,had lived there forever,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,were left homeless after a fire in their garage,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,needed it.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that,money,U,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,part of the group project.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,top rated.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,buried under other paperwork on his desk.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,117,0,prime8,NULL,The professor found the list of the students which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,failing.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,making success,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,truant,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were,assigned the essay.,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,hard to answer.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,honest.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,about their future.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers which was,FALSE,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,drifting away.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,good souls,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,uncertain,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were,starting to question him.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,committed the crime.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,weren't clear,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,helped commit the crime.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,robbed the bank,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,hurt them,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,commited the crime.,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,tried to hurt the young girl.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that,money,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,superb.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,an amazing art of work,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,dilligent,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was,very popular with the the other staff members,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,nervously waiting.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,in town,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,working hard on the book.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors who were,wrong,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,very run down.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,hurt by the storm.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,near her home.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters which was,money,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,disgruntled.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,republicans,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,struggling hardest,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were,protesting.,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,suffering from famine.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,hurt by the storm.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,dependent on farming.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers which was,FALSE,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,now poor.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,poor,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,present,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were,already struggling.,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,left their info.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,was from out of state,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,were open to suggestions.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,were men,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,were rioting,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,left their phone numbers.,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,provided their phone numbers.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,had moved.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,was in the desert,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,kept order in the kingdom.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,were away,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,lived there,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,owned many homes with many rooms,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,was away on business.,U,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that,was wrong,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,to rustle cattle.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,needed,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,quite complex,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was,to herd the cows and horses in their pens,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,gathering up the sheep.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,working.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,working hard to finish the job.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,very loud.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,funny,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,very loud,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was,very annoying and loud.,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,fighting over the toy.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,mad.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,at the back of the store.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children who were,wrong,U,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,took on the government.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,tried to over turn the government,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,had bombed the towers.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,were abused.,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,lived there,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,planned the attack.,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,he found yesterday.,A,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that,money,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,had sex.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,made a mess,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,left it a mess the night before.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,were tired,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,was beautiful,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,were the last to play for the night,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,had a lot of glitter on it.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that,was wrong,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,sinking rapidly.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,nice,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,very full,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was,sailing to a remote island,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,being too rowdy.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,drunk.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,dancing on the deck.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers who were,rich,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,who were fighting.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,who were struggling,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,who were fighting over pogs.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,failure,U,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,on her own,U,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,after several attempts.,U,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,quickly.,U,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates,with money,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,made up the game.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,didnt work,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,run the server.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,made the app.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,was due,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,displayed error messages and would not work,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,he was working on.,L,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that,was wrong,L,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,he had not seen in a while.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,came here yesterday,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,she hadn't seen in a long time.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,were home.,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,were able to attend,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,he hadn't seen in a long time,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,he hadn't seen in a long time.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that,got money,L,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,falling apart.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,amazing,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,toxic,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was,harder than she had thought,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,fighting too much.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,Estranged,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,fighting constantly.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,outside.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,very excited,A,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,invigorating,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was,filled with other travelers with other guides,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,looking for adventure.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,from usa,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,excited to see the waterfall.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was covered in blood.,H,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,prayed,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,had been there for decades.,A,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was holy.,H,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was beautiful,H,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was covered in offerings.,H,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,was covered in candles.,H,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that,candy,U,InAn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,went to the top.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,went through a long journey,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,were new to the activity.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,won the race.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,was tall,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,was the highest in the region,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,had never been there before.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that,was false,U,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,late.,H,InAn-high,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,from new york,H,InAn-high,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,an early arrival,H,InAn-high,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was,a goodwill thing to do as they were very tired,H,InAn-high,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,happy to have tourists.,L,InAn-low,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,on the boat.,L,InAn-low,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,tired from their trip.,L,InAn-low,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers who were,wrong,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,had come down with illness.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was planned last week,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was set to start later that day.,L,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,get organized.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,managed the fundraiser,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was to be held on Saturday.,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,had arrived late.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that,was wrong,U,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,heavily damaged in the crash.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,red.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,crushed.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims which was,money,U,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,on the stand.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,fleeing the crime scene,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,present,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were,killed at the scene,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,were still there.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,practiced hard and won,H,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,scored a perfect game.,H,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,were on stage.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,ran overtime,L,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,was held at the coliseum,L,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,day.,U,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that,was wrong,U,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,worked for them.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,they enjoyed it,U,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,worked the hardest.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,were poor,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,started the job anew,L,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,did an exceptional job over the busy summer months,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,had worked for them more than a year.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that,wrong,U,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,for entertaining children.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,into technology.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,for sale a long time.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs which was,was wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,looking to sell.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,nice,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,working,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were,eager to start working and getting things done,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,very harsh.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,mean.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,clearly biased.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists which was,FALSE,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,biased.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,lying,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,struggling,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were,untruthful in their reporting,L,InAn-low,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,foreclosed on.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,flooded,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,fenced off.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners which was,wrong,H,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,building a fence.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,on the news of an interview,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,repairing it,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were,having a big bonfire with a group of people,L,InAn-low,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,left everything a mess.,H,AnIn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,was damaged,L,AnIn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,had collapsed.,L,AnIn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were working.,H,AnIn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were overstaying their working hours,H,AnIn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were overseeing the repairs being done,H,AnIn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,were on the property.,H,AnIn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that,wrong,U,AnIn,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,beat up his assailant.,L,InAn,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,saved his life and protected him,L,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,would give their life for their clients.,L,InAn,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,played tennis.,L,InAn,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,not many others could do,U,InAn,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,fought off the attackers in the parking lot,L,InAn,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,surrounded him.,L,InAn,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that,was guns,H,InAn,exp2
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,at the coffee shop down the street.,H,InAn-high,exp2
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,in the hotel.,H,InAn-high,exp2
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,on a Thursday night.,H,InAn-high,exp2
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents which was,wrong,U,InAn-high,exp2
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,not thrilled.,L,InAn-low,exp2
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,advanced levdel,L,InAn-low,exp2
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,working on the project,L,InAn-low,exp2
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were,going to make up the task force.,L,InAn-low,exp2

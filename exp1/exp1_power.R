@@ -219,8 +219,9 @@ for (i in 1:8) {
               mutate(m = logit(`0.5`) - logit(`-0.5`)) %>%
               mutate(iter=paste("simulation", i),
                      m = ifelse(is.na(m), 0, m),
-                     m = ifelse(m > 100, 3, m),
-                     m = ifelse(m < -100, -3, m)))
+                     m = ifelse(m > 100, 4, m),
+                     m = ifelse(m < -100, -4, m),
+                     m.pct = inv.logit(m)))
 }
 b = bind_rows(b, group_by(d, subj, condcode) %>%
                 summarise(m=mean(respcode)) %>%
@@ -228,15 +229,17 @@ b = bind_rows(b, group_by(d, subj, condcode) %>%
                 mutate(m = logit(`0.5`) - logit(`-0.5`)) %>%
                 mutate(iter="real",
                        m = ifelse(is.na(m), 0, m),
-                       m = ifelse(m > 100, 3, m),
-                       m = ifelse(m < -100, -3, m)))
+                       m = ifelse(m > 100, 4, m),
+                       m = ifelse(m < -100, -4, m),
+                       m.pct = inv.logit(m)))
 b[is.na(b$iter), "iter"] = "real"
-ggplot(b, aes(x=m)) + geom_histogram() + 
+ggplot(b, aes(x=m.pct)) + geom_histogram(bins=20) + 
   facet_wrap(~iter, ncol=3) + 
-  xlim(-3, 3) + 
   xlab("priming effect") + 
   ggtitle("by subject") + 
   theme_bw(13)
+ggsave("pngs/exp1_subj_prime_effect.png", width=6, height=4.5)
+
 
 #######################
 # items, simulate and plot histograms for priming effect
@@ -249,8 +252,9 @@ for (i in 1:8) {
               mutate(m = logit(`0.5`) - logit(`-0.5`)) %>%
               mutate(iter=paste("simulation", i),
                      m = ifelse(is.na(m), 0, m),
-                     m = ifelse(m > 100, 3, m),
-                     m = ifelse(m < -100, -3, m)))
+                     m = ifelse(m > 100, 4, m),
+                     m = ifelse(m < -100, -4, m),
+                     m.pct = inv.logit(m)))
 }
 b = bind_rows(b, group_by(d, item, condcode) %>%
                 summarise(m=mean(respcode)) %>%
@@ -258,15 +262,16 @@ b = bind_rows(b, group_by(d, item, condcode) %>%
                 mutate(m = logit(`0.5`) - logit(`-0.5`)) %>%
                 mutate(iter="real",
                        m = ifelse(is.na(m), 0, m),
-                       m = ifelse(m > 100, 3, m),
-                       m = ifelse(m < -100, -3, m)))
+                       m = ifelse(m > 100, 4, m),
+                       m = ifelse(m < -100, -4, m),
+                       m.pct = inv.logit(m)))
 b[is.na(b$iter), "iter"] = "real"
-ggplot(b, aes(x=m)) + geom_histogram() + 
+ggplot(b, aes(x=m.pct)) + geom_histogram() + 
   facet_wrap(~iter, ncol=3) + 
-  xlim(-3, 3) + 
   xlab("priming effect") + 
-  ggtitle("by subject") + 
+  ggtitle("by item") + 
   theme_bw(13)
+ggsave("pngs/exp1_item_prime_effect.png", width=6, height=4.5)
 
 
 

@@ -1,0 +1,773 @@
+time,subject,controller,element,group,dat,item,prime,completion,code,type,condition,target_verb,other_verb,exp
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,4,The mother showed the hungry baby,a automatic ar15,D,prime,DO-diff,give,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,23,The blogger mailed the penpal,a birthday card.,D,prime,DO-diff,offer,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,15,The builder handed the surveyor,a blueprint of his design,D,prime,DO-diff,lend,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,8,The hostess sold the guests,a bottle of wine.,D,prime,DO-diff,hand,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,4,The mother showed the hungry baby,a bottle.,D,prime,DO-diff,give,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,39,The librarian handed the student,a card.,D,prime,DO-diff,send,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,15,The builder handed the surveyor,a check,D,prime,DO-diff,lend,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,16,The farmer mailed the carpenter,a check for the work that was completed.,D,prime,DO-diff,lend,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,43,The racing driver gave the helpful mechanic,a compliment,D,prime,DO-diff,show,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,32,The store owner offered the tall customer,a drink,D,prime,DO-diff,sell,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,43,The racing driver gave the helpful mechanic,a fiver.,D,prime,DO-diff,show,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,41,The contractor offered the agent,a good deal.,D,prime,DO-diff,send,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,17,The fashion designer sent the famous journalist,a gown to try on for the gala.,D,prime,DO-diff,lend,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,29,The rockstar gave the young fan,a guitar.,D,prime,DO-diff,mail,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,47,The baseball player lent the umpire,a hand.,D,prime,DO-diff,show,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,18,The cheerleader gave the skater,a high five and a wink,D,prime,DO-diff,lend,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,22,The dancer sent the magician,a kiss,D,prime,DO-diff,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,31,The professor lent the lecturer,a laptop computer.,D,prime,DO-diff,sell,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,48,The enthusiastic child mailed the young friend,a letter.,D,prime,DO-diff,show,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,45,The lifeguard offered the surfer,a life jacket just in case of an emergency,D,prime,DO-diff,show,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,30,The historian offered the princess,a look at her legacy.,D,prime,DO-diff,mail,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,25,The architect lent the cheerful engineer,a new tool.,D,prime,DO-diff,mail,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,17,The fashion designer sent the famous journalist,a note,D,prime,DO-diff,lend,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,1,The driving instructor handed the learner,a passing certificate.,D,prime,DO-diff,give,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,12,The banker lent the customer,a pen.,D,prime,DO-diff,hand,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,31,The professor lent the lecturer,a pen.,D,prime,DO-diff,sell,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,40,The photographer sold the editor,a picture,D,prime,DO-diff,send,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,6,The groomer sold the client,a professional brush and dog shampoo.,D,prime,DO-diff,give,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,38,The dentist mailed the insurance company,a receipt,D,prime,DO-diff,send,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,44,The youngster sold the kind babysitter,a ring,D,prime,DO-diff,show,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,33,The spy handed the foreign diplomat,a secret flash drive.,D,prime,DO-diff,sell,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,14,The retiree sold the neighbor,a snowblower,D,prime,DO-diff,lend,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,2,The captain offered the toddler,a sucker.,D,prime,DO-diff,give,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,18,The cheerleader gave the skater,a thumbs up,D,prime,DO-diff,lend,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,42,The researcher lent the experienced surgeon,a tool to help the surgeon,D,prime,DO-diff,send,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,32,The store owner offered the tall customer,a top hat.,D,prime,DO-diff,sell,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,20,The car salesman sold the couple,a used car,D,prime,DO-diff,offer,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,20,The car salesman sold the couple,a used car for a reasonable price,D,prime,DO-diff,offer,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,3,The florist mailed the startled butler,a very strange picture.,D,prime,DO-diff,give,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,19,The woman gave the new neighbor,a wave,D,prime,DO-diff,offer,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,22,The dancer sent the magician,a wave and a wink from across the room,D,prime,DO-diff,offer,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,19,The woman gave the new neighbor,a welcome basket full of fruits,D,prime,DO-diff,offer,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,29,The rockstar gave the young fan,an autograph.,D,prime,DO-diff,mail,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,37,The disgruntled employee showed the managing director,anger,D,prime,DO-diff,send,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,5,The biologist lent the chemist,bitcoin,D,prime,DO-diff,give,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,2,The captain offered the toddler,candy,D,prime,DO-diff,give,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,3,The florist mailed the startled butler,candy,D,prime,DO-diff,give,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,11,The bartender offered the server,drinks,D,prime,DO-diff,hand,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,39,The librarian handed the student,five books,D,prime,DO-diff,send,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,9,The efficient secretary sent the grumpy businessman,flowers.,D,prime,DO-diff,hand,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,8,The hostess sold the guests,food,D,prime,DO-diff,hand,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,27,The intern handed the manager,food.,D,prime,DO-diff,mail,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,10,The CEO mailed the receptionist,gold,D,prime,DO-diff,hand,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,6,The groomer sold the client,gold,D,prime,DO-diff,give,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,48,The enthusiastic child mailed the young friend,happy,D,prime,DO-diff,show,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,7,The grandmother gave the happy bride,her favorite piece of jewelry.,D,prime,DO-diff,hand,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,37,The disgruntled employee showed the managing director,his butt.,D,prime,DO-diff,send,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,24,The millionaire showed the struggling artist,his collection to inspire her.,D,prime,DO-diff,offer,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,28,The company sent the eager athlete,his new uniform.,D,prime,DO-diff,mail,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,5,The biologist lent the chemist,his notes.,D,prime,DO-diff,give,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,42,The researcher lent the experienced surgeon,his opinion.,D,prime,DO-diff,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,38,The dentist mailed the insurance company,his payment.,D,prime,DO-diff,send,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,25,The architect lent the cheerful engineer,his ruler.,D,prime,DO-diff,mail,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,45,The lifeguard offered the surfer,his sunglasses.,D,prime,DO-diff,show,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,36,The baker sent the celebrity,his world famous pie.,D,prime,DO-diff,sell,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,34,The entrepreneur showed the landscapers,how he wanted his shrubs.,O,prime,DO-diff,sell,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,26,The senator showed the governor,how to best do his job.,O,prime,DO-diff,mail,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,12,The banker lent the customer,money,D,prime,DO-diff,hand,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,28,The company sent the eager athlete,money,D,prime,DO-diff,mail,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,9,The efficient secretary sent the grumpy businessman,money,D,prime,DO-diff,hand,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,35,The grocer gave the family,money.,D,prime,DO-diff,sell,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,30,The historian offered the princess,money.,D,prime,DO-diff,mail,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,33,The spy handed the foreign diplomat,money.,D,prime,DO-diff,sell,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,35,The grocer gave the family,one free loaf of bread.,D,prime,DO-diff,sell,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,47,The baseball player lent the umpire,play for once,U,prime,DO-diff,show,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,36,The baker sent the celebrity,shoes,D,prime,DO-diff,sell,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,41,The contractor offered the agent,some money and a contract to sign to do a quick job,D,prime,DO-diff,send,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,40,The photographer sold the editor,some photos.,D,prime,DO-diff,send,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,21,The swimmer handed the visitor,sunscreen for his face,D,prime,DO-diff,offer,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,34,The entrepreneur showed the landscapers,the building.,D,prime,DO-diff,sell,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,11,The bartender offered the server,the drinks.,D,prime,DO-diff,hand,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,26,The senator showed the governor,the house.,D,prime,DO-diff,mail,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,10,The CEO mailed the receptionist,the necessary paperwork.,D,prime,DO-diff,hand,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,16,The farmer mailed the carpenter,the new payment,D,prime,DO-diff,lend,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,27,The intern handed the manager,the store keys.,D,prime,DO-diff,mail,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,23,The blogger mailed the penpal,their correspondence,D,prime,DO-diff,offer,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,24,The millionaire showed the struggling artist,their fortune,D,prime,DO-diff,offer,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,21,The swimmer handed the visitor,their goggles,D,prime,DO-diff,offer,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,13,The teenager showed the tourist,their photos,D,prime,DO-diff,lend,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,14,The retiree sold the neighbor,their ticket,D,prime,DO-diff,lend,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,1,The driving instructor handed the learner,time,D,prime,DO-diff,give,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,44,The youngster sold the kind babysitter,to a supermarket for meat.,P,prime,DO-diff,show,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,46,The nurse sent the doctor,to the patients,P,prime,DO-diff,show,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,46,The nurse sent the doctor,to the reception area.,P,prime,DO-diff,show,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,7,The grandmother gave the happy bride,was wrong,U,prime,DO-diff,hand,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,13,The teenager showed the tourist,where to get a good lunch for cheap,O,prime,DO-diff,lend,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,29,The rockstar mailed the young fan,a automatic glock,D,prime,DO-same,mail,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,40,The photographer sent the editor,a beautiful photo,D,prime,DO-same,send,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,41,The contractor sent the agent,a bill for the services that he performed,D,prime,DO-same,send,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,4,The mother gave the hungry baby,a bottle of warm milk.,D,prime,DO-same,give,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,2,The captain gave the toddler,a bottle.,D,prime,DO-same,give,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,4,The mother gave the hungry baby,a bottle.,D,prime,DO-same,give,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,2,The captain gave the toddler,a cool hat,D,prime,DO-same,give,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,31,The professor sold the lecturer,a copy of the lesson.,D,prime,DO-same,sell,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,6,The groomer gave the client,a coupon on a free haircut.,D,prime,DO-same,give,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,20,The car salesman offered the couple,a discount,D,prime,DO-same,offer,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,13,The teenager lent the tourist,a dollar.,D,prime,DO-same,lend,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,11,The bartender handed the server,A drink,D,prime,DO-same,hand,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,9,The efficient secretary handed the grumpy businessman,a drink.,D,prime,DO-same,hand,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,20,The car salesman offered the couple,a free car.,D,prime,DO-same,offer,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,23,The blogger offered the penpal,a gift,D,prime,DO-same,offer,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,19,The woman offered the new neighbor,a gift,D,prime,DO-same,offer,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,1,The driving instructor gave the learner,a good grade.,D,prime,DO-same,give,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,42,The researcher sent the experienced surgeon,a greeting card to thank him for his service,D,prime,DO-same,send,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,3,The florist gave the startled butler,a kiss,D,prime,DO-same,give,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,37,The disgruntled employee sent the managing director,a letter of resignation,D,prime,DO-same,send,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,39,The librarian sent the student,a letter reminding him of his overdue book.,D,prime,DO-same,send,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,1,The driving instructor gave the learner,a life lesson in safe driving.,D,prime,DO-same,give,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,13,The teenager lent the tourist,a map,D,prime,DO-same,lend,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,34,The entrepreneur sold the landscapers,a new kind of fern.,D,prime,DO-same,sell,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,17,The fashion designer lent the famous journalist,a picture,D,prime,DO-same,lend,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,36,The baker sold the celebrity,a pie.,D,prime,DO-same,sell,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,23,The blogger offered the penpal,a place to stay.,D,prime,DO-same,offer,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,12,The banker handed the customer,a refund.,D,prime,DO-same,hand,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,3,The florist gave the startled butler,a scare.,D,prime,DO-same,give,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,29,The rockstar mailed the young fan,a signed photo.,D,prime,DO-same,mail,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,37,The disgruntled employee sent the managing director,a strongly worded email,D,prime,DO-same,send,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,10,The CEO handed the receptionist,an address book.,D,prime,DO-same,hand,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,22,The dancer offered the magician,an advice,D,prime,DO-same,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,12,The banker handed the customer,an envelope full of money.,D,prime,DO-same,hand,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,5,The biologist gave the chemist,cash.,D,prime,DO-same,give,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,8,The hostess handed the guests,Drinks,D,prime,DO-same,hand,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,32,The store owner sold the tall customer,extra long jeans.,D,prime,DO-same,sell,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,7,The grandmother handed the happy bride,flowers,D,prime,DO-same,hand,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,35,The grocer sold the family,fruits,D,prime,DO-same,sell,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,26,The senator mailed the governor,gold,D,prime,DO-same,mail,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,34,The entrepreneur sold the landscapers,gold bunions,D,prime,DO-same,sell,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,19,The woman offered the new neighbor,her body.,D,prime,DO-same,offer,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,46,The nurse showed the doctor,her findings,D,prime,DO-same,show,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,18,The cheerleader lent the skater,her pom poms.,D,prime,DO-same,lend,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,5,The biologist gave the chemist,her research papers.,D,prime,DO-same,give,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,18,The cheerleader lent the skater,her skates,D,prime,DO-same,lend,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,7,The grandmother handed the happy bride,her wedding photos.,D,prime,DO-same,hand,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,21,The swimmer offered the visitor,his flip flops.,D,prime,DO-same,offer,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,28,The company mailed the eager athlete,his sponsorship contract.,D,prime,DO-same,mail,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,15,The builder lent the surveyor,his tools,D,prime,DO-same,lend,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,45,The lifeguard showed the surfer,how to do chest compressions.,O,prime,DO-same,show,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,44,The youngster showed the kind babysitter,how to play a video game on her phone,O,prime,DO-same,show,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,48,The enthusiastic child showed the young friend,how to shuffle a deck of cards.,O,prime,DO-same,show,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,8,The hostess handed the guests,in a quick and kind manner.,O,prime,DO-same,hand,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,33,The spy sold the foreign diplomat,international secrets.,D,prime,DO-same,sell,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,35,The grocer sold the family,lots of vegetables.,D,prime,DO-same,sell,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,25,The architect mailed the cheerful engineer,money,D,prime,DO-same,mail,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,36,The baker sold the celebrity,money,D,prime,DO-same,sell,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,30,The historian mailed the princess,money,D,prime,DO-same,mail,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,27,The intern mailed the manager,money,D,prime,DO-same,mail,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,6,The groomer gave the client,money.,D,prime,DO-same,give,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,17,The fashion designer lent the famous journalist,some clothes.,D,prime,DO-same,lend,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,26,The senator mailed the governor,some important paperwork.,D,prime,DO-same,mail,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,24,The millionaire offered the struggling artist,some money,D,prime,DO-same,offer,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,22,The dancer offered the magician,some money.,D,prime,DO-same,offer,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,16,The farmer lent the carpenter,some money.,D,prime,DO-same,lend,mail,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,24,The millionaire offered the struggling artist,some money.,D,prime,DO-same,offer,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,14,The retiree lent the neighbor,some money.,D,prime,DO-same,lend,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,15,The builder lent the surveyor,some plans.,D,prime,DO-same,lend,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,16,The farmer lent the carpenter,some wool,D,prime,DO-same,lend,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,47,The baseball player showed the umpire,the ball that he suspected was defective,D,prime,DO-same,show,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,11,The bartender handed the server,the beers.,D,prime,DO-same,hand,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,9,The efficient secretary handed the grumpy businessman,the bill for goods and services.,D,prime,DO-same,hand,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,39,The librarian sent the student,the books requested,D,prime,DO-same,send,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,38,The dentist sent the insurance company,the claim for his patient's root canal.,D,prime,DO-same,send,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,10,The CEO handed the receptionist,the files.,D,prime,DO-same,hand,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,38,The dentist sent the insurance company,the large bill,D,prime,DO-same,send,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,14,The retiree lent the neighbor,the lawn mower,D,prime,DO-same,lend,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,45,The lifeguard showed the surfer,the moves,D,prime,DO-same,show,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,40,The photographer sent the editor,the photos before the deadline.,D,prime,DO-same,send,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,25,The architect mailed the cheerful engineer,the plans for the building.,D,prime,DO-same,mail,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,30,The historian mailed the princess,the requested records.,D,prime,DO-same,mail,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,46,The nurse showed the doctor,the results from the test,D,prime,DO-same,show,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,27,The intern mailed the manager,the resumes for review.,D,prime,DO-same,mail,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,44,The youngster showed the kind babysitter,their appreciation,D,prime,DO-same,show,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,41,The contractor sent the agent,their bill,D,prime,DO-same,send,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,42,The researcher sent the experienced surgeon,their findings,D,prime,DO-same,send,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,47,The baseball player showed the umpire,their frustration,D,prime,DO-same,show,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,48,The enthusiastic child showed the young friend,their painting,D,prime,DO-same,show,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,31,The professor sold the lecturer,time,D,prime,DO-same,sell,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,21,The swimmer offered the visitor,to come in the pool,O,prime,DO-same,offer,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,43,The racing driver showed the helpful mechanic,to their locker,O,prime,DO-same,show,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,28,The company mailed the eager athlete,was wrong,O,prime,DO-same,mail,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,33,The spy sold the foreign diplomat,was wrong,O,prime,DO-same,sell,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,43,The racing driver showed the helpful mechanic,where the part was located on the ground.,O,prime,DO-same,show,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,32,The store owner sold the tall customer,wrong,O,prime,DO-same,sell,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,7,The grandmother gave the big present,a bow and a nametag,D,prime,PO-diff,hand,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,19,The woman gave the rusty bike,a nice polishing.,D,prime,PO-diff,offer,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,as fun,O,prime,PO-diff,show,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,48,The enthusiastic child mailed the colorful envelope,at will,O,prime,PO-diff,show,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,18,The cheerleader gave the skirt,away.,O,prime,PO-diff,lend,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,32,The store owner offered the blue dress,for free.,O,prime,PO-diff,sell,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,39,The librarian handed the reminder,for money,O,prime,PO-diff,send,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,30,The historian offered the manuscript,for sale,O,prime,PO-diff,mail,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,47,The baseball player lent the ball,gold,D,prime,PO-diff,show,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,41,The contractor offered the blueprints,gold,D,prime,PO-diff,send,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,45,The lifeguard offered the lifebelt,gold,D,prime,PO-diff,show,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,46,The nurse sent the x-ray,gold,D,prime,PO-diff,show,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,16,The farmer mailed the spare key,home,O,prime,PO-diff,lend,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,22,The dancer sent the necklace,home.,O,prime,PO-diff,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,24,The millionaire showed the valuable painting,in a viewing.,O,prime,PO-diff,offer,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,15,The builder handed the drill,like a professional.,O,prime,PO-diff,lend,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,38,The dentist mailed the insurance claim,money,D,prime,PO-diff,send,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,10,The CEO mailed the package,onward,D,prime,PO-diff,hand,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,5,The biologist lent the article,their editing,D,prime,PO-diff,give,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,32,The store owner offered the blue dress,to a beautiful woman,P,prime,PO-diff,sell,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,17,The fashion designer sent the pink jacket,to a friend.,P,prime,PO-diff,lend,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,31,The professor lent the book,to a student.,P,prime,PO-diff,sell,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,42,The researcher lent the detailed report,to candy,P,prime,PO-diff,send,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,13,The teenager showed the map,to everyone.,P,prime,PO-diff,lend,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,to everyone.,P,prime,PO-diff,show,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,27,The intern handed the invoice,to her boss.,P,prime,PO-diff,mail,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,18,The cheerleader gave the skirt,to her boyfriend as a parting gift.,P,prime,PO-diff,lend,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,7,The grandmother gave the big present,to her family,P,prime,PO-diff,hand,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,21,The swimmer handed the towel,to her friend.,P,prime,PO-diff,offer,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,37,The disgruntled employee showed the long letter,to him,P,prime,PO-diff,send,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,40,The photographer sold the prints,to him,P,prime,PO-diff,send,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,42,The researcher lent the detailed report,to his colleague.,P,prime,PO-diff,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,29,The rockstar gave the last ticket,to his daughter.,P,prime,PO-diff,mail,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,34,The entrepreneur showed the gadgets,to his friends.,P,prime,PO-diff,sell,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,21,The swimmer handed the towel,to his girlfriend to dry off.,P,prime,PO-diff,offer,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,33,The spy handed the stolen documents,to his leader.,P,prime,PO-diff,sell,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,to his mom.,P,prime,PO-diff,show,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,43,The racing driver gave the torn overalls,to his wife.,P,prime,PO-diff,show,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,34,The entrepreneur showed the gadgets,to it's customers,P,prime,PO-diff,sell,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,28,The company sent the detailed questionnaire,to its analysts.,P,prime,PO-diff,mail,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,47,The baseball player lent the ball,to one of the other players.,P,prime,PO-diff,show,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,48,The enthusiastic child mailed the colorful envelope,to Santa.,P,prime,PO-diff,show,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,41,The contractor offered the blueprints,to the architect.,P,prime,PO-diff,send,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,26,The senator showed the photos,to the artist,P,prime,PO-diff,mail,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,4,The mother showed the expensive toy,to the baby boy.,P,prime,PO-diff,give,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,25,The architect lent the latest plans,to the builder.,P,prime,PO-diff,mail,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,19,The woman gave the rusty bike,to the child,P,prime,PO-diff,offer,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,45,The lifeguard offered the lifebelt,to the child.,P,prime,PO-diff,show,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,12,The banker lent the cash,to the client,P,prime,PO-diff,hand,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,8,The hostess sold the dessert,to the client,P,prime,PO-diff,hand,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,25,The architect lent the latest plans,to the company,P,prime,PO-diff,mail,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,38,The dentist mailed the insurance claim,to the company.,P,prime,PO-diff,send,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,8,The hostess sold the dessert,to the couple celebrating their anniversary.,P,prime,PO-diff,hand,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,10,The CEO mailed the package,to the customer,P,prime,PO-diff,hand,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,9,The efficient secretary sent the long fax,to the customer,P,prime,PO-diff,hand,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,35,The grocer gave the strawberries,to the customers,P,prime,PO-diff,sell,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,27,The intern handed the invoice,to the department,P,prime,PO-diff,mail,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,12,The banker lent the cash,to the desperate homeowner,P,prime,PO-diff,hand,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,46,The nurse sent the x-ray,to the doctor.,P,prime,PO-diff,show,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,6,The groomer sold the shampoo,to the dog owner,P,prime,PO-diff,give,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,26,The senator showed the photos,to the editor.,P,prime,PO-diff,mail,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,20,The car salesman sold the minivan,to the family of 4.,P,prime,PO-diff,offer,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,29,The rockstar gave the last ticket,to the fan,P,prime,PO-diff,mail,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,14,The retiree sold the lawnmower,to the frugal shopper.,P,prime,PO-diff,lend,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,40,The photographer sold the prints,to the gallery.,P,prime,PO-diff,send,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,3,The florist mailed the huge bouquet,to the grieving mother who had just lost a child,P,prime,PO-diff,give,mail,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,36,The baker sent the expensive cake,to the happy couple.,P,prime,PO-diff,sell,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,23,The blogger mailed the money,to the IRS to pay his taxes.,P,prime,PO-diff,offer,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,5,The biologist lent the article,to the lab technician.,P,prime,PO-diff,give,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,16,The farmer mailed the spare key,to the landlord.,P,prime,PO-diff,lend,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,11,The bartender offered the cocktail,to the lonely-looking woman.,P,prime,PO-diff,hand,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,13,The teenager showed the map,to the lucky treasurr.,P,prime,PO-diff,lend,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,15,The builder handed the drill,to the man,P,prime,PO-diff,lend,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,17,The fashion designer sent the pink jacket,to the model to try on.,P,prime,PO-diff,lend,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,24,The millionaire showed the valuable painting,to the people.,P,prime,PO-diff,offer,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,33,The spy handed the stolen documents,to the president,P,prime,PO-diff,sell,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,30,The historian offered the manuscript,to the publisher.,P,prime,PO-diff,mail,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,2,The captain offered the spare lifejacket,to the sailor on the ship,P,prime,PO-diff,give,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,1,The driving instructor handed the certificate,to the student,P,prime,PO-diff,give,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,39,The librarian handed the reminder,to the student.,P,prime,PO-diff,send,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,22,The dancer sent the necklace,to the super fan.,P,prime,PO-diff,offer,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,31,The professor lent the book,to the teacher,P,prime,PO-diff,sell,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,20,The car salesman sold the minivan,to the villian.,P,prime,PO-diff,offer,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,36,The baker sent the expensive cake,to the wedding,P,prime,PO-diff,sell,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,6,The groomer sold the shampoo,to the woman,P,prime,PO-diff,give,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,35,The grocer gave the strawberries,to the woman.,P,prime,PO-diff,sell,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,9,The efficient secretary sent the long fax,to their boss,P,prime,PO-diff,hand,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,4,The mother showed the expensive toy,to their child,P,prime,PO-diff,give,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,11,The bartender offered the cocktail,to their client,P,prime,PO-diff,hand,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,28,The company sent the detailed questionnaire,to their clients,P,prime,PO-diff,mail,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,3,The florist mailed the huge bouquet,to their friend,P,prime,PO-diff,give,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,37,The disgruntled employee showed the long letter,to their girlfriend.,P,prime,PO-diff,send,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,to their mother.,P,prime,PO-diff,show,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,1,The driving instructor handed the certificate,to their student,P,prime,PO-diff,give,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,2,The captain offered the spare lifejacket,to their wife,P,prime,PO-diff,give,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,14,The retiree sold the lawnmower,today,O,prime,PO-diff,lend,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,23,The blogger mailed the money,today.,O,prime,PO-diff,offer,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,43,The racing driver gave the torn overalls,with gold,O,prime,PO-diff,show,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,22,The dancer offered the necklace/the magician,a dance.,D,prime,PO-same,offer,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,5,The biologist gave the article,a good review,D,prime,PO-same,give,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,5,The biologist gave the article,a good review.,D,prime,PO-same,give,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,17,The fashion designer lent the pink jacket,a gun,D,prime,PO-same,lend,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,6,The groomer gave the shampoo,a hard look.,D,prime,PO-same,give,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,9,The efficient secretary handed the long fax,a letter,D,prime,PO-same,hand,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,31,The professor sold the book,as a pdf,O,prime,PO-same,sell,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,23,The blogger offered the money,as a prize to his readers.,P,prime,PO-same,offer,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,as fun,O,prime,PO-same,show,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,23,The blogger offered the money,as money,O,prime,PO-same,offer,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,19,The woman offered the rusty bike,candy,D,prime,PO-same,offer,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,37,The disgruntled employee sent the long letter,demanding change at the company.,O,prime,PO-same,send,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,32,The store owner sold the blue dress,for a lot of money,O,prime,PO-same,sell,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,31,The professor sold the book,for well under what it was worth.,O,prime,PO-same,sell,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,26,The senator mailed the photos,from their personal email,O,prime,PO-same,mail,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,20,The car salesman offered the minivan,gold,O,prime,PO-same,offer,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,41,The contractor sent the blueprints,home,O,prime,PO-same,send,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,40,The photographer sent the prints,home,O,prime,PO-same,send,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,22,The dancer offered the necklace/the magician,money,D,prime,PO-same,offer,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,16,The farmer lent the spare key,money,D,prime,PO-same,lend,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,21,The swimmer offered the towel,money,D,prime,PO-same,offer,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,33,The spy sold the stolen documents,on the black market for a considerable amount of money.,O,prime,PO-same,sell,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,34,The entrepreneur sold the gadgets,online,O,prime,PO-same,sell,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,30,The historian mailed the manuscript,onward,O,prime,PO-same,mail,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,25,The architect mailed the latest plans,onward to their boss,P,prime,PO-same,mail,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,12,The banker handed the cash,right over,U,prime,PO-same,hand,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,14,The retiree lent the lawnmower,that was loud,O,prime,PO-same,lend,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,15,The builder lent the drill,time,D,prime,PO-same,lend,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,18,The cheerleader lent the skirt,time,D,prime,PO-same,lend,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,13,The teenager lent the map,time,D,prime,PO-same,lend,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,36,The baker sold the expensive cake,to a client,P,prime,PO-same,sell,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,24,The millionaire offered the valuable painting,to a museum.,P,prime,PO-same,offer,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,48,The enthusiastic child showed the colorful envelope,to everyone,P,prime,PO-same,show,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,to everyone.,P,prime,PO-same,show,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,9,The efficient secretary handed the long fax,to her boss.,P,prime,PO-same,hand,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,18,The cheerleader lent the skirt,to her friend.,P,prime,PO-same,lend,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,7,The grandmother handed the big present,to her grandchild.,P,prime,PO-same,hand,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,4,The mother gave the expensive toy,to her son.,P,prime,PO-same,give,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,19,The woman offered the rusty bike,to her son.,P,prime,PO-same,offer,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,17,The fashion designer lent the pink jacket,to his favorite model.,P,prime,PO-same,lend,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,20,The car salesman offered the minivan,to his friend.,P,prime,PO-same,offer,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,13,The teenager lent the map,to his friend.,P,prime,PO-same,lend,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,45,The lifeguard showed the lifebelt,to his friends,P,prime,PO-same,show,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,3,The florist gave the huge bouquet,to his girlfriend.,P,prime,PO-same,give,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,to his mom.,P,prime,PO-same,show,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,14,The retiree lent the lawnmower,to his neighbor.,P,prime,PO-same,lend,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,48,The enthusiastic child showed the colorful envelope,to his parents.,P,prime,PO-same,show,mail,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,10,The CEO handed the package,to his son.,P,prime,PO-same,hand,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,21,The swimmer offered the towel,to his team mate.,P,prime,PO-same,offer,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,47,The baseball player showed the ball,to his wife.,P,prime,PO-same,show,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,7,The grandmother handed the big present,to my sister,P,prime,PO-same,hand,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,4,The mother gave the expensive toy,to the boy,P,prime,PO-same,give,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,36,The baker sold the expensive cake,to the bride and groom,P,prime,PO-same,sell,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,41,The contractor sent the blueprints,to the buyer.,P,prime,PO-same,send,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,11,The bartender handed the cocktail,to the chefs,P,prime,PO-same,hand,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,2,The captain gave the spare lifejacket,to the child.,P,prime,PO-same,give,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,6,The groomer gave the shampoo,to the children,P,prime,PO-same,give,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,45,The lifeguard showed the lifebelt,to the children at the beach.,P,prime,PO-same,show,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,2,The captain gave the spare lifejacket,to the citizen,P,prime,PO-same,give,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,27,The intern mailed the invoice,to the client,P,prime,PO-same,mail,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,25,The architect mailed the latest plans,to the client for review.,P,prime,PO-same,mail,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,27,The intern mailed the invoice,to the company that purchased merchandise,P,prime,PO-same,mail,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,12,The banker handed the cash,to the customer.,P,prime,PO-same,hand,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,8,The hostess handed the dessert,to the customer.,P,prime,PO-same,hand,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,28,The company mailed the detailed questionnaire,to the customers for feedback on their experience,P,prime,PO-same,mail,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,40,The photographer sent the prints,to the customers.,P,prime,PO-same,send,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,38,The dentist sent the insurance claim,to the dental insurance company.,P,prime,PO-same,send,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,1,The driving instructor gave the certificate,to the driver,P,prime,PO-same,give,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,1,The driving instructor gave the certificate,to the driver.,P,prime,PO-same,give,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,11,The bartender handed the cocktail,to the drunk.,P,prime,PO-same,hand,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,47,The baseball player showed the ball,to the fans.,P,prime,PO-same,show,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,16,The farmer lent the spare key,to the farm hand.,P,prime,PO-same,lend,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,38,The dentist sent the insurance claim,to the house,P,prime,PO-same,send,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,46,The nurse showed the x-ray,to the injured patient.,P,prime,PO-same,show,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,35,The grocer sold the strawberries,to the lady and her son,P,prime,PO-same,sell,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,42,The researcher sent the detailed report,to the manager.,P,prime,PO-same,send,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,3,The florist gave the huge bouquet,to the married couple,P,prime,PO-same,give,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,43,The racing driver showed the torn overalls,to the news media.,P,prime,PO-same,show,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,26,The senator mailed the photos,to the newspaper,P,prime,PO-same,mail,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,46,The nurse showed the x-ray,to the patient.,P,prime,PO-same,show,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,43,The racing driver showed the torn overalls,to the people.,P,prime,PO-same,show,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,39,The librarian sent the reminder,to the person with a late book.,P,prime,PO-same,send,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,29,The rockstar mailed the last ticket,to the president of the fan club.,P,prime,PO-same,mail,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,30,The historian mailed the manuscript,to the publisher for review and consideration,P,prime,PO-same,mail,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,39,The librarian sent the reminder,to the school.,P,prime,PO-same,send,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,8,The hostess handed the dessert,to the servants,P,prime,PO-same,hand,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,34,The entrepreneur sold the gadgets,to the small business owner,P,prime,PO-same,sell,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,29,The rockstar mailed the last ticket,to the winner,P,prime,PO-same,mail,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,15,The builder lent the drill,to the worker.,P,prime,PO-same,lend,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,10,The CEO handed the package,to the workers,P,prime,PO-same,hand,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,35,The grocer sold the strawberries,to their clients,P,prime,PO-same,sell,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,33,The spy sold the stolen documents,to their friend,P,prime,PO-same,sell,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,32,The store owner sold the blue dress,to their friend,P,prime,PO-same,sell,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,44,The youngster showed the drawing,to their mother.,P,prime,PO-same,show,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,28,The company mailed the detailed questionnaire,to their staff,P,prime,PO-same,mail,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,42,The researcher sent the detailed report,to their supervisors,P,prime,PO-same,send,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,37,The disgruntled employee sent the long letter,upstairs.,O,prime,PO-same,send,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,24,The millionaire offered the valuable painting,wrong,O,prime,PO-same,offer,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,4,The sculptor gave,a ar15,O,target,target,give,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,23,The runner offered,a autograph to the fans,P,target,target,offer,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,19,The wrestler offered,a autograph to the fans,P,target,target,offer,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,7,The tennis fan handed,a ball to the player.,P,target,target,hand,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,7,The tennis fan handed,a ball to the player.,P,target,target,hand,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,40,The plumber sent,a bill to the client,P,target,target,send,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,16,The coastguard lent,a boat to the recruits,P,target,target,lend,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,13,The writer lent,a book,O,target,target,lend,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,a bouquet of flowers for their anniversary.,O,target,target,send,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,37,The famous novelist sent,a brief to their researcher,P,target,target,send,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,a card to her grandmother.,P,target,target,send,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,33,The programmer sold,a computer.,O,target,target,sell,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,8,The newsagent handed,a contract to his client.,P,target,target,hand,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,22,The motorist offered,a cop a bribe.,D,target,target,offer,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,21,The draftsman offered,a deal.,O,target,target,offer,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,19,The wrestler offered,a deal.,O,target,target,offer,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,24,The explorer offered,a detailed report of her findings.,O,target,target,offer,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,15,The hairdresser lent,a dress,O,target,target,lend,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,41,The wizard sent,a firebolt through the sky,O,target,target,send,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,9,The little girl handed,a flower.,O,target,target,hand,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,21,The draftsman offered,a free quote to his client.,P,target,target,offer,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,2,The bus driver gave,a free ride to a stranger.,P,target,target,give,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,37,The famous novelist sent,a gift basket to his publicist.,P,target,target,send,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,a gift to the uncle,P,target,target,send,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,a gift.,O,target,target,send,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,29,The volunteer mailed,a gift.,O,target,target,mail,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,21,The draftsman offered,a good deal,O,target,target,offer,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,5,The violinist gave,a good performance.,O,target,target,give,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,5,The violinist gave,a good play,O,target,target,give,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,17,The comedian lent,a gun,O,target,target,lend,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,16,The coastguard lent,a hand to the police.,P,target,target,lend,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,2,The bus driver gave,a high five to the rider.,P,target,target,give,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,5,The violinist gave,a hug,O,target,target,give,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,10,The chef handed,a knife to another cook.,P,target,target,hand,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,10,The chef handed,a knife to the sous chef.,P,target,target,hand,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,4,The sculptor gave,a lesson on sculpting.,O,target,target,give,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,5,The violinist gave,a lesson to the child.,P,target,target,give,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,a letter home.,D,target,target,mail,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,a letter to his family.,P,target,target,mail,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,38,The cowboy sent,a letter to his friend.,P,target,target,send,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,a letter to his wife while he was away at sea,P,target,target,mail,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,42,The man sent,a letter to his wife.,P,target,target,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,38,The cowboy sent,a letter to the Indian.,P,target,target,send,mail,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,11,The postal worker handed,a letter to the man.,P,target,target,hand,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,11,The postal worker handed,a letter to the man.,P,target,target,hand,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,9,The little girl handed,a lollipop to her sister.,P,target,target,hand,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,42,The man sent,a long email.,O,target,target,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,27,The boyfriend mailed,a love letter.,O,target,target,mail,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,6,The therapist gave,a massage,O,target,target,give,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,38,The cowboy sent,a message,O,target,target,send,mail,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,12,The scientist handed,a microscope to his friend.,P,target,target,hand,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,21,The draftsman offered,a new draft,O,target,target,offer,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,42,The man sent,a package to the unknown classified military forces personnel,P,target,target,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,40,The plumber sent,a payment to his insurance company.,P,target,target,send,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,5,The violinist gave,a perfect performance.,O,target,target,give,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,a picture.,O,target,target,mail,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,36,The pilot sold,a plane to the collector,P,target,target,sell,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,27,The boyfriend mailed,a postcard to his girlfriend.,P,target,target,mail,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,41,The wizard sent,a potion to the witch.,P,target,target,send,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,47,The poet showed,a relaxing story,O,target,target,show,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,23,The runner offered,a reward for finding his keys.,O,target,target,offer,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,24,The explorer offered,a reward to those who found the treasure.,P,target,target,offer,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,20,The forest ranger offered,a ride to the hikers.,P,target,target,offer,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,22,The motorist offered,a ride to the hitchhiker.,P,target,target,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,41,The wizard sent,a scroll of spells to the witch.,P,target,target,send,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,8,The newsagent handed,a sheet to the weather man.,P,target,target,hand,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,7,The tennis fan handed,a signature ball to their favorite player,P,target,target,hand,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,4,The sculptor gave,a speech on his great work.,O,target,target,give,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,41,The wizard sent,a spell onward,O,target,target,send,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,41,The wizard sent,a spell through the air.,O,target,target,send,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,9,The little girl handed,a sucker to her friend.,O,target,target,hand,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,12,The scientist handed,a test tube to the assistant.,P,target,target,hand,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,a thank you note.,O,target,target,send,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,19,The wrestler offered,a title shot to his opponent.,P,target,target,offer,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,20,The forest ranger offered,a tour of the woods.,O,target,target,offer,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,24,The explorer offered,a tour to the tourists,O,target,target,offer,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,9,The little girl handed,a toy to the brother,O,target,target,hand,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,7,The tennis fan handed,a trophy,O,target,target,hand,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,19,The wrestler offered,a truce to his biggest archenemy.,P,target,target,offer,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,32,The bodyguard sold,a watch to the man in the parking lot,P,target,target,sell,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,22,The motorist offered,a wave,O,target,target,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,20,The forest ranger offered,advice on how to explore the trail.,O,target,target,offer,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,22,The motorist offered,advice on staying safe abroad.,O,target,target,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,31,The shopkeeper sold,all his rare coins.,O,target,target,sell,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,46,The jeweller showed,all the diamond rings.,O,target,target,show,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,42,The man sent,an email to his wife explaining why he wanted a divorce.,P,target,target,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,29,The volunteer mailed,an invitation.,O,target,target,mail,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,40,The plumber sent,an invoice to the client.,P,target,target,send,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,40,The plumber sent,an invoice to the cusomer,P,target,target,send,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,4,The sculptor gave,an x-ray,O,target,target,give,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,43,The patient showed,appreciation for the help,O,target,target,show,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,20,The forest ranger offered,assistance.,O,target,target,offer,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,37,The famous novelist sent,autographed copies of his book to fans.,P,target,target,send,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,40,The plumber sent,automatic ak47s,O,target,target,send,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,43,The patient showed,bitcoin,O,target,target,show,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,35,The tutor sold,books.,O,target,target,sell,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,32,The bodyguard sold,bullet proof vests.,O,target,target,sell,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,2,The bus driver gave,candy,O,target,target,give,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,42,The man sent,candy,O,target,target,send,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,3,The pharmacist gave,candy,O,target,target,give,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,19,The wrestler offered,candy,O,target,target,offer,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,24,The explorer offered,cash.,O,target,target,offer,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,22,The motorist offered,directions,O,target,target,offer,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,2,The bus driver gave,directions.,O,target,target,give,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,29,The volunteer mailed,donation letters to their mailing list.,P,target,target,mail,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,2,The bus driver gave,everyone a tour of the city.,D,target,target,give,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,2,The bus driver gave,everyone a wave,D,target,target,give,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,32,The bodyguard sold,fans,O,target,target,sell,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,8,The newsagent handed,flyers,O,target,target,hand,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,2,The bus driver gave,free bus tickets to the people for one time,P,target,target,give,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,29,The volunteer mailed,glocks,O,target,target,mail,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,10,The chef handed,gold,O,target,target,hand,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,30,The electrician mailed,gold,O,target,target,mail,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,37,The famous novelist sent,gold,O,target,target,send,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,20,The forest ranger offered,gold,O,target,target,offer,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,45,The inventor showed,gold,O,target,target,show,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,46,The jeweller showed,gold,O,target,target,show,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,gold,O,target,target,mail,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,47,The poet showed,gold,O,target,target,show,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,6,The therapist gave,gold,O,target,target,give,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,5,The violinist gave,gold,O,target,target,give,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,41,The wizard sent,gold and runes,O,target,target,send,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,1,The consultant gave,good advice.,O,target,target,give,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,43,The patient showed,good progress,O,target,target,show,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,28,The father,had a wonderful evening with the family.,O,target,target,mail,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,28,The father,had two sons.,O,target,target,mail,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,20,The forest ranger offered,help,O,target,target,offer,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,6,The therapist gave,her advice out.,O,target,target,give,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,37,The famous novelist sent,her book to the publisher.,P,target,target,send,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,35,The tutor sold,her books.,O,target,target,sell,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,27,The boyfriend mailed,her check,O,target,target,mail,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,15,The hairdresser lent,her clippers,O,target,target,lend,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,15,The hairdresser lent,her comb to the little girl.,P,target,target,lend,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,9,The little girl handed,her dad a balloon.,D,target,target,hand,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,9,The little girl handed,her father a drawing,D,target,target,hand,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,42,The man sent,her flowers,D,target,target,send,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,her grandma a birthday card.,D,target,target,send,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,15,The hairdresser lent,her hairdryer to the client.,P,target,target,lend,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,9,The little girl handed,her mom an apple,D,target,target,hand,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,29,The volunteer mailed,her paperwork to the agency.,P,target,target,mail,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,47,The poet showed,her trophies.,O,target,target,show,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,14,The actor lent,him money,D,target,target,lend,sell,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,1,The consultant gave,his advice for free.,O,target,target,give,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,1,The consultant gave,his bill to the client.,P,target,target,give,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,35,The tutor sold,his books off.,O,target,target,sell,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,14,The actor lent,his brother some money,D,target,target,lend,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,33,The programmer sold,his car,O,target,target,sell,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,17,The comedian lent,his cellphone to his manager.,P,target,target,lend,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,35,The tutor sold,his course to the student,P,target,target,sell,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,17,The comedian lent,his ear to a friend.,P,target,target,lend,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,48,The gardener showed,his father.,O,target,target,show,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,16,The coastguard lent,his flashlight.,O,target,target,lend,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,27,The boyfriend mailed,his girlfriend a letter,D,target,target,mail,hand,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,32,The bodyguard sold,his gun.,O,target,target,sell,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,45,The inventor showed,his invention to the kid.,P,target,target,show,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,47,The poet showed,his library of poems to the world.,P,target,target,show,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,18,The gambler lent,his lucky shoes to the downtrodden man,P,target,target,lend,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,37,The famous novelist sent,his manuscript to the publisher.,P,target,target,send,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,17,The comedian lent,his microphone to a fellow comedian.,P,target,target,lend,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,17,The comedian lent,his microphone to his friend.,P,target,target,lend,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,42,The man sent,his money to the fund,P,target,target,send,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,45,The inventor showed,his new invention off.,O,target,target,show,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,30,The electrician mailed,his paychecks out.,O,target,target,mail,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,13,The writer lent,his pen to his friend.,P,target,target,lend,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,36,The pilot sold,his plane.,O,target,target,sell,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,36,The pilot sold,his plane.,O,target,target,sell,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,48,The gardener showed,his plants off.,O,target,target,show,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,47,The poet showed,his poem to a friend.,P,target,target,show,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,44,The private detective showed,his privates.,O,target,target,show,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,48,The gardener showed,his prized petunias to the enthusiasts.,P,target,target,show,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,16,The coastguard lent,his safety jacket to the girl.,P,target,target,lend,mail,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,43,The patient showed,his scars.,O,target,target,show,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,14,The actor lent,his script to the other actor.,P,target,target,lend,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,14,The actor lent,his scripts to the young playwriter.,P,target,target,lend,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,34,The economist sold,his secrets the the highest bidder,P,target,target,sell,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,35,The tutor sold,his services cheaply.,O,target,target,sell,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,21,The draftsman offered,his services to those in need.,P,target,target,offer,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,32,The bodyguard sold,his services.,O,target,target,sell,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,21,The draftsman offered,his shame.,O,target,target,offer,hand,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,34,The economist sold,his stock.,O,target,target,sell,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,34,The economist sold,his stocks.,O,target,target,sell,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,31,The shopkeeper sold,his store to a corporation.,P,target,target,sell,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,14,The actor lent,his talents to a director.,P,target,target,lend,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,7,The tennis fan handed,his team a victory.,D,target,target,hand,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,13,The writer lent,his typewriter to his colleague.,P,target,target,lend,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,36,The pilot sold,his uniform,O,target,target,sell,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,46,The jeweller showed,his wares.,O,target,target,show,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,16,The coastguard lent,his whistle to a friend.,P,target,target,lend,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,his wife a love letter.,D,target,target,mail,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,47,The poet showed,his work.,O,target,target,show,lend,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,43,The patient showed,his wound.,O,target,target,show,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,48,The gardener showed,how to plant cuts of other plants.,O,target,target,show,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,28,The father,hugged his son,O,target,target,mail,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,29,The volunteer mailed,in the letters he wrote for the charity.,O,target,target,mail,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,8,The newsagent handed,info,O,target,target,hand,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,44,The private detective showed,inform%2Cation,O,target,target,show,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,34,The economist sold,information,O,target,target,sell,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,letters to their wife,P,target,target,mail,show,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,6,The therapist gave,lots of advice to their client.,P,target,target,give,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,34,The economist sold,lots of instructional guides in investing.,O,target,target,sell,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,37,The famous novelist sent,love,O,target,target,send,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,48,The gardener showed,love,O,target,target,show,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,11,The postal worker handed,mail,O,target,target,hand,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,11,The postal worker handed,mail to homeowners,P,target,target,hand,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,35,The tutor sold,many books,O,target,target,sell,give,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,31,The shopkeeper sold,many bracelets that day.,O,target,target,sell,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,6,The therapist gave,me a massage,D,target,target,give,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,13,The writer lent,me his pen.,D,target,target,lend,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,27,The boyfriend mailed,money,O,target,target,mail,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,17,The comedian lent,Money,O,target,target,lend,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,38,The cowboy sent,money,O,target,target,send,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,38,The cowboy sent,money,O,target,target,send,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,21,The draftsman offered,money,O,target,target,offer,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,18,The gambler lent,money,O,target,target,lend,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,18,The gambler lent,money,O,target,target,lend,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,18,The gambler lent,money,O,target,target,lend,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,9,The little girl handed,money,O,target,target,hand,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,36,The pilot sold,money,O,target,target,sell,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,40,The plumber sent,money,O,target,target,send,sell,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,23,The runner offered,money,O,target,target,offer,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,12,The scientist handed,money,O,target,target,hand,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,25,The teacher mailed,money,O,target,target,mail,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,7,The tennis fan handed,money,O,target,target,hand,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,money,O,target,target,send,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,41,The wizard sent,Money,O,target,target,send,offer,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,13,The writer lent,money,O,target,target,lend,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,3,The pharmacist gave,money to charity,P,target,target,give,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,18,The gambler lent,money to his partner.,P,target,target,lend,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,24,The explorer offered,money to the man who let him through the town.,P,target,target,offer,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,16,The coastguard lent,Money.,O,target,target,lend,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,37,The famous novelist sent,money.,O,target,target,send,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,23,The runner offered,money.,O,target,target,offer,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,4,The sculptor gave,money.,O,target,target,give,show,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,3,The pharmacist gave,nancy the pills she requested.,D,target,target,give,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,8,The newsagent handed,newsletters to the post the people at their houses,P,target,target,hand,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,35,The tutor sold,novel ideas to students,P,target,target,sell,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,45,The inventor showed,off his new microwave.,O,target,target,show,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,43,The patient showed,off his new scar from surgery.,O,target,target,show,give,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,33,The programmer sold,online games,O,target,target,sell,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,28,The father,opened a business,O,target,target,mail,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,8,The newsagent handed,over the briefing,O,target,target,hand,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,12,The scientist handed,over the projects,O,target,target,hand,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,36,The pilot sold,pictures of his stunts.,O,target,target,sell,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,41,The wizard sent,powers and magic to harry potter,O,target,target,send,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,25,The teacher mailed,report cards.,O,target,target,mail,lend,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,15,The hairdresser lent,scissors to the child.,P,target,target,lend,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,32,The bodyguard sold,some armor to the recruits,P,target,target,sell,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,4,The sculptor gave,some clay to some children.,P,target,target,give,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,31,The shopkeeper sold,some energy drinks and gum,O,target,target,sell,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,26,The lonely sailor mailed,some letters and inventory to the people back at the pier,P,target,target,mail,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,11,The postal worker handed,some mail to the people,P,target,target,hand,offer,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,18,The gambler lent,some money to his dad.,P,target,target,lend,give,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,3,The pharmacist gave,some pills to his grandpa.,P,target,target,give,mail,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,6,The therapist gave,some sound advice to the girl.,D,target,target,give,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,34,The economist sold,stocks,O,target,target,sell,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,25,The teacher mailed,students their papers,D,target,target,mail,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,45,The inventor showed,the audience of stockholders his new prototype.,D,target,target,show,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,7,The tennis fan handed,the ball to the tennis player,P,target,target,hand,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,30,The electrician mailed,the bill,P,target,target,mail,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,30,The electrician mailed,the bill to his clients.,P,target,target,mail,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,40,The plumber sent,the bill to the home owner.,P,target,target,send,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,27,The boyfriend mailed,the birthday card,O,target,target,mail,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,13,The writer lent,the book to his friend for review,P,target,target,lend,show,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,25,The teacher mailed,the books,O,target,target,mail,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,2,The bus driver gave,the boy a free bus pass,D,target,target,give,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,8,The newsagent handed,the breaking story.,O,target,target,hand,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,36,The pilot sold,the car,O,target,target,sell,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,34,The economist sold,the car.,O,target,target,sell,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,14,The actor lent,the cell phone,O,target,target,lend,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,44,The private detective showed,the client the results of his investigation.,D,target,target,show,sell,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,33,The programmer sold,the code to the highest bidder.,P,target,target,sell,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,4,The sculptor gave,the collector his favorite creation,D,target,target,give,show,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,1,The consultant gave,the company expert advise on the new training seminar,D,target,target,give,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,40,The plumber sent,the contract to the customer.,P,target,target,send,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,33,The programmer sold,the credit card information on the dark web.,O,target,target,sell,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,15,The hairdresser lent,the customer money so they could get a haircut,D,target,target,lend,hand,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,12,The scientist handed,the dangerous chemical mixture to his colleague.,P,target,target,hand,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,43,The patient showed,the doctor the rash.,D,target,target,show,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,12,The scientist handed,the documents over,O,target,target,hand,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,8,The newsagent handed,the dvd of the news story to the manager.,P,target,target,hand,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,46,The jeweller showed,the earnings,O,target,target,show,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,30,The electrician mailed,the estimate to the customer,P,target,target,mail,offer,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,44,The private detective showed,the evidence to his client.,P,target,target,show,sell,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,44,The private detective showed,the evidence to the chief,P,target,target,show,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,44,The private detective showed,the evidence.,O,target,target,show,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,25,The teacher mailed,the final report card to the student's house.,P,target,target,mail,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,48,The gardener showed,the flower to the woman.,P,target,target,show,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,10,The chef handed,the food to the servants,P,target,target,hand,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,10,The chef handed,the food tonthe man,P,target,target,hand,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,30,The electrician mailed,the form.,O,target,target,mail,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,22,The motorist offered,the hitchhiker a lift to the bus station,D,target,target,offer,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,38,The cowboy sent,the Indians running into the distance.,O,target,target,send,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,30,The electrician mailed,the invoice,O,target,target,mail,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,31,The shopkeeper sold,the last couture gown.,O,target,target,sell,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,27,The boyfriend mailed,the love letter.,O,target,target,mail,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,11,The postal worker handed,The mail,O,target,target,hand,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,11,The postal worker handed,the mail to the homeowner,P,target,target,hand,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,21,The draftsman offered,the man a prototype design for him to look at,D,target,target,offer,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,20,The forest ranger offered,the man a ride out of the forest.,D,target,target,offer,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,47,The poet showed,the man his new poem he had written,D,target,target,show,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,3,The pharmacist gave,the man his pills,D,target,target,give,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,18,The gambler lent,the man money for a taxi out of town,D,target,target,lend,give,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,3,The pharmacist gave,the medication.,O,target,target,give,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,3,The pharmacist gave,the medicine to the man.,P,target,target,give,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,14,The actor lent,the money,O,target,target,lend,sell,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,31,The shopkeeper sold,the music.,O,target,target,sell,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,46,The jeweller showed,the necklace to the woman.,P,target,target,show,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,11,The postal worker handed,the package to her.,P,target,target,hand,offer,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,6,The therapist gave,the patient sound advice on how to approach his issues,D,target,target,give,sell,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,10,The chef handed,the patrons their steak dinners.,D,target,target,hand,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,1,The consultant gave,the people a recipe to cooking,D,target,target,give,hand,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,45,The inventor showed,the people an new invetion he created so it can help change the world and help the public.,D,target,target,show,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,46,The jeweller showed,the people something new,D,target,target,show,send,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,5,The violinist gave,the performance of a lifetime.,O,target,target,give,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,44,The private detective showed,the photos to the woman.,P,target,target,show,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,10,The chef handed,the plates to restaurant goers,P,target,target,hand,mail,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,17,The comedian lent,the public free tickets,D,target,target,lend,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,7,The tennis fan handed,the racquet,O,target,target,hand,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,30,The electrician mailed,the replacement part to the client.,P,target,target,mail,offer,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,25,The teacher mailed,the report cards,O,target,target,mail,lend,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,25,The teacher mailed,the report cards out to parents.,P,target,target,mail,lend,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,25,The teacher mailed,the report cards to the parents.,P,target,target,mail,lend,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,12,The scientist handed,the student a glass beaker for the experiment,D,target,target,hand,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,48,The gardener showed,the tools,O,target,target,show,mail,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,45,The inventor showed,the toy,O,target,target,show,offer,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,33,The programmer sold,the virus code to the Russians.,P,target,target,sell,hand,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,10,The chef handed,the waitress a plate of food for the customer,D,target,target,hand,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,46,The jeweller showed,the woman diamond necklace,D,target,target,show,send,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,42,The man sent,the woman flowers and a card,D,target,target,send,lend,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,3,The pharmacist gave,the woman medicine,D,target,target,give,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,23,The runner offered,their advice,O,target,target,offer,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,19,The wrestler offered,their appreciation to the crowd,P,target,target,offer,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,16,The coastguard lent,their assistance,O,target,target,lend,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,5,The violinist gave,their best effort,O,target,target,give,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,12,The scientist handed,their briefing to the jouranl,P,target,target,hand,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,29,The volunteer mailed,their checks,O,target,target,mail,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,33,The programmer sold,their code,O,target,target,sell,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,20,The forest ranger offered,their condolences to the couple,P,target,target,offer,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,17,The comedian lent,their expertise,O,target,target,lend,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,15,The hairdresser lent,their finances to friends,P,target,target,lend,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,14,The actor lent,their friend money,D,target,target,lend,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,39,The thoughtful graddaughter sent,their gift onward,O,target,target,send,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,27,The boyfriend mailed,their girlfriend,O,target,target,mail,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,24,The explorer offered,their guidance,O,target,target,offer,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,4,The sculptor gave,their highest praises,O,target,target,give,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,38,The cowboy sent,their horse to drink water,O,target,target,send,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,45,The inventor showed,their invention,O,target,target,show,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,44,The private detective showed,their kindness,O,target,target,show,sell,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,18,The gambler lent,their money to the bookie,P,target,target,lend,give,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,48,The gardener showed,their new plant off,O,target,target,show,mail,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,31,The shopkeeper sold,their newest item,O,target,target,sell,lend,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,13,The writer lent,their opinions,O,target,target,lend,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,32,The bodyguard sold,their paddle board,O,target,target,sell,offer,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,1,The consultant gave,their praises to them team,P,target,target,give,hand,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,36,The pilot sold,their shares,O,target,target,sell,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,34,The economist sold,their stocks,O,target,target,sell,show,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,46,The jeweller showed,their wares,O,target,target,show,send,exp1
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,0,NULL,dat,47,The poet showed,their works,O,target,target,show,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,32,The bodyguard sold,time,O,target,target,sell,offer,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,16,The coastguard lent,time,O,target,target,lend,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,1,The consultant gave,time,O,target,target,give,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,15,The hairdresser lent,time,O,target,target,lend,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,22,The motorist offered,time,O,target,target,offer,send,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,33,The programmer sold,time,O,target,target,sell,hand,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,31,The shopkeeper sold,time,O,target,target,sell,lend,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,35,The tutor sold,time,O,target,target,sell,give,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,13,The writer lent,time,O,target,target,lend,show,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,24,The explorer offered,to go to the North Pole.,O,target,target,offer,show,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,22,The motorist offered,to pay for the damage,O,target,target,offer,send,exp1
+1609377872,915972cbc7b1fe71b95845b8681cfc10,Stim_Form,0,NULL,dat,23,The runner offered,to run for charity.,O,target,target,offer,mail,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,19,The wrestler offered,to sign the photo.,O,target,target,offer,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,19,The wrestler offered,to teach wrestling moves to the young kids,O,target,target,offer,give,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,28,The father,told the children to go to bed,O,target,target,mail,send,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,6,The therapist gave,towels.,O,target,target,give,sell,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,43,The patient showed,up twenty minutes late to his appointment and still wanted to be seen.,O,target,target,show,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,1,The consultant gave,us some great advice.,O,target,target,give,hand,exp1
+1609374078,edb465a3b5d7b3877f263156674d8a4d,Stim_Form,0,NULL,dat,28,The father,visited his wife,O,target,target,mail,send,exp1
+1609380248,d7d313acd65ce0a437cf145e6527c2fd,Stim_Form,0,NULL,dat,29,The volunteer mailed,vouchers,O,target,target,mail,give,exp1
+1609372234,b9c8c871cbbf2b297cce96468c6ce7b0,Stim_Form,0,NULL,dat,28,The father,was proud of his son's accomplishment.,O,target,target,mail,send,exp1
+1609369946,4f5a8715c3c8fb46d3c398caa9a0426a,Stim_Form,0,NULL,dat,23,The runner offered,water to his friend.,P,target,target,offer,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,23,The runner offered,water to his team mate.,P,target,target,offer,mail,exp1
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,0,NULL,dat,38,The cowboy sent,word back to the ranch hands that there had been an accident.,P,target,target,send,mail,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,24,The explorer offered,wrong,O,target,target,offer,show,exp1
+1609370766,c1d9b98c6eff7b8cef5b640d712cec44,Stim_Form,0,NULL,dat,28,The father,wrong,O,target,target,mail,send,exp1

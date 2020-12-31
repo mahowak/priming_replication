@@ -1,0 +1,385 @@
+item,sentence,condition,type,target_verb,other_verb,number
+1,The driving instructor gave the learner,DO-same,prime,give,hand,1
+1,The driving instructor handed the learner,DO-diff,prime,give,hand,2
+1,The driving instructor gave the certificate,PO-same,prime,give,hand,3
+1,The driving instructor handed the certificate,PO-diff,prime,give,hand,4
+1,The consultant gave,DO-same,target,give,hand,1
+1,The consultant gave,DO-diff,target,give,hand,2
+1,The consultant gave,PO-same,target,give,hand,3
+1,The consultant gave,PO-diff,target,give,hand,4
+2,The captain gave the toddler,DO-same,prime,give,offer,5
+2,The captain offered the toddler,DO-diff,prime,give,offer,6
+2,The captain gave the spare lifejacket,PO-same,prime,give,offer,7
+2,The captain offered the spare lifejacket,PO-diff,prime,give,offer,8
+2,The bus driver gave,DO-same,target,give,offer,5
+2,The bus driver gave,DO-diff,target,give,offer,6
+2,The bus driver gave,PO-same,target,give,offer,7
+2,The bus driver gave,PO-diff,target,give,offer,8
+3,The florist gave the startled butler,DO-same,prime,give,mail,9
+3,The florist mailed the startled butler,DO-diff,prime,give,mail,10
+3,The florist gave the huge bouquet,PO-same,prime,give,mail,11
+3,The florist mailed the huge bouquet,PO-diff,prime,give,mail,12
+3,The pharmacist gave,DO-same,target,give,mail,9
+3,The pharmacist gave,DO-diff,target,give,mail,10
+3,The pharmacist gave,PO-same,target,give,mail,11
+3,The pharmacist gave,PO-diff,target,give,mail,12
+4,The mother gave the hungry baby,DO-same,prime,give,show,13
+4,The mother showed the hungry baby,DO-diff,prime,give,show,14
+4,The mother gave the expensive toy,PO-same,prime,give,show,15
+4,The mother showed the expensive toy,PO-diff,prime,give,show,16
+4,The sculptor gave,DO-same,target,give,show,13
+4,The sculptor gave,DO-diff,target,give,show,14
+4,The sculptor gave,PO-same,target,give,show,15
+4,The sculptor gave,PO-diff,target,give,show,16
+5,The biologist gave the chemist,DO-same,prime,give,lend,17
+5,The biologist lent the chemist,DO-diff,prime,give,lend,18
+5,The biologist gave the article,PO-same,prime,give,lend,19
+5,The biologist lent the article,PO-diff,prime,give,lend,20
+5,The violinist gave,DO-same,target,give,lend,17
+5,The violinist gave,DO-diff,target,give,lend,18
+5,The violinist gave,PO-same,target,give,lend,19
+5,The violinist gave,PO-diff,target,give,lend,20
+6,The groomer gave the client,DO-same,prime,give,sell,21
+6,The groomer sold the client,DO-diff,prime,give,sell,22
+6,The groomer gave the shampoo,PO-same,prime,give,sell,23
+6,The groomer sold the shampoo,PO-diff,prime,give,sell,24
+6,The therapist gave,DO-same,target,give,sell,21
+6,The therapist gave,DO-diff,target,give,sell,22
+6,The therapist gave,PO-same,target,give,sell,23
+6,The therapist gave,PO-diff,target,give,sell,24
+7,The grandmother handed the happy bride,DO-same,prime,hand,give,25
+7,The grandmother gave the happy bride,DO-diff,prime,hand,give,26
+7,The grandmother handed the big present,PO-same,prime,hand,give,27
+7,The grandmother gave the big present,PO-diff,prime,hand,give,28
+7,The tennis fan handed,DO-same,target,hand,give,25
+7,The tennis fan handed,DO-diff,target,hand,give,26
+7,The tennis fan handed,PO-same,target,hand,give,27
+7,The tennis fan handed,PO-diff,target,hand,give,28
+8,The hostess handed the guests,DO-same,prime,hand,sell,29
+8,The hostess sold the guests,DO-diff,prime,hand,sell,30
+8,The hostess handed the dessert,PO-same,prime,hand,sell,31
+8,The hostess sold the dessert,PO-diff,prime,hand,sell,32
+8,The newsagent handed,DO-same,target,hand,sell,29
+8,The newsagent handed,DO-diff,target,hand,sell,30
+8,The newsagent handed,PO-same,target,hand,sell,31
+8,The newsagent handed,PO-diff,target,hand,sell,32
+9,The efficient secretary handed the grumpy businessman,DO-same,prime,hand,send,33
+9,The efficient secretary sent the grumpy businessman,DO-diff,prime,hand,send,34
+9,The efficient secretary handed the long fax,PO-same,prime,hand,send,35
+9,The efficient secretary sent the long fax,PO-diff,prime,hand,send,36
+9,The little girl handed,DO-same,target,hand,send,33
+9,The little girl handed,DO-diff,target,hand,send,34
+9,The little girl handed,PO-same,target,hand,send,35
+9,The little girl handed,PO-diff,target,hand,send,36
+10,The CEO handed the receptionist,DO-same,prime,hand,mail,37
+10,The CEO mailed the receptionist,DO-diff,prime,hand,mail,38
+10,The CEO handed the package,PO-same,prime,hand,mail,39
+10,The CEO mailed the package,PO-diff,prime,hand,mail,40
+10,The chef handed,DO-same,target,hand,mail,37
+10,The chef handed,DO-diff,target,hand,mail,38
+10,The chef handed,PO-same,target,hand,mail,39
+10,The chef handed,PO-diff,target,hand,mail,40
+11,The bartender handed the server,DO-same,prime,hand,offer,41
+11,The bartender offered the server,DO-diff,prime,hand,offer,42
+11,The bartender handed the cocktail,PO-same,prime,hand,offer,43
+11,The bartender offered the cocktail,PO-diff,prime,hand,offer,44
+11,The postal worker handed,DO-same,target,hand,offer,41
+11,The postal worker handed,DO-diff,target,hand,offer,42
+11,The postal worker handed,PO-same,target,hand,offer,43
+11,The postal worker handed,PO-diff,target,hand,offer,44
+12,The banker handed the customer,DO-same,prime,hand,lend,45
+12,The banker lent the customer,DO-diff,prime,hand,lend,46
+12,The banker handed the cash,PO-same,prime,hand,lend,47
+12,The banker lent the cash,PO-diff,prime,hand,lend,48
+12,The scientist handed,DO-same,target,hand,lend,45
+12,The scientist handed,DO-diff,target,hand,lend,46
+12,The scientist handed,PO-same,target,hand,lend,47
+12,The scientist handed,PO-diff,target,hand,lend,48
+13,The teenager lent the tourist,DO-same,prime,lend,show,49
+13,The teenager showed the tourist,DO-diff,prime,lend,show,50
+13,The teenager lent the map,PO-same,prime,lend,show,51
+13,The teenager showed the map,PO-diff,prime,lend,show,52
+13,The writer lent,DO-same,target,lend,show,49
+13,The writer lent,DO-diff,target,lend,show,50
+13,The writer lent,PO-same,target,lend,show,51
+13,The writer lent,PO-diff,target,lend,show,52
+14,The retiree lent the neighbor,DO-same,prime,lend,sell,53
+14,The retiree sold the neighbor,DO-diff,prime,lend,sell,54
+14,The retiree lent the lawnmower,PO-same,prime,lend,sell,55
+14,The retiree sold the lawnmower,PO-diff,prime,lend,sell,56
+14,The actor lent,DO-same,target,lend,sell,53
+14,The actor lent,DO-diff,target,lend,sell,54
+14,The actor lent,PO-same,target,lend,sell,55
+14,The actor lent,PO-diff,target,lend,sell,56
+15,The builder lent the surveyor,DO-same,prime,lend,hand,57
+15,The builder handed the surveyor,DO-diff,prime,lend,hand,58
+15,The builder lent the drill,PO-same,prime,lend,hand,59
+15,The builder handed the drill,PO-diff,prime,lend,hand,60
+15,The hairdresser lent,DO-same,target,lend,hand,57
+15,The hairdresser lent,DO-diff,target,lend,hand,58
+15,The hairdresser lent,PO-same,target,lend,hand,59
+15,The hairdresser lent,PO-diff,target,lend,hand,60
+16,The farmer lent the carpenter,DO-same,prime,lend,mail,61
+16,The farmer mailed the carpenter,DO-diff,prime,lend,mail,62
+16,The farmer lent the spare key,PO-same,prime,lend,mail,63
+16,The farmer mailed the spare key,PO-diff,prime,lend,mail,64
+16,The coastguard lent,DO-same,target,lend,mail,61
+16,The coastguard lent,DO-diff,target,lend,mail,62
+16,The coastguard lent,PO-same,target,lend,mail,63
+16,The coastguard lent,PO-diff,target,lend,mail,64
+17,The fashion designer lent the famous journalist,DO-same,prime,lend,send,65
+17,The fashion designer sent the famous journalist,DO-diff,prime,lend,send,66
+17,The fashion designer lent the pink jacket,PO-same,prime,lend,send,67
+17,The fashion designer sent the pink jacket,PO-diff,prime,lend,send,68
+17,The comedian lent,DO-same,target,lend,send,65
+17,The comedian lent,DO-diff,target,lend,send,66
+17,The comedian lent,PO-same,target,lend,send,67
+17,The comedian lent,PO-diff,target,lend,send,68
+18,The cheerleader lent the skater,DO-same,prime,lend,give,69
+18,The cheerleader gave the skater,DO-diff,prime,lend,give,70
+18,The cheerleader lent the skirt,PO-same,prime,lend,give,71
+18,The cheerleader gave the skirt,PO-diff,prime,lend,give,72
+18,The gambler lent,DO-same,target,lend,give,69
+18,The gambler lent,DO-diff,target,lend,give,70
+18,The gambler lent,PO-same,target,lend,give,71
+18,The gambler lent,PO-diff,target,lend,give,72
+19,The woman offered the new neighbor,DO-same,prime,offer,give,73
+19,The woman gave the new neighbor,DO-diff,prime,offer,give,74
+19,The woman offered the rusty bike,PO-same,prime,offer,give,75
+19,The woman gave the rusty bike,PO-diff,prime,offer,give,76
+19,The wrestler offered,DO-same,target,offer,give,73
+19,The wrestler offered,DO-diff,target,offer,give,74
+19,The wrestler offered,PO-same,target,offer,give,75
+19,The wrestler offered,PO-diff,target,offer,give,76
+20,The car salesman offered the couple,DO-same,prime,offer,sell,77
+20,The car salesman sold the couple,DO-diff,prime,offer,sell,78
+20,The car salesman offered the minivan,PO-same,prime,offer,sell,79
+20,The car salesman sold the minivan,PO-diff,prime,offer,sell,80
+20,The forest ranger offered,DO-same,target,offer,sell,77
+20,The forest ranger offered,DO-diff,target,offer,sell,78
+20,The forest ranger offered,PO-same,target,offer,sell,79
+20,The forest ranger offered,PO-diff,target,offer,sell,80
+21,The swimmer offered the visitor,DO-same,prime,offer,hand,81
+21,The swimmer handed the visitor,DO-diff,prime,offer,hand,82
+21,The swimmer offered the towel,PO-same,prime,offer,hand,83
+21,The swimmer handed the towel,PO-diff,prime,offer,hand,84
+21,The draftsman offered,DO-same,target,offer,hand,81
+21,The draftsman offered,DO-diff,target,offer,hand,82
+21,The draftsman offered,PO-same,target,offer,hand,83
+21,The draftsman offered,PO-diff,target,offer,hand,84
+22,The dancer offered the magician,DO-same,prime,offer,send,85
+22,The dancer sent the magician,DO-diff,prime,offer,send,86
+22,The dancer offered the necklace/the magician,PO-same,prime,offer,send,87
+22,The dancer sent the necklace,PO-diff,prime,offer,send,88
+22,The motorist offered,DO-same,target,offer,send,85
+22,The motorist offered,DO-diff,target,offer,send,86
+22,The motorist offered,PO-same,target,offer,send,87
+22,The motorist offered,PO-diff,target,offer,send,88
+23,The blogger offered the penpal,DO-same,prime,offer,mail,89
+23,The blogger mailed the penpal,DO-diff,prime,offer,mail,90
+23,The blogger offered the money,PO-same,prime,offer,mail,91
+23,The blogger mailed the money,PO-diff,prime,offer,mail,92
+23,The runner offered,DO-same,target,offer,mail,89
+23,The runner offered,DO-diff,target,offer,mail,90
+23,The runner offered,PO-same,target,offer,mail,91
+23,The runner offered,PO-diff,target,offer,mail,92
+24,The millionaire offered the struggling artist,DO-same,prime,offer,show,93
+24,The millionaire showed the struggling artist,DO-diff,prime,offer,show,94
+24,The millionaire offered the valuable painting,PO-same,prime,offer,show,95
+24,The millionaire showed the valuable painting,PO-diff,prime,offer,show,96
+24,The explorer offered,DO-same,target,offer,show,93
+24,The explorer offered,DO-diff,target,offer,show,94
+24,The explorer offered,PO-same,target,offer,show,95
+24,The explorer offered,PO-diff,target,offer,show,96
+25,The architect mailed the cheerful engineer,DO-same,prime,mail,lend,97
+25,The architect lent the cheerful engineer,DO-diff,prime,mail,lend,98
+25,The architect mailed the latest plans,PO-same,prime,mail,lend,99
+25,The architect lent the latest plans,PO-diff,prime,mail,lend,100
+25,The teacher mailed,DO-same,target,mail,lend,97
+25,The teacher mailed,DO-diff,target,mail,lend,98
+25,The teacher mailed,PO-same,target,mail,lend,99
+25,The teacher mailed,PO-diff,target,mail,lend,100
+26,The senator mailed the governor,DO-same,prime,mail,show,101
+26,The senator showed the governor,DO-diff,prime,mail,show,102
+26,The senator mailed the photos,PO-same,prime,mail,show,103
+26,The senator showed the photos,PO-diff,prime,mail,show,104
+26,The lonely sailor mailed,DO-same,target,mail,show,101
+26,The lonely sailor mailed,DO-diff,target,mail,show,102
+26,The lonely sailor mailed,PO-same,target,mail,show,103
+26,The lonely sailor mailed,PO-diff,target,mail,show,104
+27,The intern mailed the manager,DO-same,prime,mail,hand,105
+27,The intern handed the manager,DO-diff,prime,mail,hand,106
+27,The intern mailed the invoice,PO-same,prime,mail,hand,107
+27,The intern handed the invoice,PO-diff,prime,mail,hand,108
+27,The boyfriend mailed,DO-same,target,mail,hand,105
+27,The boyfriend mailed,DO-diff,target,mail,hand,106
+27,The boyfriend mailed,PO-same,target,mail,hand,107
+27,The boyfriend mailed,PO-diff,target,mail,hand,108
+28,The company mailed the eager athlete,DO-same,prime,mail,send,109
+28,The company sent the eager athlete,DO-diff,prime,mail,send,110
+28,The company mailed the detailed questionnaire,PO-same,prime,mail,send,111
+28,The company sent the detailed questionnaire,PO-diff,prime,mail,send,112
+28,The father,DO-same,target,mail,send,109
+28,The father,DO-diff,target,mail,send,110
+28,The father,PO-same,target,mail,send,111
+28,The father,PO-diff,target,mail,send,112
+29,The rockstar mailed the young fan,DO-same,prime,mail,give,113
+29,The rockstar gave the young fan,DO-diff,prime,mail,give,114
+29,The rockstar mailed the last ticket,PO-same,prime,mail,give,115
+29,The rockstar gave the last ticket,PO-diff,prime,mail,give,116
+29,The volunteer mailed,DO-same,target,mail,give,113
+29,The volunteer mailed,DO-diff,target,mail,give,114
+29,The volunteer mailed,PO-same,target,mail,give,115
+29,The volunteer mailed,PO-diff,target,mail,give,116
+30,The historian mailed the princess,DO-same,prime,mail,offer,117
+30,The historian offered the princess,DO-diff,prime,mail,offer,118
+30,The historian mailed the manuscript,PO-same,prime,mail,offer,119
+30,The historian offered the manuscript,PO-diff,prime,mail,offer,120
+30,The electrician mailed,DO-same,target,mail,offer,117
+30,The electrician mailed,DO-diff,target,mail,offer,118
+30,The electrician mailed,PO-same,target,mail,offer,119
+30,The electrician mailed,PO-diff,target,mail,offer,120
+31,The professor sold the lecturer,DO-same,prime,sell,lend,121
+31,The professor lent the lecturer,DO-diff,prime,sell,lend,122
+31,The professor sold the book,PO-same,prime,sell,lend,123
+31,The professor lent the book,PO-diff,prime,sell,lend,124
+31,The shopkeeper sold,DO-same,target,sell,lend,121
+31,The shopkeeper sold,DO-diff,target,sell,lend,122
+31,The shopkeeper sold,PO-same,target,sell,lend,123
+31,The shopkeeper sold,PO-diff,target,sell,lend,124
+32,The store owner sold the tall customer,DO-same,prime,sell,offer,125
+32,The store owner offered the tall customer,DO-diff,prime,sell,offer,126
+32,The store owner sold the blue dress,PO-same,prime,sell,offer,127
+32,The store owner offered the blue dress,PO-diff,prime,sell,offer,128
+32,The bodyguard sold,DO-same,target,sell,offer,125
+32,The bodyguard sold,DO-diff,target,sell,offer,126
+32,The bodyguard sold,PO-same,target,sell,offer,127
+32,The bodyguard sold,PO-diff,target,sell,offer,128
+33,The spy sold the foreign diplomat,DO-same,prime,sell,hand,129
+33,The spy handed the foreign diplomat,DO-diff,prime,sell,hand,130
+33,The spy sold the stolen documents,PO-same,prime,sell,hand,131
+33,The spy handed the stolen documents,PO-diff,prime,sell,hand,132
+33,The programmer sold,DO-same,target,sell,hand,129
+33,The programmer sold,DO-diff,target,sell,hand,130
+33,The programmer sold,PO-same,target,sell,hand,131
+33,The programmer sold,PO-diff,target,sell,hand,132
+34,The entrepreneur sold the landscapers,DO-same,prime,sell,show,133
+34,The entrepreneur showed the landscapers,DO-diff,prime,sell,show,134
+34,The entrepreneur sold the gadgets,PO-same,prime,sell,show,135
+34,The entrepreneur showed the gadgets,PO-diff,prime,sell,show,136
+34,The economist sold,DO-same,target,sell,show,133
+34,The economist sold,DO-diff,target,sell,show,134
+34,The economist sold,PO-same,target,sell,show,135
+34,The economist sold,PO-diff,target,sell,show,136
+35,The grocer sold the family,DO-same,prime,sell,give,137
+35,The grocer gave the family,DO-diff,prime,sell,give,138
+35,The grocer sold the strawberries,PO-same,prime,sell,give,139
+35,The grocer gave the strawberries,PO-diff,prime,sell,give,140
+35,The tutor sold,DO-same,target,sell,give,137
+35,The tutor sold,DO-diff,target,sell,give,138
+35,The tutor sold,PO-same,target,sell,give,139
+35,The tutor sold,PO-diff,target,sell,give,140
+36,The baker sold the celebrity,DO-same,prime,sell,send,141
+36,The baker sent the celebrity,DO-diff,prime,sell,send,142
+36,The baker sold the expensive cake,PO-same,prime,sell,send,143
+36,The baker sent the expensive cake,PO-diff,prime,sell,send,144
+36,The pilot sold,DO-same,target,sell,send,141
+36,The pilot sold,DO-diff,target,sell,send,142
+36,The pilot sold,PO-same,target,sell,send,143
+36,The pilot sold,PO-diff,target,sell,send,144
+37,The disgruntled employee sent the managing director,DO-same,prime,send,show,145
+37,The disgruntled employee showed the managing director,DO-diff,prime,send,show,146
+37,The disgruntled employee sent the long letter,PO-same,prime,send,show,147
+37,The disgruntled employee showed the long letter,PO-diff,prime,send,show,148
+37,The famous novelist sent,DO-same,target,send,show,145
+37,The famous novelist sent,DO-diff,target,send,show,146
+37,The famous novelist sent,PO-same,target,send,show,147
+37,The famous novelist sent,PO-diff,target,send,show,148
+38,The dentist sent the insurance company,DO-same,prime,send,mail,149
+38,The dentist mailed the insurance company,DO-diff,prime,send,mail,150
+38,The dentist sent the insurance claim,PO-same,prime,send,mail,151
+38,The dentist mailed the insurance claim,PO-diff,prime,send,mail,152
+38,The cowboy sent,DO-same,target,send,mail,149
+38,The cowboy sent,DO-diff,target,send,mail,150
+38,The cowboy sent,PO-same,target,send,mail,151
+38,The cowboy sent,PO-diff,target,send,mail,152
+39,The librarian sent the student,DO-same,prime,send,hand,153
+39,The librarian handed the student,DO-diff,prime,send,hand,154
+39,The librarian sent the reminder,PO-same,prime,send,hand,155
+39,The librarian handed the reminder,PO-diff,prime,send,hand,156
+39,The thoughtful graddaughter sent,DO-same,target,send,hand,153
+39,The thoughtful graddaughter sent,DO-diff,target,send,hand,154
+39,The thoughtful graddaughter sent,PO-same,target,send,hand,155
+39,The thoughtful graddaughter sent,PO-diff,target,send,hand,156
+40,The photographer sent the editor,DO-same,prime,send,sell,157
+40,The photographer sold the editor,DO-diff,prime,send,sell,158
+40,The photographer sent the prints,PO-same,prime,send,sell,159
+40,The photographer sold the prints,PO-diff,prime,send,sell,160
+40,The plumber sent,DO-same,target,send,sell,157
+40,The plumber sent,DO-diff,target,send,sell,158
+40,The plumber sent,PO-same,target,send,sell,159
+40,The plumber sent,PO-diff,target,send,sell,160
+41,The contractor sent the agent,DO-same,prime,send,offer,161
+41,The contractor offered the agent,DO-diff,prime,send,offer,162
+41,The contractor sent the blueprints,PO-same,prime,send,offer,163
+41,The contractor offered the blueprints,PO-diff,prime,send,offer,164
+41,The wizard sent,DO-same,target,send,offer,161
+41,The wizard sent,DO-diff,target,send,offer,162
+41,The wizard sent,PO-same,target,send,offer,163
+41,The wizard sent,PO-diff,target,send,offer,164
+42,The researcher sent the experienced surgeon,DO-same,prime,send,lend,165
+42,The researcher lent the experienced surgeon,DO-diff,prime,send,lend,166
+42,The researcher sent the detailed report,PO-same,prime,send,lend,167
+42,The researcher lent the detailed report,PO-diff,prime,send,lend,168
+42,The man sent,DO-same,target,send,lend,165
+42,The man sent,DO-diff,target,send,lend,166
+42,The man sent,PO-same,target,send,lend,167
+42,The man sent,PO-diff,target,send,lend,168
+43,The racing driver showed the helpful mechanic,DO-same,prime,show,give,169
+43,The racing driver gave the helpful mechanic,DO-diff,prime,show,give,170
+43,The racing driver showed the torn overalls,PO-same,prime,show,give,171
+43,The racing driver gave the torn overalls,PO-diff,prime,show,give,172
+43,The patient showed,DO-same,target,show,give,169
+43,The patient showed,DO-diff,target,show,give,170
+43,The patient showed,PO-same,target,show,give,171
+43,The patient showed,PO-diff,target,show,give,172
+44,The youngster showed the kind babysitter,DO-same,prime,show,sell,173
+44,The youngster sold the kind babysitter,DO-diff,prime,show,sell,174
+44,The youngster showed the drawing,PO-same,prime,show,sell,175
+44,The youngster showed the drawing,PO-diff,prime,show,sell,176
+44,The private detective showed,DO-same,target,show,sell,173
+44,The private detective showed,DO-diff,target,show,sell,174
+44,The private detective showed,PO-same,target,show,sell,175
+44,The private detective showed,PO-diff,target,show,sell,176
+45,The lifeguard showed the surfer,DO-same,prime,show,offer,177
+45,The lifeguard offered the surfer,DO-diff,prime,show,offer,178
+45,The lifeguard showed the lifebelt,PO-same,prime,show,offer,179
+45,The lifeguard offered the lifebelt,PO-diff,prime,show,offer,180
+45,The inventor showed,DO-same,target,show,offer,177
+45,The inventor showed,DO-diff,target,show,offer,178
+45,The inventor showed,PO-same,target,show,offer,179
+45,The inventor showed,PO-diff,target,show,offer,180
+46,The nurse showed the doctor,DO-same,prime,show,send,181
+46,The nurse sent the doctor,DO-diff,prime,show,send,182
+46,The nurse showed the x-ray,PO-same,prime,show,send,183
+46,The nurse sent the x-ray,PO-diff,prime,show,send,184
+46,The jeweller showed,DO-same,target,show,send,181
+46,The jeweller showed,DO-diff,target,show,send,182
+46,The jeweller showed,PO-same,target,show,send,183
+46,The jeweller showed,PO-diff,target,show,send,184
+47,The baseball player showed the umpire,DO-same,prime,show,lend,185
+47,The baseball player lent the umpire,DO-diff,prime,show,lend,186
+47,The baseball player showed the ball,PO-same,prime,show,lend,187
+47,The baseball player lent the ball,PO-diff,prime,show,lend,188
+47,The poet showed,DO-same,target,show,lend,185
+47,The poet showed,DO-diff,target,show,lend,186
+47,The poet showed,PO-same,target,show,lend,187
+47,The poet showed,PO-diff,target,show,lend,188
+48,The enthusiastic child showed the young friend,DO-same,prime,show,mail,189
+48,The enthusiastic child mailed the young friend,DO-diff,prime,show,mail,190
+48,The enthusiastic child showed the colorful envelope,PO-same,prime,show,mail,191
+48,The enthusiastic child mailed the colorful envelope,PO-diff,prime,show,mail,192
+48,The gardener showed,DO-same,target,show,mail,189
+48,The gardener showed,DO-diff,target,show,mail,190
+48,The gardener showed,PO-same,target,show,mail,191
+48,The gardener showed,PO-diff,target,show,mail,192
