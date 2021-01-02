@@ -39,4 +39,6 @@ coded_results_exp1.csv and coded_results_exp2.csv contain the coded results for 
 
 The exp1_items.csv and exp2_items.csv folders contain the items run in the pilot, which may differ from the final items run (which appear in the folders exp1 and exp2).
 
+# convert_ibex_to_csv.R
 
+This takes the raw Ibex files and converts them to a csv for coding. We then copy to a Google Doc and perform blind coding, and save the output as coded csvs.
