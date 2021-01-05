@@ -56,7 +56,11 @@ exp1 = filter(e, Dep.measure  == "DO" | (Paper.ID == 62 & (grepl("Shifted", Subc
          !grepl("spoken", Subcondition)) %>%
   mutate(Experiment.name = ifelse(is.na(Experiment.name), "", Experiment.name),
          Subcondition = ifelse(is.na(Subcondition), "", Subcondition),
+         ExpNum = ifelse(Experiment.name == "",
+                         0,
+                         as.numeric(gsub("Experiment ", "", Experiment.name))),
          Name = paste(Authors, " (", Year, ") ", Experiment.name, " ", Subcondition, sep=""),
+         Name = fct_reorder(Name, -as.numeric(ExpNum)),
          Name = fct_reorder(Name, -as.numeric(Year)))
 
 ggplot(exp1, aes(x=Name, y=lor,
@@ -65,5 +69,6 @@ ggplot(exp1, aes(x=Name, y=lor,
   geom_point() + 
   geom_errorbar() +
   coord_flip() + 
-  theme_bw(14)
+  theme_bw(14) +
+  
 ggsave("pngs/exp1_summary.png", width=9, height=4)

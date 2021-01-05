@@ -1,0 +1,448 @@
+#
+# Results on Wednesday December 30 2020 23:13:34 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash that hopefully uniquely identifies participant.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,Age,35
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,comments,
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,race_AI,no
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,race_asian,no
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,race_black,no
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,race_hawaii,no
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,race_white,yes
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,race_NA,no
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,consent,yes
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,sex,female
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,country,USA
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,english,yes
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,1,0,intro,NULL,ethnicity,nHL
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,3,0,practice,NULL,The wrestler entered the ring while the audience ,shouted.
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,4,0,practice,NULL,Adam started the video game after gloating about ,his expertise
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,5,0,practice,NULL,The bookstore closed early today because ,of inclement weather
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was ,confusing
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that ,altered the situation
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,39,0,dat-prime17,NULL,The fashion designer sent the famous journalist ,a note
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,40,0,dat-target17,NULL,The comedian lent ,their expertise
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was ,ultimately appropriate
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that ,swore at them
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,85,0,dat-prime40,NULL,The photographer sent the editor ,a beautiful photo
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,86,0,dat-target40,NULL,The plumber sent ,a bill to the client
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was ,inappropriate
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that ,complained to them
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,79,0,dat-prime37,NULL,The disgruntled employee sent the managing director ,a strongly worded email
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,80,0,dat-target37,NULL,The famous novelist sent ,a brief to their researcher
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was ,in disrepear
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that ,managed their affairs
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,45,0,dat-prime20,NULL,The car salesman sold the couple ,a used car
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,46,0,dat-target20,NULL,The forest ranger offered ,their condolences to the couple
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were  ,repairing it
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that  ,started the job anew
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,7,0,dat-prime1,NULL,The driving instructor handed the certificate ,to their student
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,8,0,dat-target1,NULL,The consultant gave ,their praises to them team
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were ,in the woods
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that  ,managed the fundraiser
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,89,0,dat-prime42,NULL,The researcher sent the experienced surgeon ,their findings
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,90,0,dat-target42,NULL,The man sent ,his money to the fund
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were ,on duty
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that  ,were overstaying their working hours
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,59,0,dat-prime27,NULL,The intern mailed the invoice ,to the client
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,60,0,dat-target27,NULL,The boyfriend mailed ,their girlfriend
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were ,renewing the contract
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that  ,were rioting
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,101,0,dat-prime48,NULL,The enthusiastic child showed the young friend ,their painting
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,102,0,dat-target48,NULL,The gardener showed ,their new plant off
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were  ,uncertain
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that  ,were present
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,31,0,dat-prime13,NULL,The teenager showed the tourist ,their photos
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,32,0,dat-target13,NULL,The writer lent ,their opinions
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was ,rather confusing
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that ,captured forests
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,13,0,dat-prime4,NULL,The mother showed the expensive toy ,to their child
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,14,0,dat-target4,NULL,The sculptor gave ,their highest praises
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was ,an early arrival
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that ,was hidden
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,37,0,dat-prime16,NULL,The farmer mailed the carpenter ,the new payment
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,38,0,dat-target16,NULL,The coastguard lent ,their assistance
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were  ,on duty
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that  ,studied music
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,61,0,dat-prime28,NULL,The company mailed the detailed questionnaire ,to their staff
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,62,0,dat-target28,NULL,The father ,hugged his son
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were ,eating 
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that ,was beautiful
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,71,0,dat-prime33,NULL,The spy sold the stolen documents ,to their friend
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,72,0,dat-target33,NULL,The programmer sold ,their code
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was ,difficult
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that ,was true
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,15,0,dat-prime5,NULL,The biologist lent the article ,their editing
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,16,0,dat-target5,NULL,The violinist gave ,their best effort
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were ,working
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that  ,was small
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,63,0,dat-prime29,NULL,The rockstar mailed the last ticket ,to the winner
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,64,0,dat-target29,NULL,The volunteer mailed ,their checks
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was ,beautiful
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that ,was not attending
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,21,0,dat-prime8,NULL,The hostess sold the dessert ,to the client
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,22,0,dat-target8,NULL,The newsagent handed ,over the briefing
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was ,very full
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that ,were able to attend
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,33,0,dat-prime14,NULL,The retiree sold the neighbor ,their ticket
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,34,0,dat-target14,NULL,The actor lent ,their friend money
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was ,confusing
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that ,was tall
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,29,0,dat-prime12,NULL,The banker lent the cash ,to the client
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,30,0,dat-target12,NULL,The scientist handed ,their briefing to the jouranl
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was ,incomplete
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that  ,sold millions
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,51,0,dat-prime23,NULL,The blogger mailed the penpal ,their correspondence
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,52,0,dat-target23,NULL,The runner offered ,their advice
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was ,unique
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that ,were in completition
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,97,0,dat-prime46,NULL,The nurse showed the doctor ,her findings
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,98,0,dat-target46,NULL,The jeweller showed ,their wares
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was ,toxic
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that ,lived there
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,65,0,dat-prime30,NULL,The historian mailed the manuscript ,onward
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,66,0,dat-target30,NULL,The electrician mailed ,the bill
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were  ,present
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that  ,competed
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,87,0,dat-prime41,NULL,The contractor sent the agent ,their bill
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,88,0,dat-target41,NULL,The wizard sent ,a spell onward
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were  ,unavailable
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that  ,stood tall
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,11,0,dat-prime3,NULL,The florist mailed the huge bouquet ,to their friend
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,12,0,dat-target3,NULL,The pharmacist gave ,money to charity
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were ,studying artifacts
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that  ,was complicated
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,99,0,dat-prime47,NULL,The baseball player showed the umpire ,their frustration
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,100,0,dat-target47,NULL,The poet showed ,their works 
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were ,working on the project
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that  ,was going under
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,93,0,dat-prime44,NULL,The youngster showed the kind babysitter ,their appreciation
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,94,0,dat-target44,NULL,The private detective showed ,their kindness
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were  ,working hard
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that  ,were snacking
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,73,0,dat-prime34,NULL,The entrepreneur sold the gadgets ,online
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,74,0,dat-target34,NULL,The economist sold ,their stocks
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were ,nervous
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that  ,was boarded up
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,77,0,dat-prime36,NULL,The baker sold the expensive cake ,to a client
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,78,0,dat-target36,NULL,The pilot sold ,their shares
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were ,living there
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that  ,was from centuries ago
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,43,0,dat-prime19,NULL,The woman gave the new neighbor ,a wave
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,44,0,dat-target19,NULL,The wrestler offered ,their appreciation to the crowd
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was ,stuffy
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that ,was going under
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,19,0,dat-prime7,NULL,The grandmother gave the big present ,to her family
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,20,0,dat-target7,NULL,The tennis fan handed ,a signature ball to their favorite player
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were  ,indignants
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that  ,was beautiful
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,49,0,dat-prime22,NULL,The dancer sent the magician ,a kiss
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,50,0,dat-target22,NULL,The motorist offered ,a wave
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were  ,struggling
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that  ,ran overtime
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,69,0,dat-prime32,NULL,The store owner sold the blue dress ,to their friend
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,70,0,dat-target32,NULL,The bodyguard sold ,their paddle board
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was ,very loud
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that ,was excellent
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,17,0,dat-prime6,NULL,The groomer sold the shampoo ,to the woman
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,18,0,dat-target6,NULL,The therapist gave ,a massage
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was ,invigorating
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that ,had lived there forever
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,35,0,dat-prime15,NULL,The builder handed the surveyor ,a check
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,36,0,dat-target15,NULL,The hairdresser lent ,their finances to friends
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were ,struggling hardest
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that   ,lived there
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,53,0,dat-prime24,NULL,The millionaire showed the struggling artist ,their fortune
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,54,0,dat-target24,NULL,The explorer offered ,their guidance
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was ,rather unique
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that ,hurt them
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,41,0,dat-prime18,NULL,The cheerleader gave the skater ,a thumbs up
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,42,0,dat-target18,NULL,The gambler lent ,their money to the bookie
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were ,struggling with block
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that ,were doing renovations
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,25,0,dat-prime10,NULL,The CEO mailed the package ,onward
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,26,0,dat-target10,NULL,The chef handed ,the plates to restaurant goers
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was ,quite complex
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that ,was soccer
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,55,0,dat-prime25,NULL,The architect mailed the latest plans ,onward to their boss
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,56,0,dat-target25,NULL,The teacher mailed ,students their papers
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were  ,truant
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that  ,was large
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,9,0,dat-prime2,NULL,The captain offered the spare lifejacket ,to their wife
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,10,0,dat-target2,NULL,The bus driver gave ,everyone a wave
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was ,delayed
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that ,was due
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,75,0,dat-prime35,NULL,The grocer sold the strawberries ,to their clients
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,76,0,dat-target35,NULL,The tutor sold ,novel ideas to students
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were ,not present
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that  ,was empty
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,95,0,dat-prime45,NULL,The lifeguard showed the surfer ,the moves
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,96,0,dat-target45,NULL,The inventor showed ,their invention
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were ,practicing
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that  ,was messy
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,23,0,dat-prime9,NULL,The efficient secretary sent the long fax ,to their boss
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,24,0,dat-target9,NULL,The little girl handed ,her mom an apple
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were  ,tied
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that  ,was demolished
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,27,0,dat-prime11,NULL,The bartender offered the cocktail ,to their client
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,28,0,dat-target11,NULL,The postal worker handed ,mail to homeowners
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was ,expired
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that ,was complex in nature
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,47,0,dat-prime21,NULL,The swimmer handed the visitor ,their goggles
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,48,0,dat-target21,NULL,The draftsman offered ,a new draft
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were ,present
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that  ,was open 24/7
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,91,0,dat-prime43,NULL,The racing driver showed the helpful mechanic ,to their locker
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,92,0,dat-target43,NULL,The patient showed ,appreciation for the help
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was ,online
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that ,were present
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,67,0,dat-prime31,NULL,The professor sold the book ,as a pdf
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,68,0,dat-target31,NULL,The shopkeeper sold ,their newest item
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was ,novel
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates ,on her own
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,83,0,dat-prime39,NULL,The librarian sent the student ,the books requested
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,84,0,dat-target39,NULL,The thoughtful graddaughter sent ,their gift onward
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was ,dilligent
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that ,were showing off
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,81,0,dat-prime38,NULL,The dentist sent the insurance company ,the large bill
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,82,0,dat-target38,NULL,The cowboy sent ,their horse to drink water
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was ,timeous
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that ,not many others could do
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,57,0,dat-prime26,NULL,The senator mailed the photos ,from their personal email
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,58,0,dat-target26,NULL,The lonely sailor mailed ,letters to their wife
+1609370014,a27623959bfc01ef3a1e6a847a85894d,Stim_Form,199,0,end,NULL,report_code,s2WVA4zD8q
+#
+# Results on Thursday December 31 2020 01:13:40 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash that hopefully uniquely identifies participant.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,Age,43
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,comments,
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,race_AI,no
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,race_asian,no
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,race_black,no
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,race_hawaii,no
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,race_white,yes
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,race_NA,no
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,consent,yes
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,sex,male
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,country,USA
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,english,yes
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,1,0,intro,NULL,ethnicity,nHL
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,3,0,practice,NULL,The wrestler entered the ring while the audience ,cheered and screamed his name.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,4,0,practice,NULL,Adam started the video game after gloating about ,good he was and how he would beat an opponent. 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,5,0,practice,NULL,The bookstore closed early today because ,it was forecast to snow later in the day
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,137,0,prime18,NULL,Amara observed the rehearsal of the actors who were ,all very tired having worked all day.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,138,0,target18,NULL,The janitor cleaned the dorm of the sophomores that  ,left for their summer break.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,87,0,dat-prime41,NULL,The contractor sent the agent ,a bill for the services that he performed
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,88,0,dat-target41,NULL,The wizard sent ,a firebolt through the sky
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,183,0,prime41,NULL,The superstar boarded the yacht of the partygoers which was ,sailing to a remote island 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,184,0,target41,NULL,The teenager enjoyed the reunion of the relatives that ,he hadn't seen in a long time
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,69,0,dat-prime32,NULL,The store owner sold the blue dress ,for a lot of money
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,70,0,dat-target32,NULL,The bodyguard sold ,a watch to the man in the parking lot
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,131,0,prime15,NULL,The witness recognized the vehicle of the victims who were  ,killed at the scene
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,132,0,target15,NULL,The coach lost the trophy of the athletes that  ,worked hard all season to win
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,25,0,dat-prime10,NULL,The CEO mailed the package ,to the customer
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,26,0,dat-target10,NULL,The chef handed ,the waitress a plate of food for the customer
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,195,0,prime47,NULL,The cast previewed the script of the playwrights which was ,fascinating and a sure hit
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,196,0,target47,NULL,The collector approached the sellers of the antique that  ,was very valuable and sought after
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,41,0,dat-prime18,NULL,The cheerleader gave the skater ,a high five and a wink
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,42,0,dat-target18,NULL,The gambler lent ,the man money for a taxi out of town
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,177,0,prime38,NULL,The firm accepted the case of the clients which was ,very controversial and sad
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,178,0,target38,NULL,The historian explained the legacy of the forefathers that ,the audience was not aware of 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,45,0,dat-prime20,NULL,The car salesman sold the couple ,a used car for a reasonable price
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,46,0,dat-target20,NULL,The forest ranger offered ,the man a ride out of the forest.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,111,0,prime5,NULL,The critic entered the restaurant of the chefs who were ,preparing a feat for a large group of people
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,112,0,target5,NULL,The plumber entered the bathroom of the residents that  ,was flooded from an exploded pipe.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,13,0,dat-prime4,NULL,The mother showed the expensive toy ,to the baby boy.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,14,0,dat-target4,NULL,The sculptor gave ,the collector his favorite creation
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,193,0,prime46,NULL,The electrician left the kitchen of the housemates which was ,very messy and smelly.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,194,0,target46,NULL,The attorney sued the bosses of the institution that ,caused him financial hardship
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,49,0,dat-prime22,NULL,The dancer sent the magician ,a wave and a wink from across the room
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,50,0,dat-target22,NULL,The motorist offered ,the hitchhiker a lift to the bus station 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,173,0,prime36,NULL,The villager welcomed the arrival of the travellers which was ,a goodwill thing to do as they were very tired
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,174,0,target36,NULL,The hero confronted the guardians of the treasure that ,insisted that they leave right away
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,73,0,dat-prime34,NULL,The entrepreneur sold the gadgets ,to the small business owner
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,74,0,dat-target34,NULL,The economist sold ,his secrets the the highest bidder
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,165,0,prime32,NULL,The shepherd understood the task of the ranchers which was ,to herd the cows and horses in their pens 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,166,0,target32,NULL,The amateur envied the players of the sport that ,he enjoyed watching and playing
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,77,0,dat-prime36,NULL,The baker sold the expensive cake ,to the bride and groom
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,78,0,dat-target36,NULL,The pilot sold ,a plane to the collector
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,191,0,prime45,NULL,Natalya designed the uniform of the cheerleaders which was ,grey with red stripes 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,192,0,target45,NULL,The veteran accompanied the climbers of the mountain that ,was the highest in the region
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,75,0,dat-prime35,NULL,The grocer sold the strawberries ,to the lady and her son
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,76,0,dat-target35,NULL,The tutor sold ,his course to the student
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,143,0,prime21,NULL,Maxwell approved the blueprint of the architects who were  ,eager to build the house
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,144,0,target21,NULL,She graded the pupils of the school that  ,were in advanced classes
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,89,0,dat-prime42,NULL,The researcher sent the experienced surgeon ,a greeting card to thank him for his service
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,90,0,dat-target42,NULL,The man sent ,the woman flowers and a card
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,189,0,prime44,NULL,The shopper heard the tantrum of the children which was ,very annoying and loud.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,190,0,target44,NULL,Austin praised the developers of the game that ,created a new virtual world to play in
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,23,0,dat-prime9,NULL,The efficient secretary sent the long fax ,to the customer 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,24,0,dat-target9,NULL,The little girl handed ,her father a drawing
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,139,0,prime19,NULL,We criticized the viewpoint of the journalists who were  ,untruthful in their reporting 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,140,0,target19,NULL,They congratulated the winners of the tournament that  ,was held at the coliseum 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,33,0,dat-prime14,NULL,The retiree sold the neighbor ,a snowblower
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,34,0,dat-target14,NULL,The actor lent ,his brother some money
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,103,0,prime1,NULL,Fran corrected the manuscript of the authors who were ,waiting for their approval 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,104,0,target1,NULL,Terry inspected the lawn of the parents that ,had hired a landscaping company
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,9,0,dat-prime2,NULL,The captain offered the spare lifejacket ,to the sailor on the ship
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,10,0,dat-target2,NULL,The bus driver gave ,the boy a free bus pass
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,115,0,prime7,NULL,The commentator announced the score of the contestants who were  ,laughing and having a good time
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,116,0,target7,NULL,The police arrested the inhabitants of the building that  ,made illicit drug sales 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,93,0,dat-prime44,NULL,The youngster showed the kind babysitter ,how to play a video game on her phone
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,94,0,dat-target44,NULL,The private detective showed ,the photos to the woman.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,125,0,prime12,NULL,Yvette organized the meeting of the agents who were ,going to make up the task force.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,126,0,target12,NULL,The physician treated the patients of the hospital that  ,were most in need.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,21,0,dat-prime8,NULL,The hostess sold the dessert ,to the couple celebrating their anniversary.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,22,0,dat-target8,NULL,The newsagent handed ,the breaking story.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,161,0,prime30,NULL,The committee posted the survey of the homeowners which was ,available to anyone who wanted to view it.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,162,0,target30,NULL,The biographer studied the photograph of the aristocrats that ,was found in the box of photos.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,101,0,dat-prime48,NULL,The enthusiastic child showed the young friend ,how to shuffle a deck of cards.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,102,0,dat-target48,NULL,The gardener showed ,how to plant cuts of other plants.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,123,0,prime11,NULL,The landlord reviewed the lease of the tenants who were ,looking for a larger apartment.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,124,0,target11,NULL,The secretary contacted the signers of the petition that  ,left their phone numbers.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,95,0,dat-prime45,NULL,The lifeguard showed the surfer ,how to do chest compressions.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,96,0,dat-target45,NULL,The inventor showed ,the audience of stockholders his new prototype.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,167,0,prime33,NULL,Sebastian took the recommendation of the agents which was ,to update his resume and headshots.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,168,0,target33,NULL,The activist joined the advocates of the cause that ,helped her when she was younger.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,85,0,dat-prime40,NULL,The photographer sent the editor ,the photos before the deadline.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,86,0,dat-target40,NULL,The plumber sent ,the contract to the customer.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,181,0,prime40,NULL,Claudio commemorated the adventure of the backpackers which was ,televised.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,182,0,target40,NULL,The teacher resolved the dispute of the classmates ,after several attempts.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,55,0,dat-prime25,NULL,The architect mailed the latest plans ,to the client for review.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,56,0,dat-target25,NULL,The teacher mailed ,the final report card to the student's house.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,133,0,prime16,NULL,The firemen left the house of the hippies who were ,all safe and thankful for his help.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,134,0,target16,NULL,The archeologist uncovered the cave of the Neanderthals that  ,had gone undiscovered for thousands of years.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,15,0,dat-prime5,NULL,The biologist lent the article ,to the lab technician.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,16,0,dat-target5,NULL,The violinist gave ,a perfect performance.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,117,0,prime8,NULL,The professor found the list of the students who were  ,assigned the essay.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,118,0,target8,NULL,The fans cheered for the recipients of the prize that  ,could change their lives.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,27,0,dat-prime11,NULL,The bartender offered the cocktail ,to the lonely-looking woman.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,28,0,dat-target11,NULL,The postal worker handed ,the package to her.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,113,0,prime6,NULL,The reporter visited the district of the voters who were ,protesting.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,114,0,target6,NULL,The spy described the hideout of the rebels that   ,planned the attack.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,83,0,dat-prime39,NULL,The librarian sent the student ,a letter reminding him of his overdue book.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,84,0,dat-target39,NULL,The thoughtful graddaughter sent ,a bouquet of flowers for their anniversary.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,169,0,prime34,NULL,The agency marketed the image of the models which was ,a first for that agency.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,170,0,target34,NULL,The host invited the guests of the celebration that ,started their cultural holiday.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,63,0,dat-prime29,NULL,The rockstar mailed the last ticket ,to the president of the fan club.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,64,0,dat-target29,NULL,The volunteer mailed ,her paperwork to the agency.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,197,0,prime48,NULL,The builders renovated the office of the coworkers which was ,damaged by the fire.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,198,0,target48,NULL,Naomi liked the administrators of the department that ,showed interest in her ideas.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,91,0,dat-prime43,NULL,The racing driver showed the helpful mechanic ,where the part was located on the ground.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,92,0,dat-target43,NULL,The patient showed ,up twenty minutes late to his appointment and still wanted to be seen.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,175,0,prime37,NULL,The adjustor checked the insurance of the drivers which was ,still valid.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,176,0,target37,NULL,The bodybuilder followed the program of the trainers that ,followed a strict diet.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,79,0,dat-prime37,NULL,The disgruntled employee sent the managing director ,a letter of resignation
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,80,0,dat-target37,NULL,The famous novelist sent ,a gift basket to his publicist.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,127,0,prime13,NULL,The officer confiscated the inheritance of the brothers who were  ,being investigated for fraud.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,128,0,target13,NULL,The tourist noticed the altar of the worshippers that  ,was covered in offerings.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,39,0,dat-prime17,NULL,The fashion designer sent the famous journalist ,a gown to try on for the gala.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,40,0,dat-target17,NULL,The comedian lent ,his cellphone to his manager.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,155,0,prime27,NULL,The citizens respected the decision of the representatives which was ,unanimous.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,156,0,target27,NULL,The public condemned the action of the accomplices that ,commited the crime.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,51,0,dat-prime23,NULL,The blogger mailed the penpal ,a birthday card.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,52,0,dat-target23,NULL,The runner offered ,water to his team mate.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,121,0,prime10,NULL,The ruling impacted the village of the farmers who were ,already struggling.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,122,0,target10,NULL,Andrew spoke to the patrons of the supermarket that  ,wanted to return the recalled items.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,99,0,dat-prime47,NULL,The baseball player showed the umpire ,the ball that he suspected was defective
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,100,0,dat-target47,NULL,The poet showed ,the man his new poem he had written
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,157,0,prime28,NULL,The tour guide led the excursion of the sightseers which was ,filled with other travelers with other guides
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,158,0,target28,NULL,The professionals repaired the furniture of the residents that ,were left homeless after a fire in their garage
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,47,0,dat-prime21,NULL,The swimmer handed the visitor ,sunscreen for his face
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,48,0,dat-target21,NULL,The draftsman offered ,the man a prototype design for him to look at
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,109,0,prime4,NULL,Leo viewed the painting of the kings who were ,all very ornamentally drawn
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,110,0,target4,NULL,The FBI searched the boardroom of the executives that  ,were hiding evidence 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,35,0,dat-prime15,NULL,The builder handed the surveyor ,a blueprint of his design
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,36,0,dat-target15,NULL,The hairdresser lent ,the customer money so they could get a haircut
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,153,0,prime26,NULL,Raquel recorded the seminar of the mentors which was ,the highlight of the evening for everyone
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,154,0,target26,NULL,The corporation endorsed the promotion of the partners that ,gave them more exposure on the global marketplace 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,97,0,dat-prime46,NULL,The nurse showed the doctor ,the results from the test
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,98,0,dat-target46,NULL,The jeweller showed ,the woman diamond necklace 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,119,0,prime9,NULL,Everyone read the report of the scientists who were  ,on the verge of a scientific breakthrough
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,120,0,target9,NULL,Chris served the attendees of the party that  ,were celebrating a graduation 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,31,0,dat-prime13,NULL,The teenager showed the tourist ,where to get a good lunch for cheap
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,32,0,dat-target13,NULL,The writer lent ,the book to his friend for review
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,107,0,prime3,NULL,We passed the property of the landowners who were  ,having a big bonfire with a group of people
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,108,0,target3,NULL,They increased the salary of the landscapers that  ,did an exceptional job over the busy summer months
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,17,0,dat-prime6,NULL,The groomer sold the shampoo ,to the dog owner
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,18,0,dat-target6,NULL,The therapist gave ,the patient sound advice on how to approach his issues
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,149,0,prime24,NULL,The assistant documented the journey of the anthropologists who were ,digging for dinosaur bones in the desert
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,150,0,target24,NULL,The director resented the critics of the play that  ,judged his work to harshly
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,29,0,dat-prime12,NULL,The banker lent the cash ,to the desperate homeowner
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,30,0,dat-target12,NULL,The scientist handed ,the student a glass beaker for the experiment 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,187,0,prime43,NULL,The kingdom anticipated the return of the knights which was ,a grand affair that all would attend
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,188,0,target43,NULL,The technician consulted the programmers of the code that ,displayed error messages and would not work
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,43,0,dat-prime19,NULL,The woman gave the new neighbor ,a welcome basket full of fruits
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,44,0,dat-target19,NULL,The wrestler offered ,to teach wrestling moves to the young kids
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,185,0,prime42,NULL,The therapist analyzed the relationship of the spouses which was ,harder than she had thought
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,186,0,target42,NULL,The servants maintained the palace of the noblemen that ,owned many homes with many rooms
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,57,0,dat-prime26,NULL,The senator mailed the photos ,to the newspaper
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,58,0,dat-target26,NULL,The lonely sailor mailed ,a letter to his wife while he was away at sea
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,171,0,prime35,NULL,The filmmaker shot the video of the siblings which was ,made viral through a facebook post
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,172,0,target35,NULL,The expert identified the apprentices of the trade that ,were responsible for the mishap 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,11,0,dat-prime3,NULL,The florist mailed the huge bouquet ,to the grieving mother who had just lost a child
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,12,0,dat-target3,NULL,The pharmacist gave ,the man his pills
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,135,0,prime17,NULL,We bought the company of the entrepreneurs who were ,eager to start working and getting things done
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,136,0,target17,NULL,Jose built the shelter of the refugees that  ,were displaced due to flooding
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,19,0,dat-prime7,NULL,The grandmother gave the big present ,a bow and a nametag
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,20,0,dat-target7,NULL,The tennis fan handed ,the ball to the tennis player 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,159,0,prime29,NULL,The businessmen appreciated the contribution of the investors which was ,a great thing for a change
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,160,0,target29,NULL,Xavier admired the skill of the bodyguards that ,fought off the attackers in the parking lot
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,59,0,dat-prime27,NULL,The intern mailed the invoice ,to the company that purchased merchandise 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,60,0,dat-target27,NULL,The boyfriend mailed ,his girlfriend a letter
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,145,0,prime22,NULL,Kurt set the schedule of the lawyers who were ,overseeing the case from start to finish
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,146,0,target22,NULL,We questioned the caretakers of the building that  ,were overseeing the repairs being done
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,7,0,dat-prime1,NULL,The driving instructor handed the certificate ,to the student
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,8,0,dat-target1,NULL,The consultant gave ,the company expert advise on the new training seminar 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,151,0,prime25,NULL,The publisher approved the work of the editors which was ,very popular with the the other staff members 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,152,0,target25,NULL,The crowd surrounded the car of the friends that ,were getting married
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,61,0,dat-prime28,NULL,The company mailed the detailed questionnaire ,to the customers for feedback on their experience 
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,62,0,dat-target28,NULL,The father ,told the children to go to bed
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,105,0,prime2,NULL,The bartender found the receipt of the customers who were ,loud and obnoxious to the other guests
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,106,0,target2,NULL,The staff cleaned the stage of the performers that ,were the last to play for the night
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,65,0,dat-prime30,NULL,The historian mailed the manuscript ,to the publisher for review and consideration
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,66,0,dat-target30,NULL,The electrician mailed ,the estimate to the customer
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,147,0,prime23,NULL,The kids found the camp of the hikers who were ,out hunting in the forest
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,148,0,target23,NULL,The volunteer helped the planners of the event that  ,was to be held on Saturday.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,81,0,dat-prime38,NULL,The dentist sent the insurance company ,the claim for his patient's root canal.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,82,0,dat-target38,NULL,The cowboy sent ,word back to the ranch hands that there had been an accident.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,163,0,prime31,NULL,The panel rejected the submission of the collaborators which was ,unheard of this late in the competition.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,164,0,target31,NULL,The board fired the members of the organization that ,refused to comply with the company standards.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,71,0,dat-prime33,NULL,The spy sold the stolen documents ,on the black market for a considerable amount of money.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,72,0,dat-target33,NULL,The programmer sold ,the credit card information on the dark web.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,141,0,prime20,NULL,The pilot flew the plane of the millionaires who were  ,heading to the island.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,142,0,target20,NULL,Lee watched the groundskeepers of the garden that  ,he had hired last week.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,37,0,dat-prime16,NULL,The farmer mailed the carpenter ,a check for the work that was completed.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,38,0,dat-target16,NULL,The coastguard lent ,his flashlight.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,129,0,prime14,NULL,The prophet addressed the concern of the believers who were  ,starting to question him.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,130,0,target14,NULL,The photographer captured the vacation of the sisters that  ,they had planned for 18 months.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,53,0,dat-prime24,NULL,The millionaire showed the struggling artist ,his collection to inspire her.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,54,0,dat-target24,NULL,The explorer offered ,money to the man who let him through the town.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,179,0,prime39,NULL,The doctor confirmed the diagnosis of the specialists which was ,what we were concerned about.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,180,0,target39,NULL,The minors vandalized the fence of the neighbors that ,had just been put up last month.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,67,0,dat-prime31,NULL,The professor sold the book ,for well under what it was worth.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,68,0,dat-target31,NULL,The shopkeeper sold ,the last couture gown.
+1609377220,09ae836406753ac16be2e91dcabd0314,Stim_Form,199,0,end,NULL,report_code,k3J9PqoN6E

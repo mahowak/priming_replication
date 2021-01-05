@@ -6,7 +6,10 @@ inv.logit = function(x) {exp(x)/(1+exp(x))}
 e = read_csv("data/master_spreadsheet_processed.csv") %>%
   filter(Dep.measure %in% c("HA", "LA"),
          Construction.type == "RC attachment") %>%
-  mutate(v = 1/(num.data.1 * num.data.items.1 *Dep.primed) + 1/(num.data.2 * num.data.items.2 * Alt.primed) + (1/(num.data.1 * num.data.items.1 * (1- Dep.primed))) + (1/(num.data.2 * num.data.items.2 * (1 - Alt.primed))),
+  mutate(v = 1/(num.data.1 * num.data.items.1 *Dep.primed) +
+           1/(num.data.2 * num.data.items.2 * Alt.primed) +
+           (1/(num.data.1 * num.data.items.1 * (1- Dep.primed))) +
+           (1/(num.data.2 * num.data.items.2 * (1 - Alt.primed))),
          se = sqrt(v))
 
 e = select(e, ExperimentID, Subcondition, Alt.primed, Dep.primed, Dep.measure) %>%
@@ -40,7 +43,11 @@ exp2 = e %>%
          Dep.measure == "HA") %>%
   mutate(Experiment.name = ifelse(is.na(Experiment.name), "", Experiment.name),
          Subcondition = ifelse(is.na(Subcondition), "", Subcondition),
+         ExpNum = ifelse(Experiment.name == "",
+                         0,
+                         as.numeric(gsub("Experiment ", "", Experiment.name))),
          Name = paste(Authors, " (", Year, ") ", Experiment.name, " ", Subcondition, sep=""),
+         Name = fct_reorder(Name, -as.numeric(ExpNum)),
          Name = fct_reorder(Name, -as.numeric(Year)))
 
 
@@ -50,5 +57,7 @@ ggplot(exp2, aes(x=Name, y=lor,
   geom_point() + 
   geom_errorbar() +
   coord_flip() + 
-  theme_bw(14)
-ggsave("pngs/exp2_summary.png", width=9, height=4)
+  theme_bw(14) + 
+  ylab("log odds ratio") + 
+  xlab("experiment")
+ggsave("pngs/exp2_summary.png", width=9, height=3)

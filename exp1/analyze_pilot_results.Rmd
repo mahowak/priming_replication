@@ -54,7 +54,8 @@ We merge primes and targets, to match them up and filter to only correct prime t
 
 ```{r}
 primes = filter(d, type == "prime") %>%
-  mutate(correct = (grepl("DO", condition) & code == "D") | (grepl("PO", condition) & code == "P")) %>%
+  mutate(correct = (grepl("DO", condition) & code == "D") |
+           (grepl("PO", condition) & code == "P")) %>%
   rename(prime.cond = condition) %>%
   select(subject, item, correct, prime.cond)
 
