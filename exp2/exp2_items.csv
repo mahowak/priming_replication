@@ -1,4 +1,4 @@
-﻿item,sentence,condition,type,number
+﻿item,sentence,condition,type,pair_ID
 1,Fran corrected the manuscript of the authors who were,InAn-low,prime,1
 1,Fran corrected the manuscript of the authors which was,InAn-high,prime,2
 1,Terry inspected the lawn of the parents that,InAn-low,target,1
@@ -129,8 +129,8 @@
 32,The amateur envied the players of the sport that,AnIn-high,target,64
 33,Sebastian took the recommendation of the agents who were,InAn-low,prime,65
 33,Sebastian took the recommendation of the agents which was,InAn-high,prime,66
-33,The activist joined the advocates of the cause that,AnIn-low,target,65
-33,The activist joined the advocates of the cause that,AnIn-high,target,66
+33,The principal appointed the chaperones of the trip that,AnIn-low,target,65
+33,The principal appointed the chaperones of the trip that,AnIn-high,target,66
 34,The agency marketed the image of the models who were,InAn-low,prime,67
 34,The agency marketed the image of the models which was,InAn-high,prime,68
 34,The host invited the guests of the celebration that,AnIn-low,target,67
@@ -157,8 +157,8 @@
 39,The minors vandalized the fence of the neighbors that,InAn-high,target,78
 40,Claudio commemorated the adventure of the backpackers who were,InAn-low,prime,79
 40,Claudio commemorated the adventure of the backpackers which was,InAn-high,prime,80
-40,The teacher resolved the dispute of the classmates,InAn-low,target,79
-40,The teacher resolved the dispute of the classmates,InAn-high,target,80
+40,The teacher encouraged the friendship of the classmates that,InAn-low,target,79
+40,The teacher encouraged the friendship of the classmates that,InAn-high,target,80
 41,The superstar boarded the yacht of the partygoers who were,InAn-low,prime,81
 41,The superstar boarded the yacht of the partygoers which was,InAn-high,prime,82
 41,The teenager enjoyed the reunion of the relatives that,InAn-low,target,81
@@ -181,8 +181,8 @@
 45,The veteran accompanied the climbers of the mountain that,AnIn-high,target,90
 46,The electrician left the kitchen of the housemates who were,InAn-low,prime,91
 46,The electrician left the kitchen of the housemates which was,InAn-high,prime,92
-46,The attorney sued the bosses of the institution that,AnIn-low,target,91
-46,The attorney sued the bosses of the institution that,AnIn-high,target,92
+46,The villain faced the defenders of the castle that,AnIn-low,target,91
+46,The villain faced the defenders of the castle that,AnIn-high,target,92
 47,The cast previewed the script of the playwrights who were,InAn-low,prime,93
 47,The cast previewed the script of the playwrights which was,InAn-high,prime,94
 47,The collector approached the sellers of the antique that ,AnIn-low,target,93
