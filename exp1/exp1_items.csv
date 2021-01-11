@@ -219,10 +219,10 @@ item,sentence,condition,type,target_verb,other_verb,number
 28,The company sent the eager athlete,DO-diff,prime,mail,send,110
 28,The company mailed the detailed questionnaire,PO-same,prime,mail,send,111
 28,The company sent the detailed questionnaire,PO-diff,prime,mail,send,112
-28,The father,DO-same,target,mail,send,109
-28,The father,DO-diff,target,mail,send,110
-28,The father,PO-same,target,mail,send,111
-28,The father,PO-diff,target,mail,send,112
+28,The father mailed,DO-same,target,mail,send,109
+28,The father mailed,DO-diff,target,mail,send,110
+28,The father mailed,PO-same,target,mail,send,111
+28,The father mailed,PO-diff,target,mail,send,112
 29,The rockstar mailed the young fan,DO-same,prime,mail,give,113
 29,The rockstar gave the young fan,DO-diff,prime,mail,give,114
 29,The rockstar mailed the last ticket,PO-same,prime,mail,give,115
