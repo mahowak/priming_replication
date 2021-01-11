@@ -1,4 +1,4 @@
-item,sentence,condition,type,target_verb,other_verb,number
+item,sentence,condition,type,target_verb,other_verb,pair_id
 1,The driving instructor gave the learner,DO-same,prime,give,hand,1
 1,The driving instructor handed the learner,DO-diff,prime,give,hand,2
 1,The driving instructor gave the certificate,PO-same,prime,give,hand,3
@@ -175,8 +175,8 @@ item,sentence,condition,type,target_verb,other_verb,number
 22,The motorist offered,DO-diff,target,offer,send,86
 22,The motorist offered,PO-same,target,offer,send,87
 22,The motorist offered,PO-diff,target,offer,send,88
-23,The blogger offered the penpal,DO-same,prime,offer,mail,89
-23,The blogger mailed the penpal,DO-diff,prime,offer,mail,90
+23,The blogger offered the pen pal,DO-same,prime,offer,mail,89
+23,The blogger mailed the pen pal,DO-diff,prime,offer,mail,90
 23,The blogger offered the money,PO-same,prime,offer,mail,91
 23,The blogger mailed the money,PO-diff,prime,offer,mail,92
 23,The runner offered,DO-same,target,offer,mail,89
@@ -223,10 +223,10 @@ item,sentence,condition,type,target_verb,other_verb,number
 28,The father mailed,DO-diff,target,mail,send,110
 28,The father mailed,PO-same,target,mail,send,111
 28,The father mailed,PO-diff,target,mail,send,112
-29,The rockstar mailed the young fan,DO-same,prime,mail,give,113
-29,The rockstar gave the young fan,DO-diff,prime,mail,give,114
-29,The rockstar mailed the last ticket,PO-same,prime,mail,give,115
-29,The rockstar gave the last ticket,PO-diff,prime,mail,give,116
+29,The rock star mailed the young fan,DO-same,prime,mail,give,113
+29,The rock star gave the young fan,DO-diff,prime,mail,give,114
+29,The rock star mailed the last ticket,PO-same,prime,mail,give,115
+29,The rock star gave the last ticket,PO-diff,prime,mail,give,116
 29,The volunteer mailed,DO-same,target,mail,give,113
 29,The volunteer mailed,DO-diff,target,mail,give,114
 29,The volunteer mailed,PO-same,target,mail,give,115
@@ -363,10 +363,10 @@ item,sentence,condition,type,target_verb,other_verb,number
 46,The nurse sent the doctor,DO-diff,prime,show,send,182
 46,The nurse showed the x-ray,PO-same,prime,show,send,183
 46,The nurse sent the x-ray,PO-diff,prime,show,send,184
-46,The jeweller showed,DO-same,target,show,send,181
-46,The jeweller showed,DO-diff,target,show,send,182
-46,The jeweller showed,PO-same,target,show,send,183
-46,The jeweller showed,PO-diff,target,show,send,184
+46,The jeweler showed,DO-same,target,show,send,181
+46,The jeweler showed,DO-diff,target,show,send,182
+46,The jeweler showed,PO-same,target,show,send,183
+46,The jeweler showed,PO-diff,target,show,send,184
 47,The baseball player showed the umpire,DO-same,prime,show,lend,185
 47,The baseball player lent the umpire,DO-diff,prime,show,lend,186
 47,The baseball player showed the ball,PO-same,prime,show,lend,187
